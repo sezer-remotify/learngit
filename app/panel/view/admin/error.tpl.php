@@ -1,0 +1,1 @@
+<div class="wojo negative message"><?php echo $this->error;?></div>

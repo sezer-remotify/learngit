@@ -1,0 +1,171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OT Help Center\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-26 08:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#: ot_help_center.php:33
+msgid "Add New"
+msgstr ""
+
+#: ot_help_center.php:84
+msgid "Add New Categories"
+msgstr ""
+
+#: ot_help_center.php:34
+msgid "Add New Help Center"
+msgstr ""
+
+#: ot_help_center.php:115
+msgid "Add New Tags"
+msgstr ""
+
+#: ot_help_center.php:79
+msgid "All Categories"
+msgstr ""
+
+#: ot_help_center.php:38
+msgid "All Help Center"
+msgstr ""
+
+#: ot_help_center.php:110
+msgid "All Tags"
+msgstr ""
+
+#: ot_help_center.php:76 ot_help_center.php:77 ot_help_center.php:86
+#: ot_help_center.php:95
+msgid "Categories"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Declares a plugin that will create a custom post type displaying help center."
+msgstr ""
+
+#: ot_help_center.php:82
+msgid "Edit Categories"
+msgstr ""
+
+#: ot_help_center.php:36
+msgid "Edit Help Center"
+msgstr ""
+
+#: ot_help_center.php:113
+msgid "Edit Tags"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://oceanthemes.net/"
+msgstr ""
+
+#: ot_help_center.php:48
+msgid "List Help Center"
+msgstr ""
+
+#: ot_help_center.php:85
+msgid "New Categories Name"
+msgstr ""
+
+#: ot_help_center.php:35
+msgid "New Help Center"
+msgstr ""
+
+#: ot_help_center.php:116
+msgid "New Tags Name"
+msgstr ""
+
+#: ot_help_center.php:187
+msgid "No Help Center Category"
+msgstr ""
+
+#: ot_help_center.php:202
+msgid "No Help Center Tag"
+msgstr ""
+
+#: ot_help_center.php:42
+msgid "No help center found in Trash."
+msgstr ""
+
+#: ot_help_center.php:41
+msgid "No help center found.."
+msgstr ""
+
+#. Author of the plugin
+msgid "OceanThemes"
+msgstr ""
+
+#. Name of the plugin
+msgid "OT Help Center"
+msgstr ""
+
+#: ot_help_center.php:245
+msgid "OT Help Center base"
+msgstr ""
+
+#: ot_help_center.php:80
+msgid "Parent Categories"
+msgstr ""
+
+#: ot_help_center.php:81
+msgid "Parent Categories:"
+msgstr ""
+
+#: ot_help_center.php:40
+msgid "Parent Help Center:"
+msgstr ""
+
+#: ot_help_center.php:111
+msgid "Parent Tags"
+msgstr ""
+
+#: ot_help_center.php:112
+msgid "Parent Tags:"
+msgstr ""
+
+#: ot_help_center.php:27 ot_help_center.php:30 ot_help_center.php:32
+msgid "Help Center"
+msgstr ""
+
+#: ot_help_center.php:78
+msgid "Search Categories"
+msgstr ""
+
+#: ot_help_center.php:39
+msgid "Search Help Center"
+msgstr ""
+
+#: ot_help_center.php:109
+msgid "Search Tags"
+msgstr ""
+
+#: ot_help_center.php:107 ot_help_center.php:108 ot_help_center.php:117
+msgid "Tags"
+msgstr ""
+
+#: ot_help_center.php:126
+msgid "tags"
+msgstr ""
+
+#: ot_help_center.php:83
+msgid "Update Categories"
+msgstr ""
+
+#: ot_help_center.php:114
+msgid "Update Tags"
+msgstr ""
+
+#: ot_help_center.php:37
+msgid "View Help Center"
+msgstr ""

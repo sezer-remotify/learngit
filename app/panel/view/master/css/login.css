@@ -1,0 +1,345 @@
+@font-face {
+  font-family: 'wSans';
+  src: url('../fonts/wSansLight.woff2') format('woff2'), url('../fonts/wSansLight.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+001D-212E;
+}
+@font-face {
+  font-family: 'wSans';
+  src: url('../fonts/wSansRegular.woff2') format('woff2'), url('../fonts/wSansRegular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-212E;
+}
+@font-face {
+  font-family: 'wSans';
+  src: url('../fonts/wSansMedium.woff2') format('woff2'), url('../fonts/wSansMedium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-212E;
+}
+@font-face {
+  font-family: 'wSans';
+  src: url('../fonts/wSansDemi.woff2') format('woff2'), url('../fonts/wSansDemi.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-212E;
+}
+@font-face {
+  font-family: 'wSans';
+  src: url('../fonts/wSansBold.woff2') format('woff2'), url('../fonts/wSansBold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-212E;
+}
+html,
+body {
+  font-size: 16px;
+  height: 100%;
+}
+body {
+  font-family: "wSans", Helvetica, Arial, sans-serif;
+  color: var(--body-color);
+  background-color: #172b4d;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 0 auto;
+  padding: 0;
+  height: 100vh;
+}
+/* a {
+  color: #8898aa;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-transition: all .35s ease;
+  -moz-transition: all .35s ease;
+  -o-transition: all .35s ease;
+  transition: all .35s ease;
+  outline: none;
+  cursor: pointer;
+} */
+.wojo.secondary.buttons .button, .wojo.secondary.button {
+  background-color: var(--secondary-color);
+  color: #fff;
+  border-color: var(--secondary-color)
+}
+.wojo.secondary.buttons .button:hover, .wojo.secondary.buttons .button:active, .wojo.secondary.buttons .button:focus, .wojo.secondary.button:hover, .wojo.secondary.button:active, .wojo.secondary.button:focus {
+  color: #fff;
+  background: var(--secondary-color-hover);
+  border-color: var(--secondary-color-hover)
+}
+.wojo.secondary.buttons .button:active, .wojo.secondary.buttons .button.active, .wojo.secondary.button:active, .wojo.secondary.button.active {
+  box-shadow: none
+}
+.wojo.simple.secondary.buttons .button, .wojo.simple.secondary.button {
+  color: var(--secondary-color);
+  border-color: transparent
+}
+.wojo.simple.secondary.button:hover, .wojo.simple.secondary.button.active, .wojo.simple.secondary.button:active {
+  color: var(--secondary-color-hover);
+  background: transparent
+}
+.wojo.basic.secondary.buttons .button, .wojo.basic.secondary.button {
+  border-color: var(--secondary-color);
+  color: var(--secondary-color)
+}
+.wojo.basic.secondary.button:hover, .wojo.basic.secondary.button.active, .wojo.basic.secondary.button:active {
+  color: #fff
+}
+.wojo.inverted.secondary.buttons .button, .wojo.inverted.secondary.button {
+  background-color: var(--secondary-color-inverted);
+  color: var(--secondary-color);
+  border-color: var(--secondary-color-inverted)
+}
+.wojo.inverted.secondary.buttons .button.active, .wojo.inverted.secondary.buttons .button:hover, .wojo.inverted.secondary.button:hover, .wojo.inverted.secondary.button.active, .wojo.inverted.secondary.button:active {
+  color: #fff;
+  background: var(--secondary-color);
+  border-color: var(--secondary-color)
+}
+.wojo.button {
+  cursor: pointer;
+  display: inline-flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  vertical-align: middle;
+  background-color: #757575;
+  color: #fff;
+  font-family: inherit;
+  font-weight: 600;
+  margin: 0;
+  padding: .875rem 1.875rem;
+  line-height: 1rem;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  border-radius: .250rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid #757575;
+  box-sizing: content-box;
+  -webkit-tap-highlight-color: transparent;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  position: relative;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, .1), 0 1px 3px rgba(0, 0, 0, .08)
+}
+.wojo.button:hover, .wojo.button:active, .wojo.button:focus {
+  color: #fff;
+  background: #616161;
+  border-color: #616161
+}
+.wojo.button:active, .wojo.button.active {
+  outline: 0 none;
+  box-shadow: none
+}
+div.wrap {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  min-height: 100%;
+  padding: 1rem;
+}
+h2 {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 2.5rem .5rem .875rem;
+  color: var(--grey-color-500);
+}
+.avatar {
+  margin-bottom: 2rem;
+}
+#formContent {
+  background: #f7fafc;
+  padding: 0;
+  border-radius: .5rem;
+  width: 90%;
+  max-width: 450px;
+  position: relative;
+  box-shadow: 0 0 2rem 0 rgba(0, 0, 0, .15);
+  text-align: center;
+}
+.formFooter {
+  background-color: #f6f9fc;
+  border-top: 1px solid #dee2e6;
+  padding: 1.750rem;
+  text-align: center;
+  border-radius: 0 0 .5rem .5rem;
+}
+footer {
+  text-align: center;
+  padding-top: 1rem;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.5);
+  margin-top: 2em;
+  font-size: .938em;
+}
+button, input {
+  overflow: visible;
+}
+.wojo.big.buttons .button, .wojo.big.button {
+  font-size: 1.25rem;
+  padding: 1em 2em
+}
+input[type="text"],
+input[type="password"] {
+  background-color: #fff;
+  color: #525f7f;
+  padding: .875rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: .875rem;
+  margin: .5rem;
+  width: 85%;
+  outline: none;
+  -webkit-appearance: none;
+  border: 2px solid #dee2e6;
+  transition: all 0.5s ease-in-out;
+  border-radius: .250rem;
+  font-family: inherit;
+  font-weight: 400;
+}
+input[type=text]:focus,
+input[type="password"]:focus {
+  background-color: #fff;
+  border: 2px solid #6979f8;
+  box-shadow: 0 1px 3px rgba(50, 50, 93, .15), 0 1px 0 rgba(0, 0, 0, .02);
+}
+input[type=text]:placeholder, input[type="password"]:placeholder {
+  color: #adb5bd;
+}
+input:-webkit-autofill {
+  box-shadow: 0 0 0px 30px #fff inset;
+  background-color: #fff;
+  -webkit-text-color: #fff;
+  color: #fff;
+}
+input:-webkit-autofill:focus {
+  -webkit-text-color: #fff;
+  color: #fff;
+}
+::-webkit-input-placeholder {
+  color: #cccccc;
+}
+.input-container.error {
+  background-color: rgba(248, 0, 0, 0.15);
+}
+button[name=submit],
+button[name=doopass] {
+  outline: none;
+  border: none;
+  color: #FFF;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: .750rem;
+  cursor: pointer;
+  box-shadow: 0 10px 30px 0 rgba(105, 121, 248, 0.1);
+  border-radius: .250rem;
+  user-select: none;
+  transition: all .3s ease-in-out;
+  font-family: inherit;
+  font-weight: 600;
+  margin: 1.5rem 1.5rem 2rem;
+  padding: 1rem 6rem;
+  background: #6979f8;
+}
+button[name=submit]:hover {
+  background-color: #5365f5;
+}
+button[name=submit]:active,
+button[name=doopass]:active {
+  transform: scale(0.95);
+}
+.underlineHover:after {
+  display: block;
+  left: 0;
+  bottom: -10px;
+  width: 0;
+  height: 2px;
+  background-color: #6979f8;
+  content: "";
+  transition: width 0.2s;
+}
+.underlineHover:hover {
+  color: #6979f8;
+}
+.underlineHover:hover:after {
+  width: 100%;
+}
+/* == Loading == */
+button.loading {
+  position: relative;
+  cursor: default;
+  color: transparent;
+  opacity: 1;
+  pointer-events: auto;
+  -webkit-transition: all 0s linear, opacity 0.1s ease;
+  transition: all 0s linear, opacity 0.1s ease;
+}
+button.loading:before {
+  position: absolute;
+  content: '';
+  top: 50%;
+  left: 50%;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 500rem;
+  transform: translate(-50%, -50%);
+  border: 4px solid rgba(0, 0, 0, 0.15);
+}
+button.loading:after {
+  position: absolute;
+  content: '';
+  top: 50%;
+  left: 50%;
+  width: 1.5em;
+  height: 1.5em;
+  margin-left: -.875em;
+  margin-top: -.875em;
+  -webkit-animation: button-spin 0.6s linear;
+  animation: button-spin 0.6s linear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  border-radius: 500rem;
+  border-color: #ffffff transparent transparent;
+  border-style: solid;
+  border-width: 4px;
+  box-shadow: 0px 0px 0px 1px transparent;
+}
+@-webkit-keyframes button-spin {
+  from {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes button-spin {
+  from {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}

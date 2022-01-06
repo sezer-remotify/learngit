@@ -1,0 +1,14 @@
+27/07/2020 – Version 1.1.1
+- Updated: WPBakery Page Builder version 6.2.0
+- Fixed: Call To Action section on footer, link error.
+- Files Updated: plugin-requires.php, footer.php, style.css
+
+
+09/10/2019 – Version 1.1.0
+- New added: Preload logo
+- Updated: 1-Click Import Demo Content
+- Removed: Remove Newsletter shortcode
+- Files Updated: functions.php, plugin-requires.php, shortcodes.php, vc_shortcode.php, customizer.php, template-functions.php, style.css
+
+04/10/2019 – Version 1.0.0
+* First release !

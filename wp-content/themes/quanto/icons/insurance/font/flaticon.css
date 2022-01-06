@@ -1,0 +1,66 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 11/05/2018 08:31
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+       
+font-style: normal;
+}
+
+.flaticon-001-wounded:before { content: "\f100"; }
+.flaticon-002-house-1:before { content: "\f101"; }
+.flaticon-003-disaster:before { content: "\f102"; }
+.flaticon-004-terrorist:before { content: "\f103"; }
+.flaticon-005-travel:before { content: "\f104"; }
+.flaticon-006-transport-2:before { content: "\f105"; }
+.flaticon-007-transport-1:before { content: "\f106"; }
+.flaticon-008-shield:before { content: "\f107"; }
+.flaticon-009-locked:before { content: "\f108"; }
+.flaticon-010-fire:before { content: "\f109"; }
+.flaticon-011-robbery:before { content: "\f10a"; }
+.flaticon-012-wheelchair:before { content: "\f10b"; }
+.flaticon-013-broken-glass:before { content: "\f10c"; }
+.flaticon-014-car-1:before { content: "\f10d"; }
+.flaticon-015-travel-insurance:before { content: "\f10e"; }
+.flaticon-016-bolt:before { content: "\f10f"; }
+.flaticon-017-house:before { content: "\f110"; }
+.flaticon-018-hospital-bed:before { content: "\f111"; }
+.flaticon-019-real-estate:before { content: "\f112"; }
+.flaticon-020-heart-rate:before { content: "\f113"; }
+.flaticon-021-elderly:before { content: "\f114"; }
+.flaticon-022-flooded-house:before { content: "\f115"; }
+.flaticon-023-finances:before { content: "\f116"; }
+.flaticon-024-insurance:before { content: "\f117"; }
+.flaticon-025-earthquake:before { content: "\f118"; }
+.flaticon-026-transfer:before { content: "\f119"; }
+.flaticon-027-crash:before { content: "\f11a"; }
+.flaticon-028-car:before { content: "\f11b"; }
+.flaticon-029-firefighter:before { content: "\f11c"; }
+.flaticon-030-transport:before { content: "\f11d"; }
+.flaticon-031-call-center:before { content: "\f11e"; }
+.flaticon-032-broken:before { content: "\f11f"; }
+.flaticon-033-baby:before { content: "\f120"; }
+.flaticon-034-ambulance:before { content: "\f121"; }
+.flaticon-035-accident:before { content: "\f122"; }
+.flaticon-036-tow-truck:before { content: "\f123"; }

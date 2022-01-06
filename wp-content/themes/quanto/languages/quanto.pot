@@ -1,0 +1,1439 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quanto\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-11 07:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.1.1"
+
+#: inc/frontend/template-tags.php:118
+msgid "% Comments"
+msgstr ""
+
+#. 1: list of categories.
+#. 1: list of tags.
+#: inc/frontend/template-tags.php:62 inc/frontend/template-tags.php:102
+#: inc/frontend/template-tags.php:109 inc/frontend/template-tags.php:136
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:242
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: comments.php:31
+msgid "(%) Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "(0) Comment"
+msgstr ""
+
+#: comments.php:31
+msgid "(1) Comment"
+msgstr ""
+
+#: inc/frontend/template-tags.php:59 inc/frontend/template-tags.php:99
+msgid ", "
+msgstr ""
+
+#: inc/frontend/template-tags.php:118
+msgid "0 Comment"
+msgstr ""
+
+#: inc/frontend/template-tags.php:118
+msgid "1 Comment"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:225 inc/backend/meta-boxes.php:345
+msgid "1 Star"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:226 inc/backend/meta-boxes.php:346
+msgid "1.5 Star"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:227 inc/backend/meta-boxes.php:347
+msgid "2 Star"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:228 inc/backend/meta-boxes.php:348
+msgid "2.5 Star"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:229 inc/backend/meta-boxes.php:349
+msgid "3 Star"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:230 inc/backend/meta-boxes.php:350
+msgid "3.5 Star"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:231 inc/backend/meta-boxes.php:351
+msgid "4 Star"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:232 inc/backend/meta-boxes.php:352
+msgid "4.5 Star"
+msgstr ""
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: inc/backend/customizer.php:299
+msgid "404 Page"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:233 inc/backend/meta-boxes.php:353
+msgid "5 Star"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:121
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/meta-boxes.php:207
+msgid "Add description for \"OT Credit Card\" style 2 element."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:490 inc/backend/meta-boxes.php:520
+#: inc/backend/meta-boxes.php:526
+msgid "Add short content for \"OT Credit Card Compare\" element."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:377
+msgid "Add short content for \"OT Credit Card\" element."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:213
+msgid "Add short content for \"OT Credit Card\" for style 1 element."
+msgstr ""
+
+#: functions.php:130 functions.php:140 functions.php:150 functions.php:160
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:119
+msgid "Add widgets here."
+msgstr ""
+
+#: template-parts/blog-list-thumbnail.php:13
+msgid "All"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:124
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:418
+msgid "Annual Fee Label"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:424
+msgid "Annual Fee Value"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:501
+msgid "APR"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:37
+msgid "Audio"
+msgstr ""
+
+#: inc/backend/customizer.php:861 inc/backend/meta-boxes.php:56
+msgid "Author"
+msgstr ""
+
+#: inc/backend/customizer.php:873
+msgid "Author Block"
+msgstr ""
+
+#: 404.php:23
+msgid "Back to Home"
+msgstr ""
+
+#: inc/backend/customizer.php:1328
+msgid "Background Body"
+msgstr ""
+
+#: inc/backend/customizer.php:1149
+msgid "Background Bottom Footer"
+msgstr ""
+
+#: inc/backend/customizer.php:681
+msgid "Background Dropdown Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:805
+msgid "Background Image"
+msgstr ""
+
+#: inc/backend/customizer.php:848 inc/backend/meta-boxes.php:123
+msgid "Background Image Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:622
+msgid "Background Navigation"
+msgstr ""
+
+#: inc/backend/customizer.php:727
+msgid "Background Navigation Scroll"
+msgstr ""
+
+#: inc/backend/customizer.php:941
+msgid "Background Page"
+msgstr ""
+
+#: inc/backend/customizer.php:573
+msgid "Background Top Bar"
+msgstr ""
+
+#: inc/backend/customizer.php:1118
+msgid "Background Top Footer"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:442
+msgid "Balance Transfer Intro APR Label"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:448
+msgid "Balance Transfer Intro APR Value"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:607
+msgid "Bank Account Settings"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:120
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/customizer.php:203
+msgid "Blog"
+msgstr ""
+
+#: inc/backend/customizer.php:821
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:264
+msgid "Blog Page"
+msgstr ""
+
+#: inc/backend/customizer.php:1175
+msgid "Body"
+msgstr ""
+
+#: inc/backend/customizer.php:661
+msgid "Border Color Bottom Link Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:755
+msgid "Border Color Bottom Navigation Scroll"
+msgstr ""
+
+#: inc/backend/customizer.php:707
+msgid "Border Dropdown Menu"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:495
+msgid "Bouns Offer"
+msgstr ""
+
+#: inc/backend/customizer.php:1301
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:798
+msgid "Breadcrumbs On/Off?"
+msgstr ""
+
+#: inc/backend/customizer.php:237
+msgid "Button Header"
+msgstr ""
+
+#: inc/backend/customizer.php:458 inc/backend/customizer.php:563
+msgid "Button Link"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:585 inc/backend/meta-boxes.php:626
+msgid "Button link 1"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:142
+msgid "Button Link 1 Subheader"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:597 inc/backend/meta-boxes.php:638
+msgid "Button link 2"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:154
+msgid "Button Link 2 Subheader"
+msgstr ""
+
+#: inc/backend/customizer.php:1013
+msgid "Button Link In Call To Action Section"
+msgstr ""
+
+#: inc/backend/customizer.php:451 inc/backend/customizer.php:555
+msgid "Button text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:382
+msgid "Button Text 1"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:579 inc/backend/meta-boxes.php:620
+msgid "Button text 1"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:136
+msgid "Button Text 1 Subheader"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:394
+msgid "Button Text 2"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:591 inc/backend/meta-boxes.php:632
+msgid "Button text 2"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:148
+msgid "Button Text 2 Subheader"
+msgstr ""
+
+#: inc/backend/customizer.php:999
+msgid "Button Text In Call To Action Section"
+msgstr ""
+
+#: inc/backend/customizer.php:879
+msgid "Button Text On Author Block"
+msgstr ""
+
+#: inc/backend/customizer.php:278
+msgid "Call To Action"
+msgstr ""
+
+#: inc/backend/customizer.php:964
+msgid "Call To Action On/Off?"
+msgstr ""
+
+#: inc/backend/customizer.php:1315
+msgid "Color Body"
+msgstr ""
+
+#: inc/backend/customizer.php:601
+msgid "Color Border Top Bar"
+msgstr ""
+
+#: inc/backend/customizer.php:648
+msgid "Color Hover Link Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:694
+msgid "Color Link Dropdown Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:635
+msgid "Color Link Menu"
+msgstr ""
+
+#: inc/backend/customizer.php:741
+msgid "Color Link Menu croll"
+msgstr ""
+
+#: inc/backend/customizer.php:587
+msgid "Color Text Top Bar"
+msgstr ""
+
+#: inc/backend/customizer.php:1130 inc/backend/customizer.php:1161
+msgid "Color Top Footer"
+msgstr ""
+
+#: inc/backend/nav-menus.php:46
+msgid "Column Width"
+msgstr ""
+
+#: inc/backend/customizer.php:859
+msgid "Comment"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:525
+msgid "Cons"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:30 inc/backend/plugin-requires.php:35
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/backend/customizer.php:373 inc/backend/customizer.php:386
+msgid "Contact Info"
+msgstr ""
+
+#: inc/backend/customizer.php:405
+msgid "Contact info content"
+msgstr ""
+
+#: inc/backend/customizer.php:357
+msgid "Contact Info On/Off?"
+msgstr ""
+
+#: inc/backend/customizer.php:1110
+msgid "Copyright"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:314
+msgid "Credit Card Settings"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:477
+msgid "Credit Score Info"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:483
+msgid "Credit Score Progress Bar"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:471
+msgid "Credit Score Text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:465
+msgid "Credit Score Title"
+msgstr ""
+
+#: inc/backend/customizer.php:1296
+msgid "Dark Version"
+msgstr ""
+
+#: inc/backend/customizer.php:860
+msgid "Date"
+msgstr ""
+
+#: inc/backend/customizer.php:341
+msgid "Default"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:177 inc/backend/meta-boxes.php:206
+#: inc/backend/meta-boxes.php:321 inc/backend/meta-boxes.php:542
+#: inc/backend/meta-boxes.php:573 inc/backend/meta-boxes.php:614
+msgid "Description"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:327
+msgid "Disclosure Text"
+msgstr ""
+
+#: inc/backend/recent-post.php:86
+msgid "Display post date?"
+msgstr ""
+
+#: comments.php:72
+msgid "E-mail"
+msgstr ""
+
+#: inc/backend/customizer.php:948
+msgid "E-mail Address"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:513
+msgid "Earning Rewards"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:183
+msgid "Email Address"
+msgstr ""
+
+#: inc/backend/customizer.php:1027
+msgid "Email Address In Call To Action Section"
+msgstr ""
+
+#: inc/backend/customizer.php:874
+msgid "Enable Author Block"
+msgstr ""
+
+#: inc/backend/customizer.php:894
+msgid "Enable related posts."
+msgstr ""
+
+#: inc/backend/customizer.php:927
+msgid "Enable show category."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:240
+msgid "Enter the number review text for \"OT Credit Card\" style 1 element."
+msgstr ""
+
+#: inc/backend/customizer.php:855
+msgid "Entry Meta"
+msgstr ""
+
+#: inc/backend/customizer.php:393
+msgid "Extra class name"
+msgstr ""
+
+#: inc/backend/customizer.php:776
+msgid "Font Style"
+msgstr ""
+
+#: inc/backend/customizer.php:208
+msgid "Footer"
+msgstr ""
+
+#: inc/backend/customizer.php:1082
+msgid "Footer Contact Info"
+msgstr ""
+
+#: inc/backend/customizer.php:1075
+msgid "Footer Contact Info On/Off?"
+msgstr ""
+
+#: inc/backend/customizer.php:285
+msgid "Footer Content"
+msgstr ""
+
+#: functions.php:128
+msgid "Footer First Widget Area"
+msgstr ""
+
+#: functions.php:158
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: inc/backend/customizer.php:1056
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:1062
+msgid "Footer Layout 1"
+msgstr ""
+
+#: inc/backend/customizer.php:1063
+msgid "Footer Layout 2"
+msgstr ""
+
+#: inc/backend/customizer.php:1068
+msgid "Footer page"
+msgstr ""
+
+#: functions.php:138
+msgid "Footer Second Widget Area"
+msgstr ""
+
+#: inc/backend/customizer.php:292
+msgid "Footer Styling"
+msgstr ""
+
+#: functions.php:148
+msgid "Footer Third Widget Area"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:17
+msgid "Format Details"
+msgstr ""
+
+#: inc/backend/customizer.php:829 inc/backend/customizer.php:843
+msgid "Full Content"
+msgstr ""
+
+#: inc/backend/customizer.php:342
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:31
+msgid "Gallery"
+msgstr ""
+
+#: inc/backend/customizer.php:195 inc/backend/customizer.php:216
+msgid "General"
+msgstr ""
+
+#: inc/frontend/template-tags.php:267
+msgid "Go"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:224 inc/backend/meta-boxes.php:344
+msgid "Half Star"
+msgstr ""
+
+#: inc/backend/customizer.php:198
+msgid "Header"
+msgstr ""
+
+#: inc/backend/customizer.php:244
+msgid "Header Landing"
+msgstr ""
+
+#: inc/backend/customizer.php:323
+msgid "Header Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:329
+msgid "Header Layout 1"
+msgstr ""
+
+#: inc/backend/customizer.php:330
+msgid "Header Layout 2"
+msgstr ""
+
+#: inc/backend/customizer.php:331
+msgid "Header Layout 3"
+msgstr ""
+
+#: inc/backend/customizer.php:1191
+msgid "Heading 1"
+msgstr ""
+
+#: inc/backend/customizer.php:1207
+msgid "Heading 2"
+msgstr ""
+
+#: inc/backend/customizer.php:1223
+msgid "Heading 3"
+msgstr ""
+
+#: inc/backend/customizer.php:1239
+msgid "Heading 4"
+msgstr ""
+
+#: inc/backend/customizer.php:1255
+msgid "Heading 5"
+msgstr ""
+
+#: inc/backend/customizer.php:1271
+msgid "Heading 6"
+msgstr ""
+
+#: inc/backend/nav-menus.php:47
+msgid "Hide Text"
+msgstr ""
+
+#. Name of the template
+msgid "Home 10"
+msgstr ""
+
+#. Name of the template
+msgid "Home 2"
+msgstr ""
+
+#. Name of the template
+msgid "Home 3"
+msgstr ""
+
+#. Name of the template
+msgid "Home 4"
+msgstr ""
+
+#. Name of the template
+msgid "Home 6"
+msgstr ""
+
+#. Name of the template
+msgid "Home 7"
+msgstr ""
+
+#. Name of the template
+msgid "Home 9"
+msgstr ""
+
+#: inc/backend/menu-walker.php:149
+msgid "Hot"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:304
+msgid "Hotline"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://wpdemo2.oceanthemes.net/quanto"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:548 inc/backend/meta-boxes.php:566
+msgid "Icon"
+msgstr ""
+
+#: inc/backend/customizer.php:399 inc/backend/customizer.php:441
+#: inc/backend/customizer.php:1102
+msgid "Icon class name"
+msgstr ""
+
+#: inc/frontend/template-functions.php:132
+msgid "If checked, z-index big will used to on column"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:24
+msgid "Image"
+msgstr ""
+
+#: inc/backend/customizer.php:528
+msgid "Info"
+msgstr ""
+
+#: inc/backend/customizer.php:520
+msgid "Info On/Off?"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:109
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:108
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:110
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Insurance Flat Icon"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:171
+msgid "Job"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:19
+msgid "Kirki"
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#: inc/backend/customizer.php:365
+msgid "Left Content"
+msgstr ""
+
+#: inc/backend/customizer.php:828 inc/backend/customizer.php:842
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:256
+msgid "Lender APR Value"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:280
+msgid "Lender Fee Alt Title"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:274
+msgid "Lender Fee Text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:286
+msgid "Lender Fee Value"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:298
+msgid "Lender Payment"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:292
+msgid "Lender Payment Text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:262
+msgid "Lender Rate Text"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:268
+msgid "Lender Rate Value"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:249
+msgid "Lenders Rate Detail"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:199
+msgid "Lenders Settings"
+msgstr ""
+
+#: inc/backend/customizer.php:1295
+msgid "Light Version"
+msgstr ""
+
+#: inc/backend/customizer.php:543
+msgid "Link"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:388
+msgid "Link 1"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:400
+msgid "Link 2"
+msgstr ""
+
+#: inc/backend/customizer.php:955
+msgid "Link For Mail"
+msgstr ""
+
+#: inc/backend/customizer.php:1041
+msgid "Link Send E-mail"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/frontend/template-tags.php:133
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/frontend/template-tags.php:106
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/backend/meta-boxes.php:559
+msgid "loan Settings"
+msgstr ""
+
+#: inc/backend/customizer.php:230
+msgid "Logo"
+msgstr ""
+
+#: inc/backend/customizer.php:487
+msgid "Logo Height(px)"
+msgstr ""
+
+#: inc/backend/customizer.php:467
+msgid "Logo Image"
+msgstr ""
+
+#: inc/backend/customizer.php:500
+msgid "Logo Margin"
+msgstr ""
+
+#: inc/backend/customizer.php:474
+msgid "Logo Width(px)"
+msgstr ""
+
+#: inc/backend/nav-menus.php:44 inc/backend/nav-menus.php:73
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/backend/nav-menus.php:45
+msgid "Mega Menu Width"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:14
+msgid "Meta Box"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:535
+msgid "Mortgage Settings"
+msgstr ""
+
+#: comments.php:66
+msgid "Name"
+msgstr ""
+
+#: inc/backend/menu-walker.php:151
+msgid "New"
+msgstr ""
+
+#: inc/frontend/template-functions.php:116
+msgid "None"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/backend/recent-post.php:82
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:238
+msgid "Number Of Reviews"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:189
+msgid "Number Phone"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:358
+msgid "Number Reviews"
+msgstr ""
+
+#: inc/backend/customizer.php:912
+msgid "Number Show Related Post"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:507
+msgid "Ongoing APR"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:46
+msgid "OT Bank Account"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:52
+msgid "OT Credit Card"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:58
+msgid "OT Gallery"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:64
+msgid "OT Help Center"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:70
+msgid "OT Lender"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:76
+msgid "OT Loan"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:82
+msgid "OT Mortgage"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:94
+msgid "OT One Click Demo Content"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:40
+msgid "OT Portfolio"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:88
+msgid "OT Team"
+msgstr ""
+
+#: inc/backend/customizer.php:258
+msgid "Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:791 inc/backend/meta-boxes.php:103
+msgid "Page Header On/Off?"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:112
+msgid "Page Header Style"
+msgstr ""
+
+#: 404.php:19
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:77
+msgid "Page Settings"
+msgstr ""
+
+#: inc/frontend/template-functions.php:113
+msgid "Pattern Column"
+msgstr ""
+
+#: inc/frontend/template-functions.php:117
+msgid "Pattern Left Bottom"
+msgstr ""
+
+#: inc/frontend/template-functions.php:121
+msgid "Pattern Left Bottom + Right Top"
+msgstr ""
+
+#: inc/frontend/template-functions.php:118
+msgid "Pattern Left Top"
+msgstr ""
+
+#: inc/frontend/template-functions.php:119
+msgid "Pattern Right Bottom"
+msgstr ""
+
+#: inc/frontend/template-functions.php:122
+msgid "Pattern Right Bottom + Left Top"
+msgstr ""
+
+#: inc/frontend/template-functions.php:120
+msgid "Pattern Right Top"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:123
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. %s: post author.
+#: inc/frontend/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post author.
+#: inc/frontend/template-tags.php:95
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/frontend/template-tags.php:29 inc/frontend/template-tags.php:89
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: inc/backend/customizer.php:1348
+msgid "Primary Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1376
+msgid "Primary Hover Color"
+msgstr ""
+
+#: functions.php:117
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:519
+msgid "Pros"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:430
+msgid "Purchase Intro APR Label"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:436
+msgid "Purchase Intro APR Value"
+msgstr ""
+
+#. Name of the theme
+msgid "Quanto"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Quanto is the most comprehensive and flexible WordPress website template, "
+"for any kind of business website. With ready to use web page layout design "
+"and use as many of our pre-configured pages as you like."
+msgstr ""
+
+#: inc/backend/recent-post.php:11
+msgid "quanto Recent Posts"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:48
+msgid "Quote"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/backend/meta-boxes.php:458
+msgid "Recommended Credit Score"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:406
+msgid "Regular APR Label"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:412
+msgid "Regular APR Value"
+msgstr ""
+
+#: inc/backend/customizer.php:893
+msgid "Related Posts"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:122
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:218 inc/backend/meta-boxes.php:339
+msgid "Review"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:333
+msgid "Reviews Title"
+msgstr ""
+
+#: inc/backend/customizer.php:827 inc/backend/customizer.php:841
+msgid "Right Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto Slab, translate this to 'off'. Do not translate into your own language.
+#: functions.php:188
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/backend/nav-menus.php:74
+msgid "Save Menu"
+msgstr ""
+
+#: inc/frontend/template-tags.php:265
+msgid "Search Here &hellip;"
+msgstr ""
+
+#: inc/frontend/page-header.php:29
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/backend/customizer.php:1355
+msgid "Second Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1383
+msgid "Second Hover Color"
+msgstr ""
+
+#: inc/backend/customizer.php:825
+msgid "Select default sidebar for the blog page."
+msgstr ""
+
+#: inc/backend/customizer.php:839
+msgid "Select default sidebar for the single post page."
+msgstr ""
+
+#: inc/frontend/template-functions.php:124
+msgid "Select Pattern , Default: None"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:221
+msgid "select review for \"OT Credit Card\" style 1 element."
+msgstr ""
+
+#: inc/backend/customizer.php:1293
+msgid "Select theme version"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:212 inc/backend/meta-boxes.php:376
+msgid "Short Content"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:489
+msgid "Short Content Object"
+msgstr ""
+
+#: inc/backend/customizer.php:926
+msgid "Show Category On Relate Post"
+msgstr ""
+
+#: inc/backend/customizer.php:271
+msgid "Single Post"
+msgstr ""
+
+#: inc/backend/customizer.php:835
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/backend/customizer.php:435 inc/backend/customizer.php:1096
+msgid "Social Link"
+msgstr ""
+
+#: inc/backend/customizer.php:421
+msgid "Socials"
+msgstr ""
+
+#: inc/backend/customizer.php:413
+msgid "Socials Info On/Off?"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:111
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/backend/plugin-requires.php:117
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:114
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:119
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/meta-boxes.php:117
+msgid "Style 1"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:118
+msgid "Style 2"
+msgstr ""
+
+#: inc/backend/customizer.php:394
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/backend/customizer.php:251 inc/backend/customizer.php:311
+msgid "Styling"
+msgstr ""
+
+#: inc/backend/customizer.php:985
+msgid "Subtitle In Call To Action Section"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:130
+msgid "Subtitle Page Header"
+msgstr ""
+
+#: inc/backend/customizer.php:812
+msgid "Subtitle Subheader"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:164
+msgid "Team Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Template Blog List Thumbnail"
+msgstr ""
+
+#. Name of the template
+msgid "Template Blog Masonry"
+msgstr ""
+
+#: inc/backend/customizer.php:548
+msgid "Text"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:118
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:116
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:115
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/recent-post.php:10
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: inc/backend/customizer.php:1289
+msgid "Theme Version"
+msgstr ""
+
+#: inc/backend/customizer.php:1362
+msgid "Third Color"
+msgstr ""
+
+#: inc/backend/customizer.php:1390
+msgid "Third Hover Color"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:113
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/plugin-requires.php:112
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/backend/customizer.php:406
+msgid "This will be the contact info content"
+msgstr ""
+
+#: inc/backend/customizer.php:442 inc/backend/customizer.php:1103
+msgid ""
+"This will be the contact info icon: https://fontawesome.com/icons/ , ex: fa "
+"fa-phone"
+msgstr ""
+
+#: inc/backend/customizer.php:400
+msgid ""
+"This will be the contact info icon: https://fontawesome.com/icons/ , ex: fas "
+"fa-phone"
+msgstr ""
+
+#: inc/backend/customizer.php:436 inc/backend/customizer.php:1097
+msgid "This will be the contact info name"
+msgstr ""
+
+#: inc/backend/customizer.php:971
+msgid "Title In Call To Action Section"
+msgstr ""
+
+#: inc/backend/customizer.php:899
+msgid "Title On Section Related Post"
+msgstr ""
+
+#: inc/backend/recent-post.php:79
+msgid "Title:"
+msgstr ""
+
+#: inc/backend/customizer.php:347
+msgid "Top Bar On/Off?"
+msgstr ""
+
+#: inc/backend/customizer.php:223
+msgid "Top Header"
+msgstr ""
+
+#: inc/backend/customizer.php:305
+msgid "Typography"
+msgstr ""
+
+#: inc/backend/customizer.php:349 inc/backend/customizer.php:361
+#: inc/backend/customizer.php:369 inc/backend/customizer.php:376
+#: inc/backend/customizer.php:417 inc/backend/customizer.php:577
+#: inc/backend/customizer.php:591 inc/backend/customizer.php:605
+msgid "Use for header layout 1"
+msgstr ""
+
+#: inc/backend/customizer.php:731 inc/backend/customizer.php:745
+#: inc/backend/customizer.php:759
+msgid "Use for header layout 2+3"
+msgstr ""
+
+#: inc/backend/customizer.php:524 inc/backend/customizer.php:531
+#: inc/backend/customizer.php:559 inc/backend/customizer.php:567
+msgid "Use for template landing"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:364
+msgid "Value 1"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:370
+msgid "Value 2"
+msgstr ""
+
+#: inc/backend/meta-boxes.php:62
+msgid "Video"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"We are sorry, the page you requested could not be found.\n"
+"                            Please go back to the homepage or contact us at"
+msgstr ""
+
+#: comments.php:78
+msgid "Website"
+msgstr ""
+
+#: inc/backend/customizer.php:336
+msgid "Width header"
+msgstr ""
+
+#: inc/backend/plugin-requires.php:24
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: comments.php:58
+msgid "Write A Comment"
+msgstr ""
+
+#: inc/frontend/template-tags.php:246
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:60
+msgid "Your Comments"
+msgstr ""
+
+#: inc/frontend/template-functions.php:129
+msgid "z-index Big"
+msgstr ""

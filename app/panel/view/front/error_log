@@ -1,0 +1,404 @@
+[24-Dec-2021 11:20:22 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('sburcuyilmaz91@...', 'Thewinchesters1...', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 13:47:15 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('uxcandan@gmail....', 'Remotify599', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 13:52:47 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('jewasog981@wwde...', 'asd123!', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 13:56:02 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(523): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(51): Auth->checkVerification('jewasog981@wwde...', 'asd123!', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 14:17:55 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('perotal946@wwde...', 'asd123!', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 14:20:19 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('nobiso8402@zoey...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 14:20:55 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('laviw30659@xxyx...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 14:27:09 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Connection could not be established with host ni-safari.guzelhosting.com [Connection refused #111] in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/StreamBuffer.php:269
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/StreamBuffer.php(62): Swift_Transport_StreamBuffer->_establishSocketConnection()
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(113): Swift_Transport_StreamBuffer->initialize(Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('hojiw99919@zoey...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/StreamBuffer.php on line 269
+[24-Dec-2021 14:28:18 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('dogim42521@wwde...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 14:32:46 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('xecot36505@xxyx...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 14:33:26 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('dofene7527@zher...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 14:55:22 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('sefif78031@zher...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 14:56:01 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('nokefa6236@zher...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 15:25:01 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('tedaxod988@xxyx...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 15:51:12 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('riwocob546@zher...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 15:51:38 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('woxos67447@wwde...', '123456', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 17:03:30 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('Ladiheaven@gmai...', 'Createjob321+@', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 17:22:49 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(523): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(51): Auth->checkVerification('ladiheaven@gmai...', 'Createjob321+@', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 18:06:40 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(523): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(51): Auth->checkVerification('ladiheaven@gmai...', 'Createjob321+@', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 18:25:28 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(523): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(51): Auth->checkVerification('ladiheaven@gmai...', 'Createjob321+@', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 20:14:52 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('emirhan_0607@ho...', 'aU7bsEfLwR.DXSn', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[24-Dec-2021 20:17:23 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(523): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(51): Auth->checkVerification('emirhan_0607@ho...', 'aU7bsEfLwR.DXSn', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[25-Dec-2021 21:18:14 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('emre.tapci@gmai...', '.giJ93xQcj7xG8F', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[25-Dec-2021 21:19:45 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/front.class.php(352): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(31): Front->passReset(true)
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[25-Dec-2021 21:20:23 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/front.class.php(352): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(31): Front->passReset(true)
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[25-Dec-2021 21:22:04 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/front.class.php(352): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(31): Front->passReset(true)
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[25-Dec-2021 21:22:17 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/front.class.php(352): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(31): Front->passReset(true)
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[26-Dec-2021 17:26:59 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(523): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(51): Auth->checkVerification('perotal946@wwde...', 'asd123!', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[26-Dec-2021 17:28:23 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('bilimec248@satu...', 'asd123!', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[26-Dec-2021 20:36:09 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('toofan.tah@gmai...', 'dracola912', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[26-Dec-2021 20:36:57 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('sarasaberdev@gm...', 'Omimama2017', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[26-Dec-2021 20:55:38 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('shadman.ko@gmai...', 'Sasuk3Uchih4', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[26-Dec-2021 21:02:11 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(523): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(51): Auth->checkVerification('shadman.ko@gmai...', 'Sasuk3Uchih4', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[27-Dec-2021 10:40:17 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/front.class.php(352): Swift_Mailer->send(Object(Swift_Message))
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(31): Front->passReset(true)
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[27-Dec-2021 11:37:54 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('dujysu@kellychi...', 'hasancan11', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[27-Dec-2021 11:42:50 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "no-reply@remotify.co" using 2 possible authenticators in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php:181
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(333): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#3 /home/kolayekr/remotify.co/app/panel/lib/auth.class.php(348): Swift_Mailer->send(Object(Swift_Message), Array)
+#4 /home/kolayekr/remotify.co/app/panel/view/front/controller.php(46): Auth->register('merve.devranlii...', 'SM.220714', 'true')
+#5 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php on line 181
+[27-Dec-2021 11:51:16 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u3sm574269ljo.95 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Swift in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 11:51:42 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q15sm1579547lfc.215 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Sw in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 11:53:14 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials s29sm1579256lfc.227 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Sw in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 12:31:41 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q2sm1599155lfr.64 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Swif in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 12:34:59 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials bp39sm1591226lfb.176 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): S in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 12:39:22 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d5sm1595697lfv.83 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Swif in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 12:56:49 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m2sm1590548lfu.254 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Swi in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 13:02:11 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials x11sm1603292lfr.171 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Sw in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 13:06:09 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f33sm1604571lfv.39 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Swi in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383
+[27-Dec-2021 13:17:10 Europe/Istanbul] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u7sm917242lff.274 - gsmtp
+" in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php:383
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/EsmtpTransport.php(269): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/Auth/XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/Esmtp/AuthHandler.php(176): Swif in /home/kolayekr/remotify.co/app/panel/lib/swift/classes/Swift/Transport/AbstractSmtpTransport.php on line 383

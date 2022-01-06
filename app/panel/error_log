@@ -1,0 +1,420 @@
+[20-Dec-2021 12:03:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('791')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[20-Dec-2021 23:41:22 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS b
+                LEFT JOIN `users` AS uON b.user_id = u.id
+                W' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, u.c...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1533): Db->pdoQuery('SELECT b.*, u.c...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1407): Master::getProjectBids('180')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->ProjectBids('180')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@ProjectB...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/pane in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[20-Dec-2021 23:43:59 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS b
+                LEFT JOIN `users` AS uON b.user_id = u.id
+                W' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, u.c...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1533): Db->pdoQuery('SELECT b.*, u.c...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1407): Master::getProjectBids('180')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->ProjectBids('180')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@ProjectB...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/pane in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[20-Dec-2021 23:44:03 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS b
+                LEFT JOIN `users` AS uON b.user_id = u.id
+                W' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, u.c...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1533): Db->pdoQuery('SELECT b.*, u.c...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1407): Master::getProjectBids('180')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->ProjectBids('180')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@ProjectB...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/pane in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[20-Dec-2021 23:44:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS b
+                LEFT JOIN `users` AS u ON b.user_id = u.id
+                ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, u.c...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1533): Db->pdoQuery('SELECT b.*, u.c...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1407): Master::getProjectBids('180')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->ProjectBids('180')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@ProjectB...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/pane in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[20-Dec-2021 23:52:54 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS b
+                LEFT JOIN `users` AS u ON b.user_id = u.id
+                ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, u.c...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1533): Db->pdoQuery('SELECT b.*, u.c...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1407): Master::getProjectBids('180')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->ProjectBids('180')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@ProjectB...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/pane in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[21-Dec-2021 01:03:30 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('767')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[21-Dec-2021 01:04:01 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`timerecord` AS tr
+				LEFT JOIN `users` AS m  ON m.id = tr.user_id
+				LEFT JOI' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT tr.*, DA...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/project.class.php(547): Db->pdoQuery('SELECT tr.*, DA...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/masterProject.class.php(234): Project->getProjectTimeRecords('187')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): masterProject->TimeRecords('187')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('masterProject@T...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[21-Dec-2021 10:25:50 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`timerecord` AS tr
+				LEFT JOIN `users` AS m  ON m.id = tr.user_id
+				LEFT JOI' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT tr.*, DA...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/project.class.php(547): Db->pdoQuery('SELECT tr.*, DA...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/project.class.php(466): Project->getProjectTimeRecords('193')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Project->TimeRecords('193')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Project@TimeRec...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[21-Dec-2021 11:29:24 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`timerecord` AS tr
+				LEFT JOIN `users` AS m  ON m.id = tr.user_id
+				LEFT JOI' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT tr.*, DA...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/project.class.php(547): Db->pdoQuery('SELECT tr.*, DA...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/masterProject.class.php(234): Project->getProjectTimeRecords('105')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): masterProject->TimeRecords('105')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('masterProject@T...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[21-Dec-2021 15:03:49 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`timerecord` AS tr
+				LEFT JOIN `users` AS m  ON m.id = tr.user_id
+				LEFT JOI' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT tr.*, DA...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/project.class.php(547): Db->pdoQuery('SELECT tr.*, DA...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/project.class.php(466): Project->getProjectTimeRecords('193')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Project->TimeRecords('193')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Project@TimeRec...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[21-Dec-2021 21:47:28 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('801')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[21-Dec-2021 22:01:47 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('621')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 12:11:20 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('813')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:53:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('814')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:53:58 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('814')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:53:58 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('814')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:54:21 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:54:59 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:55:00 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:55:52 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:55:58 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 13:56:20 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 14:11:49 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 14:11:50 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 14:12:21 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids(0)
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Router-> in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 14:17:21 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`bids` AS b
+                LEFT JOIN `projects` AS p ON b.project_id = p.id
+   ' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT b.*, p.n...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1469): Db->pdoQuery('SELECT b.*, p.n...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/master.class.php(1373): Master::getUserBids('746')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Master->Bids()
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Master@Bids', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr/remotify.co/app/panel/index.php(351): Rout in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 14:19:15 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`timerecord` AS tr
+				LEFT JOIN `users` AS m  ON m.id = tr.user_id
+				LEFT JOI' at line 1 in /home/kolayekr/remotify.co/app/panel/lib/db.class.php:244
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/db.class.php(244): PDO->prepare('SELECT tr.*, DA...')
+#1 /home/kolayekr/remotify.co/app/panel/lib/project.class.php(547): Db->pdoQuery('SELECT tr.*, DA...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/masterProject.class.php(234): Project->getProjectTimeRecords('180')
+#3 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): masterProject->TimeRecords('180')
+#4 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('masterProject@T...', Array)
+#5 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#6 /home/kolayekr in /home/kolayekr/remotify.co/app/panel/lib/db.class.php on line 244
+[22-Dec-2021 14:26:07 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[22-Dec-2021 15:47:19 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[28-Dec-2021 14:37:26 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[28-Dec-2021 14:39:22 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[28-Dec-2021 16:49:38 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[28-Dec-2021 21:28:49 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[31-Dec-2021 14:55:02 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 14:55:02 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 14:56:15 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 14:56:15 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 14:56:31 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 14:56:31 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 14:58:49 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 14:58:49 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:00:01 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:00:01 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:02:01 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:02:01 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:04:32 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:04:32 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:05:06 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:05:06 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:05:27 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:05:27 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:05:30 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:05:30 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:05:32 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:05:32 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:06:47 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Resource temporarily unavailable in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:06:47 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:08:07 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:08:07 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:20:34 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:20:34 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:30:50 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[31-Dec-2021 15:30:50 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[02-Jan-2022 17:55:05 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[02-Jan-2022 22:15:32 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[04-Jan-2022 14:32:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method Auth::loginLinkedin() in /home/kolayekr/remotify.co/app/panel/lib/front.class.php:207
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Front->LinkedinCallback()
+#1 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Front@LinkedinC...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#3 /home/kolayekr/remotify.co/app/panel/index.php(352): Router->run(Object(Closure))
+#4 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/front.class.php on line 207
+[04-Jan-2022 14:38:29 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:38:29 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:38:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method Auth::loginLinkedin() in /home/kolayekr/remotify.co/app/panel/lib/front.class.php:207
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Front->LinkedinCallback()
+#1 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Front@LinkedinC...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#3 /home/kolayekr/remotify.co/app/panel/index.php(352): Router->run(Object(Closure))
+#4 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/front.class.php on line 207
+[04-Jan-2022 14:41:06 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:41:06 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:42:45 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:42:45 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:46:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method Auth::loginLinkedin() in /home/kolayekr/remotify.co/app/panel/lib/front.class.php:207
+Stack trace:
+#0 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(349): Front->LinkedinCallback()
+#1 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(309): Router->invoke('Front@LinkedinC...', Array)
+#2 /home/kolayekr/remotify.co/app/panel/lib/router.class.php(245): Router->handle(Array, true)
+#3 /home/kolayekr/remotify.co/app/panel/index.php(352): Router->run(Object(Closure))
+#4 {main}
+  thrown in /home/kolayekr/remotify.co/app/panel/lib/front.class.php on line 207
+[04-Jan-2022 14:46:31 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:46:31 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:46:46 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:46:46 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:47:09 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:47:09 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:48:05 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:48:05 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:48:11 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:48:11 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:49:02 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:49:02 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:51:14 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:51:14 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:53:12 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:53:12 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:53:39 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:53:39 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:53:56 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:53:56 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:54:50 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:54:50 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:55:18 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:55:18 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:55:52 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:55:52 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:55:59 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:55:59 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:56:15 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:56:15 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:56:34 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:56:34 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:56:44 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:56:44 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:56:48 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[04-Jan-2022 14:56:48 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib') in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[05-Jan-2022 16:27:20 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[05-Jan-2022 16:27:20 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[05-Jan-2022 16:27:31 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[05-Jan-2022 16:27:31 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[05-Jan-2022 16:29:43 Europe/Istanbul] PHP Warning:  include_once(/home/kolayekr/remotify.co/app/panel/view): failed to open stream: Success in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[05-Jan-2022 16:29:43 Europe/Istanbul] PHP Warning:  include_once(): Failed opening '/home/kolayekr/remotify.co/app/panel/view/' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co/app/panel/lib:/home/kolayekr/remotify.co in /home/kolayekr/remotify.co/app/panel/lib/view.class.php on line 59
+[05-Jan-2022 18:57:51 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138
+[06-Jan-2022 13:42:06 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/kolayekr/remotify.co/app/panel/view/admin/freelancer_list.tpl.php on line 138

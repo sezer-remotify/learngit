@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OT Portfolios v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-15 04:45:01+0000\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: ot_portfolio.php:31
+#: ot_portfolio.php:32
+#: ot_portfolio.php:42
+#@ ot-portfolio
+msgid "Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:33
+#: ot_portfolio.php:34
+#@ ot-portfolio
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:35
+#@ ot-portfolio
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:36
+#@ ot-portfolio
+msgid "New Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:37
+#@ ot-portfolio
+msgid "View Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:38
+#@ ot-portfolio
+msgid "Search Portfolios"
+msgstr ""
+
+#: ot_portfolio.php:39
+#@ ot-portfolio
+msgid "No Portfolios found"
+msgstr ""
+
+#: ot_portfolio.php:40
+#@ ot-portfolio
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: ot_portfolio.php:41
+#@ ot-portfolio
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ot_portfolio.php:79
+#: ot_portfolio.php:80
+#: ot_portfolio.php:89
+#@ ot-portfolio
+msgid "Categories"
+msgstr ""
+
+#: ot_portfolio.php:81
+#@ ot-portfolio
+msgid "Search Categories"
+msgstr ""
+
+#: ot_portfolio.php:82
+#@ ot-portfolio
+msgid "All Categories"
+msgstr ""
+
+#: ot_portfolio.php:83
+#@ ot-portfolio
+msgid "Parent Categories"
+msgstr ""
+
+#: ot_portfolio.php:84
+#@ ot-portfolio
+msgid "Parent Categories:"
+msgstr ""
+
+#: ot_portfolio.php:85
+#@ ot-portfolio
+msgid "Edit Categories"
+msgstr ""
+
+#: ot_portfolio.php:86
+#@ ot-portfolio
+msgid "Update Categories"
+msgstr ""
+
+#: ot_portfolio.php:87
+#@ ot-portfolio
+msgid "Add New Categories"
+msgstr ""
+
+#: ot_portfolio.php:88
+#@ ot-portfolio
+msgid "New Categories Name"
+msgstr ""
+
+#: ot_portfolio.php:114
+#: ot_portfolio.php:115
+#: ot_portfolio.php:124
+#@ ot-portfolio
+msgid "Tags"
+msgstr ""
+
+#: ot_portfolio.php:116
+#@ ot-portfolio
+msgid "Search Tags"
+msgstr ""
+
+#: ot_portfolio.php:117
+#@ ot-portfolio
+msgid "All Tags"
+msgstr ""
+
+#: ot_portfolio.php:118
+#@ ot-portfolio
+msgid "Parent Tags"
+msgstr ""
+
+#: ot_portfolio.php:119
+#@ ot-portfolio
+msgid "Parent Tags:"
+msgstr ""
+
+#: ot_portfolio.php:120
+#@ ot-portfolio
+msgid "Edit Tags"
+msgstr ""
+
+#: ot_portfolio.php:121
+#@ ot-portfolio
+msgid "Update Tags"
+msgstr ""
+
+#: ot_portfolio.php:122
+#@ ot-portfolio
+msgid "Add New Tags"
+msgstr ""
+
+#: ot_portfolio.php:123
+#@ ot-portfolio
+msgid "New Tags Name"
+msgstr ""
+
+#: template/single-portfolio.php:50
+#@ pallas
+msgid "prev"
+msgstr ""
+
+#: template/single-portfolio.php:51
+#@ pallas
+msgid "next"
+msgstr ""
+
+#: template/taxonomy-categories.php:11
+#, php-format
+#@ $textdoimain
+msgid "Category Archives Portfolio: %s"
+msgstr ""
+
+#: template/taxonomy-categories.php:23
+#, php-format
+#@ $textdoimain
+msgid "%s"
+msgstr ""
+

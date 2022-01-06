@@ -1,0 +1,3 @@
+[20-Dec-2021 11:02:08 Europe/Minsk] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/kolayekr/remotify.co/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 11:02:08 Europe/Minsk] PHP Warning:  require(ABSPATHWPINC/blocks/archives.php): failed to open stream: No such file or directory in /home/kolayekr/remotify.co/wp-includes/blocks/index.php on line 9
+[20-Dec-2021 11:02:08 Europe/Minsk] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/blocks/archives.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/kolayekr/remotify.co/wp-includes/blocks/index.php on line 9

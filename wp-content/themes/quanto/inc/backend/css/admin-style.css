@@ -1,0 +1,10 @@
+.wpb_vc_param_value {
+    display: inline-block;
+    overflow: inherit!important;
+    margin-right: 5px;
+    position: relative;
+}
+div.vc_edit_form_elements .vc_column.vc_column{
+    padding-top: 15px;
+    padding-bottom: 10px;
+}

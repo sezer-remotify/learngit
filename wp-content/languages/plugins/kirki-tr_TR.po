@@ -1,0 +1,488 @@
+# Translation of Plugins - Kirki Customizer Framework - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Kirki Customizer Framework - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-20 21:51:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Kirki Customizer Framework - Stable (latest release)\n"
+
+#: controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr "Varsayılan tarayıcı yazı tipi ailesi"
+
+#: controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr "CSS varsayılanları"
+
+#: controls/views/image.php:40 field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "Görsel seçin"
+
+#: controls/views/image.php:38 field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "Hiçbir görsel seçilmedi"
+
+#: controls/views/image.php:35 field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "Görseli değiştir"
+
+#: controls/views/image.php:34 controls/views/image.php:39
+#: field/class-kirki-field-image.php:47 field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "Görsel seçin"
+
+#: controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "Üstü çizili"
+
+#: controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr "Altı çizili"
+
+#: controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "Metin biçimlendirme"
+
+#: controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Google yazı tipleri"
+
+#: controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "Standart yazı tipleri"
+
+#: controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s ya da %2$s"
+
+#: core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Kirki alanları, customize_register'a eklenmemelidir. Lütfen doğrudan veya init'e ekleyin."
+
+#: core/class-kirki-init.php:289
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "Kirki_Init::get_variables() kullanımı yaptığınızı tespit edildi. Lütfen bunu yerine Kirki_Util::get_variables() kullanın."
+
+#: controls/php/class-kirki-control-base.php:134 controls/views/image.php:36
+#: field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "Varsayılan"
+
+#: modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "Özelleştirme"
+
+#: controls/php/class-kirki-control-switch.php:56
+#: field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "Kapalı"
+
+#: controls/php/class-kirki-control-switch.php:52
+#: field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "Açık"
+
+#: controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "Alt kenar boşluğu"
+
+#: controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "Üst kenar boşluğu"
+
+#: controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "Yedek yazı tipi"
+
+#: controls/php/class-kirki-control-typography.php:83
+#: controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "Yazı tipi ailesini seçin"
+
+#. translators: %s represents the label of the row.
+#: controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "Yeni %s ekle "
+
+#: controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "Genişlik"
+
+#: controls/php/class-kirki-control-dimensions.php:128
+#: controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "Kelime aralığı"
+
+#: controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Otomatik"
+
+#: controls/php/class-kirki-control-background.php:63
+#: controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "Dosya seçin"
+
+#: upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Önemli yükseltme uyarısı:"
+
+#: controls/php/class-kirki-control-background.php:59
+#: controls/php/class-kirki-control-repeater.php:408
+#: controls/php/class-kirki-control-repeater.php:413
+#: controls/php/class-kirki-control-base.php:132
+msgid "No File Selected"
+msgstr "Hiç dosya seçilmedi"
+
+#: controls/php/class-kirki-control-repeater.php:419
+#: controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "Dosyayı değiştir"
+
+#: controls/php/class-kirki-control-repeater.php:419
+#: controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "Dosya ekle"
+
+#: controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "satır"
+
+#: controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "Bir sayfa seç"
+
+#: controls/php/class-kirki-control-typography.php:180
+#: controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "İlk harf"
+
+#: controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "Tümü küçük harf"
+
+#: controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "Tümü büyük harf"
+
+#: controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "Büyük harfe çevir"
+
+#: controls/php/class-kirki-control-typography.php:176
+#: controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "Hiçbiri"
+
+#: controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "Metin dönüşümü"
+
+#: controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "Metin hizalama"
+
+#: controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "İki yana yasla"
+
+#: controls/php/class-kirki-control-dimensions.php:133
+#: controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "Orta"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "Limit: %s satır"
+
+#: controls/php/class-kirki-control-dimensions.php:138
+#: controls/php/class-kirki-control-dimension.php:41
+msgid "Invalid Value"
+msgstr "Geçersiz değer"
+
+#: modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "Aşırı kalın 900 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:218
+#: modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "Aşırı kalın 900"
+
+#: modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "Çok kalın 800 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:215
+#: modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "Çok kalın 800"
+
+#: modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "Kalın 700 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "Kalın 700"
+
+#: modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "Yarı kalın 600 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:210
+#: modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "Yarı kalın 600"
+
+#: modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "Az kalın 500 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "Az kalın 500"
+
+#: modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "Normal 400 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:205
+#: modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Az ince 300 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Az ince 300"
+
+#: modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "İnce 200 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "İnce 200"
+
+#: modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "Aşırı ince 100 italik"
+
+#: modules/webfonts/class-kirki-fonts.php:198
+#: modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "Aşırı ince 100"
+
+#: controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Boşluk bırakma"
+
+#: controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Yükseklik"
+
+#: controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Boyut"
+
+#: controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Varyant"
+
+#: controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Yazı tipi stili"
+
+#: controls/php/class-kirki-control-repeater.php:376
+#: controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "Görsel seçilmedi"
+
+#: controls/php/class-kirki-control-background.php:62
+#: controls/php/class-kirki-control-repeater.php:386
+#: controls/php/class-kirki-control-repeater.php:418
+#: controls/php/class-kirki-control-repeater.php:443
+#: controls/php/class-kirki-control-base.php:133 controls/views/image.php:37
+#: field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Kaldır"
+
+#: controls/php/class-kirki-control-repeater.php:387
+#: controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "Görseli değiştir"
+
+#: controls/php/class-kirki-control-repeater.php:387
+#: controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "Görsel ekle"
+
+#: controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "Renk"
+
+#: controls/php/class-kirki-control-dimensions.php:132
+#: controls/php/class-kirki-control-typography.php:157
+#: field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "Sağ"
+
+#: controls/php/class-kirki-control-dimensions.php:131
+#: controls/php/class-kirki-control-typography.php:145
+#: field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "Sol"
+
+#: controls/php/class-kirki-control-dimensions.php:130
+#: field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "Alt"
+
+#: controls/php/class-kirki-control-dimensions.php:129
+#: field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "Üst"
+
+#: controls/php/class-kirki-control-dimensions.php:127
+#: controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "Harf boşluğu"
+
+#: controls/php/class-kirki-control-dimensions.php:125
+#: controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "Satır yüksekliği"
+
+#: controls/php/class-kirki-control-dimensions.php:123
+#: controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "Yazı boyutu"
+
+#: controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Yazı tipi genişliği"
+
+#: controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Yazı tipi"
+
+#: controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Arka plan pozisyonu"
+
+#: controls/php/class-kirki-control-dimensions.php:122
+#: controls/php/class-kirki-control-background.php:91
+msgid "Center Bottom"
+msgstr "Orta alt"
+
+#: controls/php/class-kirki-control-dimensions.php:121
+#: controls/php/class-kirki-control-background.php:90
+msgid "Center Center"
+msgstr "Orta orta"
+
+#: controls/php/class-kirki-control-dimensions.php:120
+#: controls/php/class-kirki-control-background.php:89
+msgid "Center Top"
+msgstr "Orta üst"
+
+#: controls/php/class-kirki-control-dimensions.php:119
+#: controls/php/class-kirki-control-background.php:88
+msgid "Right Bottom"
+msgstr "Sağ alt"
+
+#: controls/php/class-kirki-control-dimensions.php:118
+#: controls/php/class-kirki-control-background.php:87
+msgid "Right Center"
+msgstr "Sağ orta"
+
+#: controls/php/class-kirki-control-dimensions.php:117
+#: controls/php/class-kirki-control-background.php:86
+msgid "Right Top"
+msgstr "Sağ üst"
+
+#: controls/php/class-kirki-control-dimensions.php:116
+#: controls/php/class-kirki-control-background.php:85
+msgid "Left Bottom"
+msgstr "Sol alt"
+
+#: controls/php/class-kirki-control-dimensions.php:115
+#: controls/php/class-kirki-control-background.php:84
+msgid "Left Center"
+msgstr "Sol orta"
+
+#: controls/php/class-kirki-control-dimensions.php:114
+#: controls/php/class-kirki-control-background.php:83
+msgid "Left Top"
+msgstr "Sol üst"
+
+#: controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Arka plan eki"
+
+#: controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Kaydır"
+
+#: controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Sabitlenmiş"
+
+#: controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Arka plan boyutu"
+
+#: controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "İçine al"
+
+#: controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Kapla"
+
+#: controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Arka plan tekrarı"
+
+#: controls/php/class-kirki-control-typography.php:139
+#: controls/php/class-kirki-control-typography.php:181
+#: controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Devral"
+
+#: controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Dikey tekrar et"
+
+#: controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Yatay tekrar et"
+
+#: controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Tekrar et"
+
+#: controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "Tekrar etme"
+
+#: controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Arka plan rengi"

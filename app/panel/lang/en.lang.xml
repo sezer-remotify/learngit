@@ -1,0 +1,1746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+  <!-- Global Phrases -->
+  <phrase section="Global" data="ABOUT">About</phrase>
+  <phrase section="Global" data="ABOUT_ME">About Me</phrase>
+  <phrase section="Global" data="ACCESS">Access</phrase>
+  <phrase section="Global" data="ACTIONS">Actions</phrase>
+  <phrase section="Global" data="ACTIVATE">Activate</phrase>
+  <phrase section="Global" data="ACTIVE">Active</phrase>
+  <phrase section="Global" data="ACTIVITY">Activity</phrase>
+  <phrase section="Global" data="ADD">Add</phrase>
+  <phrase section="Global" data="ADDMORE">Add More</phrase>
+  <phrase section="Global" data="ADDPROJECT">Add to Projects</phrase>
+  <phrase section="Global" data="ADDRESS">Address</phrase>
+  <phrase section="Global" data="ADDTEAM">Add to a Team</phrase>
+  <phrase section="Global" data="AGE">Age</phrase>
+  <phrase section="Global" data="AGREE">Yes, I agree to privacy policy</phrase>
+  <phrase section="Global" data="AGREE_TO">Yes, I agree to </phrase>
+  <phrase section="Global" data="ALERT">Alert</phrase>
+  <phrase section="Global" data="ALL">All</phrase>
+  <phrase section="Global" data="ALL_SELECTED">All Selected</phrase>
+  <phrase section="Global" data="ANY">Any</phrase>
+  <phrase section="Global" data="ANYBODY">Anybody</phrase>
+  <phrase section="Global" data="APPLY">Apply</phrase>
+  <phrase section="Global" data="APPROVE">Approve</phrase>
+  <phrase section="Global" data="APPR">Approval Status</phrase>
+  <phrase section="Global" data="ARCHIVE">Archive</phrase>
+  <phrase section="Global" data="ARCHIVED">Archived</phrase>
+  <phrase section="Global" data="ATTACHMENT">Attachment</phrase>
+  <phrase section="Global" data="ATTACHMENTS">Attachments</phrase>
+  <phrase section="Global" data="AVATAR">Avatar</phrase>
+  <phrase section="Global" data="BACK">Back</phrase>
+  <phrase section="Global" data="BACKTO">Back to [NAME]</phrase>
+  <phrase section="Global" data="BACKTOLOGIN">back to login</phrase>
+  <phrase section="Global" data="BANNED">Banned</phrase>
+  <phrase section="Global" data="BGIMG">Background Image</phrase>
+  <phrase section="Global" data="BROWSE">Browse...</phrase>
+  <phrase section="Global" data="BY">by</phrase>
+  <phrase section="Global" data="CANCEL">Cancel</phrase>
+  <phrase section="Global" data="CAPTCHA">Captcha</phrase>
+  <phrase section="Global" data="CATEGORIES">Categories</phrase>
+  <phrase section="Global" data="CATEGORY">Category</phrase>
+  <phrase section="Global" data="CHANGECMP">Change Company</phrase>
+  <phrase section="Global" data="CHARSET">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</phrase>
+  <phrase section="Global" data="CHECKOUT">Checkout</phrase>
+  <phrase section="Global" data="CHOOSE">Choose</phrase>
+  <phrase section="Global" data="CHOOSE_U">Choose a username</phrase>
+  <phrase section="Global" data="CHOOSE_PL">Choose a profile link</phrase>
+  <phrase section="Global" data="CANT_CH_U">Please note that the username cannot be changed once chosen</phrase>
+  <phrase section="Global" data="CANT_CH_PL">Please note that the profile link cannot be changed once chosen</phrase>
+  <phrase section="Global" data="CITY">City</phrase>
+  <phrase section="Global" data="CLEAR">Clear</phrase>
+  <phrase section="Global" data="CLIENT">Client</phrase>
+  <phrase section="Global" data="CLIENTS">Clients</phrase>
+  <phrase section="Global" data="CLOSE">Close</phrase>
+  <phrase section="Global" data="COMMENTS">Comments</phrase>
+  <phrase section="Global" data="COMPARE">Compare</phrase>
+  <phrase section="Global" data="COMPLETED">Completed</phrase>
+  <phrase section="Global" data="COMPLETED_BY">Completed By</phrase>
+  <phrase section="Global" data="COMPLETED_ON">Completed ON</phrase>
+  <phrase section="Global" data="CONPASS">Confirm Password</phrase>
+  <phrase section="Global" data="CONTACT">Contact</phrase>
+  <phrase section="Global" data="CONTACTS">Contacts</phrase>
+  <phrase section="Global" data="CONTENT">Content</phrase>
+  <phrase section="Global" data="CONTENT_NOT_FOUND">No Content found under this page !.</phrase>
+  <phrase section="Global" data="COPY">Copy</phrase>
+  <phrase section="Global" data="COUNTRY">Country</phrase>
+  <phrase section="Global" data="COUNTRY_LIST">Country List</phrase>
+  <phrase section="Global" data="CREATE">Create</phrase>
+  <phrase section="Global" data="CREATED">Created</phrase>
+  <phrase section="Global" data="CREATED_BY">Created By</phrase>
+  <phrase section="Global" data="CREATED_ON">Created On</phrase>
+  <phrase section="Global" data="CUSTOM">Custom</phrase>
+  <phrase section="Global" data="CUT">Cut</phrase>
+  <phrase section="Global" data="DATE">Date</phrase>
+  <phrase section="Global" data="DEFAULT">Default</phrase>
+  <phrase section="Global" data="DEFAULT_PALETTE">Default Palette</phrase>
+  <phrase section="Global" data="DELCONFIRM1">Are you sure you want to delete this record?</phrase>
+  <phrase section="Global" data="DELCONFIRM10">Restore [NAME]?</phrase>
+  <phrase section="Global" data="DELCONFIRM12">Accept [NAME] bid?</phrase>
+  <phrase section="Global" data="DELCONFIRM11">This action will restore item to it's original sate.</phrase>
+  <phrase section="Global" data="DELCONFIRM2">This action cannot be undone!!!</phrase>
+  <phrase section="Global" data="DELCONFIRM3">The item will remain in Trash for 30 days. To remove it permanently, go to Trash and empty it.</phrase>
+  <phrase section="Global" data="DELCONFIRM4">Move [NAME] to the archive?</phrase>
+  <phrase section="Global" data="DELCONFIRM5">This will keep the user in your FM, but prevent them from logging in.</phrase>
+  <phrase section="Global" data="DELCONFIRM6">Remove [NAME] from the archive?</phrase>
+  <phrase section="Global" data="DELCONFIRM7">This action will restore user to it's original sate.</phrase>
+  <phrase section="Global" data="DELCONFIRM8">This action will restore company to it's original sate.</phrase>
+  <phrase section="Global" data="DELETE">Delete</phrase>
+  <phrase section="Global" data="DELETE_REC">Delete Record</phrase>
+  <phrase section="Global" data="DELETED">deleted successfully!</phrase>
+  <phrase section="Global" data="DESCRIPTION">Description</phrase>
+  <phrase section="Global" data="DISC">Discount</phrase>
+  <phrase section="Global" data="DONE">Done</phrase>
+  <phrase section="Global" data="DOWNLOAD">Download</phrase>
+  <phrase section="Global" data="DOWNLOADS">Downloads</phrase>
+  <phrase section="Global" data="DUPLICATE">Duplicate</phrase>
+  <phrase section="Global" data="EDIT">Edit</phrase>
+  <phrase section="Global" data="EDITOR">Editor</phrase>
+  <phrase section="Global" data="EMAIL">Email</phrase>
+  <phrase section="Global" data="EMAIL_R1">Please Enter Valid Email Address</phrase>
+  <phrase section="Global" data="EMAIL_R2">Entered Email Address Is Already In Use.</phrase>
+  <phrase section="Global" data="EMAIL_R3">Entered Email Address Is Not Valid.</phrase>
+  <phrase section="Global" data="EMAIL_R4">Entered Email Address Does Not Exist.</phrase>
+  <phrase section="Global" data="EMAIL_R5">Invalid Email address.</phrase>
+  <phrase section="Global" data="ERROR">Error</phrase>
+  <phrase section="Global" data="EXPORT">Export</phrase>
+  <phrase section="Global" data="EXT_LINK">External Link</phrase>
+  <phrase section="Global" data="FIELD_R0">Field</phrase>
+  <phrase section="Global" data="FIELD_R1">needs to be [X] or shorter in length.</phrase>
+  <phrase section="Global" data="FIELD_R10">may only contain alpha characters &amp; dashes.</phrase>
+  <phrase section="Global" data="FIELD_R100">is required.</phrase>
+  <phrase section="Global" data="FIELD_R11">needs to contain one of these values: [VAL]</phrase>
+  <phrase section="Global" data="FIELD_R12">needs to start with [VAL]</phrase>
+  <phrase section="Global" data="FIELD_R13">does not equal [VAL] field.</phrase>
+  <phrase section="Global" data="FIELD_R14">is not valid url.</phrase>
+  <phrase section="Global" data="FIELD_R15">URL does not exist.</phrase>
+  <phrase section="Global" data="FIELD_R16">is not valid IP.</phrase>
+  <phrase section="Global" data="FIELD_R17">is not credit card number.</phrase>
+  <phrase section="Global" data="FIELD_R18">is not valid email address.</phrase>
+  <phrase section="Global" data="FIELD_R19">is not valid decimal number.</phrase>
+  <phrase section="Global" data="FIELD_R2">needs to be [X] or longer in length.</phrase>
+  <phrase section="Global" data="FIELD_R3">is invalid.</phrase>
+  <phrase section="Global" data="FIELD_R4">is invalid date.</phrase>
+  <phrase section="Global" data="FIELD_R5">may only contain numeric characters.</phrase>
+  <phrase section="Global" data="FIELD_R6">may only contain numeric value.</phrase>
+  <phrase section="Global" data="FIELD_R7">needs to be exactly [X] characters in length.</phrase>
+  <phrase section="Global" data="FIELD_R8">may only contain alpha characters(a-z).</phrase>
+  <phrase section="Global" data="FIELD_R9">may only contain alpha-numeric characters.</phrase>
+  <phrase section="Global" data="FILE">File</phrase>
+  <phrase section="Global" data="PICTURE">Picture</phrase>
+  <phrase section="Global" data="FILE_ERR">File could not be moved from temporary upload folder to image folder.</phrase>
+  <phrase section="Global" data="FILES">Files</phrase>
+  <phrase section="Global" data="CONTRACT">Contract</phrase>
+  <phrase section="Global" data="FILTER">Filtering</phrase>
+  <phrase section="Global" data="FILTER_O">Filtering Options</phrase>
+  <phrase section="Global" data="OPT">Options</phrase>
+  <phrase section="Global" data="FIND">Find</phrase>
+  <phrase section="Global" data="FNAME">First Name</phrase>
+  <phrase section="Global" data="FOR">For</phrase>
+  <phrase section="Global" data="FREE">FREE</phrase>
+  <phrase section="Global" data="FROM">From</phrase>
+  <phrase section="Global" data="GO">GO</phrase>
+  <phrase section="Global" data="GRID">Grid</phrase>
+  <phrase section="Global" data="GUEST">Guest</phrase>
+  <phrase section="Global" data="HELLO">Hello</phrase>
+  <phrase section="Global" data="HI">Hi,</phrase>
+  <phrase section="Global" data="HI_A">Good Afternoon</phrase>
+  <phrase section="Global" data="HI_E">Good Evening</phrase>
+  <phrase section="Global" data="HI_M">Good Morning</phrase>
+  <phrase section="Global" data="HISOCHGE">History of Changes</phrase>
+  <phrase section="Global" data="HISTORY">History</phrase>
+  <phrase section="Global" data="HOME">Home</phrase>
+  <phrase section="Global" data="HEAR_ABOUT">How did you hear about us?</phrase>
+  <phrase section="Global" data="IMAGE">Image</phrase>
+  <phrase section="Global" data="IMAGES">Images</phrase>
+  <phrase section="Global" data="IN">in</phrase>
+  <phrase section="Global" data="INACTIVE">Inactive</phrase>
+  <phrase section="Global" data="INBOX">Inbox</phrase>
+  <phrase section="Global" data="INFO">Info</phrase>
+  <phrase section="Global" data="INSERT">Insert</phrase>
+  <phrase section="Global" data="INVOICE">Invoice</phrase>
+  <phrase section="Global" data="ITEM">Item</phrase>
+  <phrase section="Global" data="INVALID_FILE_T">Illegal file type. Only jpg, jpeg, png and pdf file types allowed.</phrase>
+  <phrase section="Global" data="ITEMS">Items</phrase>
+  <phrase section="Global" data="LABEL">Label</phrase>
+  <phrase section="Global" data="LABELC">Label Color</phrase>
+  <phrase section="Global" data="LANGUAGE">Language</phrase>
+  <phrase section="Global" data="LASTIP">Last IP</phrase>
+  <phrase section="Global" data="LASTLOGIN">Last Login</phrase>
+  <phrase section="Global" data="LEADER">Leader</phrase>
+  <phrase section="Global" data="LEV1">Client</phrase>
+  <phrase section="Global" data="LEV7">Editor</phrase>
+  <phrase section="Global" data="LEV8">Staff Member</phrase>
+  <phrase section="Global" data="LEV8_1">Staff</phrase>
+  <phrase section="Global" data="LEV9">Site Owner</phrase>
+  <phrase section="Global" data="LIKES">Likes</phrase>
+  <phrase section="Global" data="LIST">List</phrase>
+  <phrase section="Global" data="LINKEDIN_LOGIN">Login with LinkedIn</phrase>
+  <phrase section="Global" data="LINKEDIN_REG">Register with LinkedIn</phrase>
+  <phrase section="Global" data="LNAME">Last Name</phrase>
+  <phrase section="Global" data="LOGIN">Login</phrase>
+  <phrase section="Global" data="LOGIN_R1">Login and/or password did not match to the database.</phrase>
+  <phrase section="Global" data="LOGIN_R2">Your account has been banned.</phrase>
+  <phrase section="Global" data="LOGIN_R3">Your account is not activated.</phrase>
+  <phrase section="Global" data="LOGIN_R4">You need to verify your email address.</phrase>
+  <phrase section="Global" data="LOGIN_R5">Please enter valid username and password.</phrase>
+  <phrase section="Global" data="LOGIN_R6">Name and/or email address did not match to the database.</phrase>
+  <phrase section="Global" data="LOGOUT">Logout</phrase>
+  <phrase section="Global" data="LEVEL">Level</phrase>
+  <phrase section="Global" data="MANAGE">Manage</phrase>
+  <phrase section="Global" data="MAX_R1">Maximum</phrase>
+  <phrase section="Global" data="MAX_ER">Maximum amount should be less than [NAME].</phrase>
+  <phrase section="Global" data="MEMBER">Member</phrase>
+  <phrase section="Global" data="MEMBERS">Members</phrase>
+  <phrase section="Global" data="MEMBERSHIP">Membership</phrase>
+  <phrase section="Global" data="MEMBERSHIPS">Memberships</phrase>
+  <phrase section="Global" data="MESSAGE">Message</phrase>
+  <phrase section="Global" data="METADESC">Meta Description</phrase>
+  <phrase section="Global" data="METAKEYS">Meta Keywords</phrase>
+  <phrase section="Global" data="MIN_R1">Minimum</phrase>
+  <phrase section="Global" data="MIN_MAX_ER">Minimum amount should be less than maximum amount</phrase>
+  <phrase section="Global" data="MORE">More</phrase>
+  <phrase section="Global" data="MOREINFO">More Info</phrase>
+  <phrase section="Global" data="MOVE">Move</phrase>
+  <phrase section="Global" data="MOVTOA">Moved to archive</phrase>
+  <phrase section="Global" data="MOVTOTR">Moved to trash</phrase>
+  <phrase section="Global" data="MTOARCHIVE">Move to Archive</phrase>
+  <phrase section="Global" data="MTOTRASH">Move to Trash</phrase>
+  <phrase section="Global" data="MULTIPLE">Multiple</phrase>
+  <phrase section="Global" data="NAME">Name</phrase>
+  <phrase section="Global" data="NEVER">Never</phrase>
+  <phrase section="Global" data="NEWPASS">New Password</phrase>
+  <phrase section="Global" data="NO">No</phrase>
+  <phrase section="Global" data="NOACCESS">Sorry don't have valid privileges to access this page.</phrase>
+  <phrase section="Global" data="NOFILE">No file...</phrase>
+  <phrase section="Global" data="NOMATCH">No matches for</phrase>
+  <phrase section="Global" data="NONE">none</phrase>
+  <phrase section="Global" data="NOPROCCESS">Nothing to process!</phrase>
+  <phrase section="Global" data="NOTE">Note</phrase>
+  <phrase section="Global" data="NOTEVAR">Please do not change values between [ ]</phrase>
+  <phrase section="Global" data="NOTPUBLISHED">Not Published</phrase>
+  <phrase section="Global" data="NOW">Now</phrase>
+  <phrase section="Global" data="OF">of</phrase>
+  <phrase section="Global" data="OFF">Off</phrase>
+  <phrase section="Global" data="OK">OK</phrase>
+  <phrase section="Global" data="ON">On</phrase>
+  <phrase section="Global" data="AT">At</phrase>
+  <phrase section="Global" data="OWNER">Owner</phrase>
+  <phrase section="Global" data="PAGE">Page</phrase>
+  <phrase section="Global" data="PAGE_NOT_FOUND">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable!</phrase>
+  <phrase section="Global" data="PASSWORD">Password</phrase>
+  <phrase section="Global" data="PASSWORD_L">forgot password</phrase>
+  <phrase section="Global" data="PASSWORD_R1">Please Enter Valid Password.</phrase>
+  <phrase section="Global" data="PASSWORD_R2">Password entered is not alphanumeric.</phrase>
+  <phrase section="Global" data="PASSWORD_R3">Your password did not match the confirmed password!.</phrase>
+  <phrase section="Global" data="PASSWORD_RES">Password Reset</phrase>
+  <phrase section="Global" data="PASSWORD_RES_D">Password sent successfully. Please check your email!</phrase>
+  <phrase section="Global" data="PASSWORD_RES_T">In order to reset your password, please enter the email address above, you used to register your account.</phrase>
+  <phrase section="Global" data="PASSWORD_T">Leave it empty unless changing the password.</phrase>
+  <phrase section="Global" data="PASSWORD_T2">Password must be at least 6 characters long.</phrase>
+  <phrase section="Global" data="PASTE">Paste</phrase>
+  <phrase section="Global" data="PAYWITH">Pay With</phrase>
+  <phrase section="Global" data="PENDING">Pending</phrase>
+  <phrase section="Global" data="PEOPLE">People</phrase>
+  <phrase section="Global" data="PERHOUR">per hour</phrase>
+  <phrase section="Global" data="PREVIEW">Preview</phrase>
+  <phrase section="Global" data="REVIEWS">Reviews</phrase>
+  <phrase section="Global" data="PRIVACY">Privacy Policy</phrase>
+  <phrase section="Global" data="PRIVACY_V">View our privacy policy agreement</phrase>
+  <phrase section="Global" data="PROCCESS_C_ERR">An error occurred while processing configuration file.</phrase>
+  <phrase section="Global" data="PROCCESS_ERR">Please complete the following required fields:</phrase>
+  <phrase section="Global" data="PROCCESS_ERR1">Please complete all of the required fields.</phrase>
+  <phrase section="Global" data="PROP">Properties</phrase>
+  <phrase section="Global" data="PUBLIC">Public</phrase>
+  <phrase section="Global" data="PUBLISHED">Published</phrase>
+  <phrase section="Global" data="PURCHASES">Purchases</phrase>
+  <phrase section="Global" data="PURCHSE">Purchase</phrase>
+  <phrase section="Global" data="QUANTITY">Quantity</phrase>
+  <phrase section="Global" data="REFRESH">Refresh</phrase>
+  <phrase section="Global" data="REFER_NAME">Reference Name</phrase>
+  <phrase section="Global" data="REFER_NUM">Reference Phone Number</phrase>
+  <phrase section="Global" data="REFER_MAIL">Reference Email Adress</phrase>
+  <phrase section="Global" data="REGISTER">Register</phrase>
+  <phrase section="Global" data="JOIN">JOIN</phrase>
+  <phrase section="Global" data="NO_ACCOUNT">Don't you have an account?</phrase>
+  <phrase section="Global" data="HAVE_ACCOUNT">Already have an account?</phrase>
+  <phrase section="Global" data="REGISTERED">Registered</phrase>
+  <phrase section="Global" data="REMOVE">Remove</phrase>
+  <phrase section="Global" data="RENAME">Rename</phrase>
+  <phrase section="Global" data="REQFIELD1">Fields marked</phrase>
+  <phrase section="Global" data="REQFIELD2">are required.</phrase>
+  <phrase section="Global" data="RESET">Reset</phrase>
+  <phrase section="Global" data="RESFRA">Restored from archive</phrase>
+  <phrase section="Global" data="RESFRTR">Restored from trash</phrase>
+  <phrase section="Global" data="RESTORE">Restore</phrase>
+  <phrase section="Global" data="REVIEW">Review</phrase>
+  <phrase section="Global" data="REVIEWS">Reviews</phrase>
+  <phrase section="Global" data="RFARCHIVE">Restore From Archive</phrase>
+  <phrase section="Global" data="RFCOMPLETE">Restore Original</phrase>
+  <phrase section="Global" data="REFERS">References</phrase>
+  <phrase section="Global" data="SKILLS">Skills</phrase>
+  <phrase section="Global" data="INVITE">Invite</phrase>
+  <phrase section="Global" data="SOFT_SKILLS">Soft Skills</phrase>
+  <phrase section="Global" data="HARD_SKILLS">Hard Skills</phrase>
+   <phrase section="Global" data="SOFT_SKILLS_CLIENT">Most Required Soft Skills</phrase>
+  <phrase section="Global" data="HARD_SKILLS_CLIENT">Most Required Hard Skills</phrase>
+  <phrase section="Global" data="CONF_SKILLS">Confirmed Skills</phrase>
+  <phrase section="Global" data="CONF_SKILL_OK">Confirmed skills has been updated.</phrase>
+  <phrase section="Global" data="SKILL_LEV">Skills Level</phrase>
+  <phrase section="Global" data="SAVE">Save</phrase>
+  <phrase section="Global" data="SAVEC">Save Changes</phrase>
+  <phrase section="Global" data="SEARCH">Search</phrase>
+  <phrase section="Global" data="ADV_SRC">Advanced Search</phrase>
+  <phrase section="Global" data="WANT_WORK">I want to work</phrase>
+  <phrase section="Global" data="WANT_HIRE">I want to hire</phrase>
+  <phrase section="Global" data="HIRE_ME">Hire Me</phrase>
+  <phrase section="Global" data="SEARCH2">type and press enter...</phrase>
+  <phrase section="Global" data="CHANGE_LATER">Dont worry this can be changed later</phrase>
+  <phrase section="Global" data="SELECT">select an option</phrase>
+  <phrase section="Global" data="SELECT_ALL">Select All</phrase>
+  <phrase section="Global" data="SELECT_ACC">Select account type</phrase>
+  <phrase section="Global" data="SELECTED">Selected</phrase>
+  <phrase section="Global" data="SELECTMULTI">Select Some Options</phrase>
+  <phrase section="Global" data="SELPIC">Select Picture</phrase>
+  <phrase section="Global" data="SEND">Send</phrase>
+  <phrase section="Global" data="SET">Set</phrase>
+  <phrase section="Global" data="SETTINGS">Settings</phrase>
+  <phrase section="Global" data="SIGNUP">Signup</phrase>
+  <phrase section="Global" data="SHOW_D">Show Details</phrase>
+  <phrase section="Global" data="SORTING">Sorting</phrase>
+  <phrase section="Global" data="SORTING_O">Sorting Options</phrase>
+  <phrase section="Global" data="SPENT">Spent</phrase>
+  <phrase section="Global" data="STAFF">Staff</phrase>
+  <phrase section="Global" data="STATE">State</phrase>
+  <phrase section="Global" data="STATUS">Status</phrase>
+  <phrase section="Global" data="SUBMIT">Submit</phrase>
+  <phrase section="Global" data="SUBMITP">Submit Payment</phrase>
+  <phrase section="Global" data="SUBTOTAL">Subtotal</phrase>
+  <phrase section="Global" data="SUCCESS">Success</phrase>
+  <phrase section="Global" data="SUMMARY">Purchase Summary</phrase>
+  <phrase section="Global" data="SYSERROR">An error occurred while processing this request. Please contact administrator.</phrase>
+  <phrase section="Global" data="SYSTEM_ERR">Please complete the following fields:</phrase>
+  <phrase section="Global" data="SYSTEM_ERR1">System Error!! Invalid value detected -</phrase>
+  <phrase section="Global" data="SYSTEM_ERR2">You don't have permission to access this page.</phrase>
+  <phrase section="Global" data="SYSTEM_PROCCESS">Nothing to process.</phrase>
+  <phrase section="Global" data="TAG">Tag</phrase>
+  <phrase section="Global" data="TAGS">Tags</phrase>
+  <phrase section="Global" data="TAX">TAX/VAT</phrase>
+  <phrase section="Global" data="TAXES">Taxes</phrase>
+  <phrase section="Global" data="TIME">Time</phrase>
+  <phrase section="Global" data="TITLE">Title</phrase>
+  <phrase section="Global" data="BLOG">Blog</phrase>
+  <phrase section="Global" data="TO">To</phrase>
+  <phrase section="Global" data="TOGGLE">Toggle</phrase>
+  <phrase section="Global" data="TOGGLEALL">Toggle All</phrase>
+  <phrase section="Global" data="TOKEN">Token</phrase>
+  <phrase section="Global" data="TOTALAMT">Total Amount</phrase>
+  <phrase section="Global" data="TRANSACTION">Transaction</phrase>
+  <phrase section="Global" data="TRASH">Trash</phrase>
+  <phrase section="Global" data="TRASH_DEL_OK">All trashed items deleted successfully!</phrase>
+  <phrase section="Global" data="TYPE">Type</phrase>
+  <phrase section="Global" data="TYPE_R1">Invalid Account Type.</phrase>
+  <phrase section="Global" data="USER_AGREEMENT">User Agreement</phrase>
+  <phrase section="Global" data="UPDATE">Update</phrase>
+  <phrase section="Global" data="UPDATED">Updated successfully!</phrase>
+   <phrase section="Global" data="SKILL_SCS">New skill added successfully!</phrase>
+  <phrase section="Global" data="UPLOAD">Upload</phrase>
+  <phrase section="Global" data="URL">Url</phrase>
+  <phrase section="Global" data="USER">User</phrase>
+  <phrase section="Global" data="USER_A">User Active</phrase>
+  <phrase section="Global" data="USER_B">User Banned</phrase>
+  <phrase section="Global" data="USER_I">User Inactive</phrase>
+  <phrase section="Global" data="USER_P">User Pending</phrase>
+  <phrase section="Global" data="PROFILE_LINK">Profile Link</phrase>
+  <phrase section="Global" data="SIM_PROFILE">Similar Profiles</phrase>
+  <phrase section="Global" data="USERNAME">Username</phrase>
+  <phrase section="Global" data="USERNAME_UP">Username updated successfully.</phrase>
+  <phrase section="Global" data="USERNAME_R1">Please Enter Valid Username</phrase>
+  <phrase section="Global" data="USERNAME_R2">Username Is Too Short (less Than 4 Characters Long).</phrase>
+  <phrase section="Global" data="USERNAME_R6">Username Should Be Between 4 To 15 Characters Long.</phrase>
+  <phrase section="Global" data="USERNAME_R3">Invalid Characters Found In Username.</phrase>
+  <phrase section="Global" data="USERNAME_R4">Sorry, This Username Is Already Taken.</phrase>
+  <phrase section="Global" data="USERNAME_R5">We are sorry, selected username does not exist in our database.</phrase>
+  <phrase section="Global" data="USERS">Users</phrase>
+  <phrase section="Global" data="VAT">Vat/Tax ID</phrase>
+  <phrase section="Global" data="VIEW">View</phrase>
+  <phrase section="Global" data="VIEWDET">View Details</phrase>
+  <phrase section="Global" data="VISIT">Visit</phrase>
+  <phrase section="Global" data="WELCOME">Welcome</phrase>
+  <phrase section="Global" data="WORKING">working....</phrase>
+  <phrase section="Global" data="YES">Yes</phrase>
+  <phrase section="Global" data="YOU">You</phrase>
+  <phrase section="Global" data="YOUAREHERE">You are here</phrase>
+  <phrase section="Global" data="ZIP">Zip-Postal Code</phrase>
+
+  <!-- Localization -->
+  <phrase section="Localization" data="_DAY">Day</phrase>
+  <phrase section="Localization" data="_DAYS">Days</phrase>
+  <phrase section="Localization" data="_HOUR">Hour</phrase>
+  <phrase section="Localization" data="_HOURS">Hours</phrase>
+  <phrase section="Localization" data="_MINUTE">Minute</phrase>
+  <phrase section="Localization" data="_MINUTES">Minutes</phrase>
+  <phrase section="Localization" data="_MONTH">Month</phrase>
+  <phrase section="Localization" data="_MONTHS">Months</phrase>
+  <phrase section="Localization" data="_SECOND">Second</phrase>
+  <phrase section="Localization" data="_SECONDS">Seconds</phrase>
+  <phrase section="Localization" data="_WEEK">Week</phrase>
+  <phrase section="Localization" data="_WEEKS">Weeks</phrase>
+  <phrase section="Localization" data="_YEAR">Year</phrase>
+  <phrase section="Localization" data="_YEARS">Years</phrase>
+  <phrase section="Localization" data="AGO">ago</phrase>
+  <phrase section="Localization" data="APR">Apr</phrase>
+  <phrase section="Localization" data="APR_L">April</phrase>
+  <phrase section="Localization" data="AUG">Aug</phrase>
+  <phrase section="Localization" data="AUG_L">August</phrase>
+  <phrase section="Localization" data="DEC">Dec</phrase>
+  <phrase section="Localization" data="DEC_L">December</phrase>
+  <phrase section="Localization" data="FEB">Feb</phrase>
+  <phrase section="Localization" data="FEB_L">February</phrase>
+  <phrase section="Localization" data="FRI">Fr</phrase>
+  <phrase section="Localization" data="FRI_L">Friday</phrase>
+  <phrase section="Localization" data="FRI_M">Fri</phrase>
+  <phrase section="Localization" data="JAN">Jan</phrase>
+  <phrase section="Localization" data="JAN_L">January</phrase>
+  <phrase section="Localization" data="JUL">Jul</phrase>
+  <phrase section="Localization" data="JUL_L">July</phrase>
+  <phrase section="Localization" data="JUN">Jun</phrase>
+  <phrase section="Localization" data="JUN_L">June</phrase>
+  <phrase section="Localization" data="JUSTNOW">just now</phrase>
+  <phrase section="Localization" data="LAST_MONTH">Last Month</phrase>
+  <phrase section="Localization" data="LAST_WEEK">Last Week</phrase>
+  <phrase section="Localization" data="LAST_YEAR">Last Year</phrase>
+  <phrase section="Localization" data="MAR">Mar</phrase>
+  <phrase section="Localization" data="MAR_L">March</phrase>
+  <phrase section="Localization" data="MAY">May</phrase>
+  <phrase section="Localization" data="MAY_L">May</phrase>
+  <phrase section="Localization" data="MON">Mo</phrase>
+  <phrase section="Localization" data="MON_L">Monday</phrase>
+  <phrase section="Localization" data="MON_M">Mon</phrase>
+  <phrase section="Localization" data="NEXT_MONTH">Next Month</phrase>
+  <phrase section="Localization" data="NEXT_WEEK">Next Week</phrase>
+  <phrase section="Localization" data="NOV">Nov</phrase>
+  <phrase section="Localization" data="NOV_L">November</phrase>
+  <phrase section="Localization" data="OCT">Oct</phrase>
+  <phrase section="Localization" data="OCT_L">October</phrase>
+  <phrase section="Localization" data="SAT">Sa</phrase>
+  <phrase section="Localization" data="SAT_L">Saturday</phrase>
+  <phrase section="Localization" data="SAT_M">Sat</phrase>
+  <phrase section="Localization" data="SEP">Sep</phrase>
+  <phrase section="Localization" data="SEP_L">September</phrase>
+  <phrase section="Localization" data="SUN">Su</phrase>
+  <phrase section="Localization" data="SUN_L">Sunday</phrase>
+  <phrase section="Localization" data="SUN_M">Sun</phrase>
+  <phrase section="Localization" data="THIS_MONTH">This Month</phrase>
+  <phrase section="Localization" data="THIS_WEEK">This Week</phrase>
+  <phrase section="Localization" data="THIS_YEAR">This Year</phrase>
+  <phrase section="Localization" data="THU">Th</phrase>
+  <phrase section="Localization" data="THU_L">Thursday</phrase>
+  <phrase section="Localization" data="THU_M">Thu</phrase>
+  <phrase section="Localization" data="TNEX_YEAR">Next Year</phrase>
+  <phrase section="Localization" data="TODAY">Today</phrase>
+  <phrase section="Localization" data="TOMORROW">Tomorrow</phrase>
+  <phrase section="Localization" data="TUE">Tu</phrase>
+  <phrase section="Localization" data="TUE_L">Tuesday</phrase>
+  <phrase section="Localization" data="TUE_M">Tue</phrase>
+  <phrase section="Localization" data="WED">We</phrase>
+  <phrase section="Localization" data="WED_L">Wednesday</phrase>
+  <phrase section="Localization" data="WED_M">Wed</phrase>
+  <phrase section="Localization" data="YESTERDAY">Yesterday</phrase>
+
+  <!-- Admin Dash -->
+  <phrase section="Admin Menus" data="ADM_ACCOUNTS">Accounts</phrase>
+  <phrase section="Admin Menus" data="ADM_ACTIVITY">My Activity</phrase>
+  <phrase section="Admin Menus" data="ADM_CALENDAR">Calendar</phrase>
+  <phrase section="Admin Menus" data="ADM_CONFIG">Configuration</phrase>
+  <phrase section="Admin Menus" data="ADM_CONTENT">Content</phrase>
+  <phrase section="Admin Menus" data="ADM_DASH">Dashboard</phrase>
+  <phrase section="Admin Menus" data="ADM_ESTIMATES">Estimates</phrase>
+  <phrase section="Admin Menus" data="ADM_HELP">HelpDesk</phrase>
+  <phrase section="Admin Menus" data="ADM_INVOICES">Invoices</phrase>
+  <phrase section="Admin Menus" data="ADM_MYWORK">My Work</phrase>
+  <phrase section="Admin Menus" data="ADM_PAYMENTS">Payment Options</phrase>
+  <phrase section="Admin Menus" data="ADM_PROJECTS">Projects</phrase>
+  <phrase section="Admin Menus" data="ONG_PROJ">Ongoing Projects</phrase>
+  <phrase section="Admin Menus" data="ADM_REPORTS">Reports</phrase>
+  <phrase section="Admin Menus" data="ADM_SETTINGS">Settings</phrase>
+  <phrase section="Admin Menus" data="ADM_SYSTEM">System</phrase>
+
+  <!-- Members -->
+  <phrase section="Members" data="MAC_ARCHIVE">Archived Items</phrase>
+  <phrase section="Members" data="MAC_ARCHIVED">User [NAME] archived successfully.</phrase>
+  <phrase section="Members" data="MAC_COPY_I">Copy link below and send it via email, chat or any other way of communication to [EMAIL] to invite this person manually.</phrase>
+  <phrase section="Members" data="MAC_COPYLINK">Copy invitation link</phrase>
+  <phrase section="Members" data="MAC_INFO">Here you can manage your members.</phrase>
+  <phrase section="Members" data="MAC_INFO1">This person can do everything you can, including controlling this account. Usually your co-founder. Assign with caution!</phrase>
+  <phrase section="Members" data="MAC_INFO2">Can only see the projects they're assigned to and add new things there.</phrase>
+  <phrase section="Members" data="MAC_INFO3">Clients can't delegate or get assigned to tasks, but they can comment, start discussions, and upload files. You can also hide tasks, discussions, notes or files from them.</phrase>
+  <phrase section="Members" data="MAC_INVEMAIL">Enter Emails</phrase>
+  <phrase section="Members" data="MAC_INVITE_I">Invited by [NAME]. ([TIME]), not logged in yet.</phrase>
+  <phrase section="Members" data="MAC_INVPEOPLE">Invite People</phrase>
+  <phrase section="Members" data="MAC_INVPEOPLE1">Invite People to your [COMPANY]</phrase>
+  <phrase section="Members" data="MAC_INVPEOPLE1_INFO">Here you can invite one or more members to join your company.</phrase>
+  <phrase section="Members" data="MAC_JOIN_PR_OK">All project changes where processed successfully.</phrase>
+  <phrase section="Members" data="MAC_JOIN_PRE_OK">Email sent and user has been notified successfully.</phrase>
+  <phrase section="Members" data="MAC_MAILIN_USE">Following emails are already in use:</phrase>
+  <phrase section="Members" data="MAC_NO_CLIENTS">No members found under this criteria.</phrase>
+  <phrase section="Members" data="MAC_NOCMP">Users with no company Assigned</phrase>
+  <phrase section="Members" data="MAC_ONEMAIL">Please enter at least one email address</phrase>
+  <phrase section="Members" data="MAC_RESEND">Resend invitation</phrase>
+  <phrase section="Members" data="MAC_RESEND_C">Do you want to resend email invitation to [NAME]?</phrase>
+  <phrase section="Members" data="MAC_RESEND_OK">Invitation has been resent successfully.</phrase>
+  <phrase section="Members" data="MAC_RESEND_S">You've been invited to [NAME]</phrase>
+  <phrase section="Members" data="MAC_RESTORED">User [NAME] restored successfully.</phrase>
+  <phrase section="Members" data="MAC_SENDINV">Send Invitations</phrase>
+  <phrase section="Members" data="MAC_SENDINV_OK">Invitation(s) sent successfully.</phrase>
+  <phrase section="Members" data="MAC_SENDVER_OK">Verification Email sent successfully.</phrase>
+  <phrase section="Members" data="MAC_SUB5">Who do you want to invite?</phrase>
+  <phrase section="Members" data="MAC_SUB6">What will be their role in the system?</phrase>
+  <phrase section="Members" data="MAC_SUB7">Choose a Role</phrase>
+  <phrase section="Members" data="MAC_SUB8">Select Projects</phrase>
+  <phrase section="Members" data="MAC_SUB9">Select the projects this person can access</phrase>
+  <phrase section="Members" data="MAC_SUB10">Select a company this person belongs to</phrase>
+  <phrase section="Members" data="MAC_SUB11">Add this person to a team</phrase>
+  <phrase section="Members" data="MAC_SUB12">You can not add user to any project since you are not creator or project lead of any.</phrase>
+  <phrase section="Members" data="MAC_SUB13">You are about to send company to the archive. Any users assigned under this company will be archived as well.</phrase>
+  <phrase section="Members" data="MAC_SUB14">There aren't any people or companies in the archive. If you move a company or a user to the archive, they'll be kept in the system, but won't be able to log in to your Freelance Manager.</phrase>
+  <phrase section="Members" data="MAC_TITLE">Members Management</phrase>
+  <phrase section="Members" data="MAC_TITLE2">User Activity</phrase>
+  <phrase section="Members" data="MAC_TITLE6">Archived People and Companies</phrase>
+  <phrase section="Members" data="MAC_TRASHED">User [NAME] moved to trash successfully.</phrase>
+
+  <!-- Accounts -->
+  <phrase section="Accounts" data="ACC_INF01">Here you can manage your site staff members roles and privileges.</phrase>
+  <phrase section="Accounts" data="ACC_INF02">Here you can view and manage privileges for currently selected [ROLE] role.</phrase>
+  <phrase section="Accounts" data="ACC_INF02_1">Click on Access label to grant/deny access options.</phrase>
+  <phrase section="Accounts" data="ACC_MSG30">Invalid Email address.</phrase>
+  <phrase section="Accounts" data="ACC_MSG40">Entered Email Address Does Not Exist.</phrase>
+  <phrase section="Accounts" data="ACC_MSG41">Password sent successfully. Please check your email!</phrase>
+  <phrase section="Accounts" data="ACC_MY_ACCOUNT">My Account</phrase>
+  <phrase section="Accounts" data="ACC_NOTIFY">Notify User</phrase>
+  <phrase section="Accounts" data="ACC_PASS_CHANGE">Change Password</phrase>
+  <phrase section="Accounts" data="ACC_PASSMATCH">Passwords don't match.</phrase>
+  <phrase section="Accounts" data="ACC_PASSUPDATE">Update Password</phrase>
+  <phrase section="Accounts" data="ACC_PASSUPDATED">Password updated successfully.</phrase>
+  <phrase section="Accounts" data="ACC_PRIV">Privileges Management</phrase>
+  <phrase section="Accounts" data="ACC_ROLE">Roles Management</phrase>
+  <phrase section="Accounts" data="ACC_ROLE_UPDATED">Role description updated successfully.</phrase>
+  <phrase section="Accounts" data="ACC_SUB1">Update account credentials.</phrase>
+  <phrase section="Accounts" data="ACC_TITLE">Account Overview</phrase>
+  <phrase section="Accounts" data="ACC_TITLE1">Members Management</phrase>
+  <phrase section="Accounts" data="ACC_UPDATE">Update Account</phrase>
+  <phrase section="Accounts" data="ACC_UPDATED">Account updated successfully.</phrase>
+
+  <!-- Activity -->
+  <phrase section="Activity" data="ACT_001">Marked as completed</phrase>
+  <phrase section="Activity" data="ACT_002">Marked as open</phrase>
+  <phrase section="Activity" data="ACT_003">Marked as important</phrase>
+  <phrase section="Activity" data="ACT_004">Importance set to normal</phrase>
+  <phrase section="Activity" data="ACT_005">Moved to trash</phrase>
+  <phrase section="Activity" data="ACT_006">Restored from trash</phrase>
+  <phrase section="Activity" data="ACT_008">Due date changed to [DATE]</phrase>
+  <phrase section="Activity" data="ACT_009">Task list changed to [NAME]</phrase>
+  <phrase section="Activity" data="ACT_010">added the [A] hours [B] minutes to the [C]</phrase>
+  <phrase section="Activity" data="ACT_011">added the [A] to the [B]</phrase>
+  <phrase section="Activity" data="ACT_012">Time record [A] removed from [B]</phrase>
+  <phrase section="Activity" data="ACT_013">Expense record [A] removed from [B]</phrase>
+  <phrase section="Activity" data="ACT_014">Task Assignee changed to [NAME]</phrase>
+  <phrase section="Activity" data="ACT_016">Marked as hidden from clients</phrase>
+  <phrase section="Activity" data="ACT_017">No longer hidden from clients</phrase>
+  <phrase section="Activity" data="ACT_018">Estimate set to [A] hours, Job type set to [B]</phrase>
+  <phrase section="Activity" data="ACT_019">Estimate removed, Job type removed</phrase>
+  <phrase section="Activity" data="ACT_CMT">commented on</phrase>
+  <phrase section="Activity" data="ACT_CRCAL">created the calendar</phrase>
+  <phrase section="Activity" data="ACT_CRCOMPANY">created the company</phrase>
+  <phrase section="Activity" data="ACT_CRDIS">started the discussion</phrase>
+  <phrase section="Activity" data="ACT_CREST">created the estimate</phrase>
+  <phrase section="Activity" data="ACT_CRINV">created the invoice</phrase>
+  <phrase section="Activity" data="ACT_CRNOTE">created the note</phrase>
+  <phrase section="Activity" data="ACT_RMNOTE">removed the note</phrase>
+  <phrase section="Activity" data="ACT_RMFILE">removed the file</phrase>
+  <phrase section="Activity" data="ACT_RMTIME">removed time record</phrase>
+  <phrase section="Activity" data="ACT_RMEXPENSE">removed expense record</phrase>
+  <phrase section="Activity" data="ACT_CRPROJECT">started the project</phrase>
+  <phrase section="Activity" data="ACT_CRPROJECTC">completed the project</phrase>
+  <phrase section="Activity" data="ACT_CRTASK">created the task</phrase>
+  <phrase section="Activity" data="ACT_CRTEAM">created the team</phrase>
+  <phrase section="Activity" data="ACT_CRTIME">created time record</phrase>
+  <phrase section="Activity" data="ACT_CREXPENSE">created expense record</phrase>
+  <phrase section="Activity" data="ACT_INFO">Find out what's been happening on all your projects on a given day.</phrase>
+  <phrase section="Activity" data="ACT_INVUSR">invited the user</phrase>
+  <phrase section="Activity" data="ACT_NEXT">Next Day</phrase>
+  <phrase section="Activity" data="ACT_NOACC">Nothing happened in your [NAME] on this day.</phrase>
+  <phrase section="Activity" data="ACT_NOACTIVITY">Currently there are no activities for selected user.</phrase>
+  <phrase section="Activity" data="ACT_PREV">Previous Day</phrase>
+  <phrase section="Activity" data="ACT_TITLE">Activity</phrase>
+  <phrase section="Activity" data="ACT_UPLFILE">uploaded the file</phrase>
+
+  <!-- Companies -->
+  <phrase section="Companies" data="CMP_ADD">Add New Company</phrase>
+  <phrase section="Companies" data="CMP_ADDED_OK">Company [NAME] added successfully.</phrase>
+  <phrase section="Companies" data="CMP_ADDED_OK1">Company added successfully.</phrase>
+  <phrase section="Companies" data="CMP_ADDINFO">Additional Information</phrase>
+  <phrase section="Companies" data="CMP_ARCHIVED">Company [NAME] archived successfully.</phrase>
+  <phrase section="Companies" data="CMP_CHNAGED">Company changed successfully.</phrase>
+  <phrase section="Companies" data="CMP_CHS">Choose Company</phrase>
+  <phrase section="Companies" data="CMP_COM_DELETED">Company [NAME] deleted successfully.</phrase>
+  <phrase section="Companies" data="CMP_COMPANIES">Companies</phrase>
+  <phrase section="Companies" data="CMP_COMPANY">Company</phrase>
+  <phrase section="Companies" data="CMP_CREATE">Create Company</phrase>
+  <phrase section="Companies" data="CMP_CURRENCY_T">Default currency is set in system administration, however you can set different currency for each client. This setting affects time tracking records and invoicing for this client.</phrase>
+  <phrase section="Companies" data="CMP_DETAILS">Contact Details</phrase>
+  <phrase section="Companies" data="CMP_EDIT">Edit Company</phrase>
+  <phrase section="Companies" data="CMP_INFO">Company Info</phrase>
+  <phrase section="Companies" data="CMP_INFO1">Here you can add new company.</phrase>
+  <phrase section="Companies" data="CMP_INFO2">Here you can update company settings.</phrase>
+  <phrase section="Companies" data="CMP_JOBT">Job Type</phrase>
+  <phrase section="Companies" data="CMP_JOBTS">Select Job Type</phrase>
+  <phrase section="Companies" data="CMP_NAME">Company Name</phrase>
+  <phrase section="Companies" data="CMP_NEW">New Company</phrase>
+  <phrase section="Companies" data="CMP_NOHISTORY">No changes have been made for selected company.</phrase>
+  <phrase section="Companies" data="CMP_NOTE">Note</phrase>
+  <phrase section="Companies" data="CMP_NOTE_T">Note is invisible for Clients.</phrase>
+  <phrase section="Companies" data="CMP_PRJSEL">Which projects can they access?</phrase>
+  <phrase section="Companies" data="CMP_RATE">Hourly rates for this client</phrase>
+  <phrase section="Companies" data="CMP_RATEB">Enable Custom Hourly Rates</phrase>
+  <phrase section="Companies" data="CMP_RATEC">Custom Hourly Rates</phrase>
+  <phrase section="Companies" data="CMP_RESTORED">Company [NAME] restored successfully.</phrase>
+  <phrase section="Companies" data="CMP_SELECT">Select Company</phrase>
+  <phrase section="Companies" data="CMP_TRASHED">Company [NAME] moved to trash successfully.</phrase>
+  <phrase section="Companies" data="CMP_UPDATE_OK">Company updated successfully.</phrase>
+  <phrase section="Companies" data="CMP_WWW">Website Url</phrase>
+
+  <!-- Teams -->
+  <phrase section="Teams" data="TMS_CREATE">Create Team</phrase>
+  <phrase section="Teams" data="TMS_DELETED">Team [NAME] deleted successfully.</phrase>
+  <phrase section="Teams" data="TMS_INFO">You can group people into teams - you'll then be able to select them all at once when creating a project or subscribing them to a task.</phrase>
+  <phrase section="Teams" data="TMS_INFO1">Choose who to add to this team:</phrase>
+  <phrase section="Teams" data="TMS_INFO2">Members from other companies.</phrase>
+  <phrase section="Teams" data="TMS_INFO3">Already assigned to this team.</phrase>
+  <phrase section="Teams" data="TMS_INFO4">Here you can manage your teams.</phrase>
+  <phrase section="Teams" data="TMS_NAME">Team Name</phrase>
+  <phrase section="Teams" data="TMS_NEW">New Team</phrase>
+  <phrase section="Teams" data="TMS_NOTEAM">There aren't any teams yet. You can create different teams (eg. Designers, Developers). Then, next time you need to select a group, you'll be able to choose a team.</phrase>
+  <phrase section="Teams" data="TMS_PROCESS">All team members are processed successfully.</phrase>
+  <phrase section="Teams" data="TMS_TEAMS">Teams</phrase>
+  <phrase section="Teams" data="TMS_TITLE">Teams Overview</phrase>
+  <phrase section="Teams" data="TMS_TITLE2">Team Assignment</phrase>
+  <phrase section="Teams" data="TMS_UPDATE">Update Team</phrase>
+
+  <!-- Projects -->
+  <phrase section="Projects" data="PRJ_ADDED">Project created successfully</phrase>
+  <phrase section="Projects" data="PRJ_BUDGET">Budget</phrase>
+  <phrase section="Projects" data="PRJ_BUDGETIN">Budget in [CUR]</phrase>
+  <phrase section="Projects" data="PRJ_CAT_S">Select Category</phrase>
+  <phrase section="Projects" data="PRJ_CAT_T">If you have many projects, choose a category to stay organized.</phrase>
+  <phrase section="Projects" data="PRJ_CATNAME">Category Name</phrase>
+  <phrase section="Projects" data="PRJ_CREATE">Create Project</phrase>
+  <phrase section="Projects" data="PRJ_DEL_OK">Project [NAME] deleted successfully.</phrase>
+  <phrase section="Projects" data="PRJ_DESC">Product Description</phrase>
+  <phrase section="Projects" data="PRJ_INFO">See everything that you and your team are working on.</phrase>
+  <phrase section="Projects" data="PRJ_INFO2">There aren't any completed projects yet.</phrase>
+  <phrase section="Projects" data="PRJ_INV_ERR">Please select at least one Member or Client.</phrase>
+  <phrase section="Projects" data="PRJ_INVALID_ID">Invalid Project ID</phrase>
+  <phrase section="Projects" data="PRJ_JOBNAME">Name of the job type</phrase>
+  <phrase section="Projects" data="PRJ_LABEL">Label</phrase>
+  <phrase section="Projects" data="PRJ_LABEL">Project Label</phrase>
+  <phrase section="Projects" data="PRJ_LABEL_S">Select Label</phrase>
+  <phrase section="Projects" data="PRJ_LABEL_T">The label shows what stage the project is in.</phrase>
+  <phrase section="Projects" data="PRJ_LABELS">Labels</phrase>
+  <phrase section="Projects" data="PRJ_MYPRJ">My Projects</phrase>
+  <phrase section="Projects" data="PRJ_TYPE">Project Type</phrase>
+  <phrase section="Projects" data="PRJ_NEWJTYPE">New Job Type</phrase>
+  <phrase section="Projects" data="PRJ_NOACT">Currently there are no activities for selected project.</phrase>
+  <phrase section="Projects" data="PRJ_NOPRJ">Start your first project and invite people to join your [COMPANY]</phrase>
+  <phrase section="Projects" data="PRJ_NOPRJ1">Currently there are no active projects.</phrase>
+  <phrase section="Projects" data="PRJ_PRJNAME">Project Name</phrase>
+  <phrase section="Projects" data="PRJ_PRJSTART">Start a New Project</phrase>
+  <phrase section="Projects" data="PRJ_PRJTPL">Templates</phrase>
+  <phrase section="Projects" data="PRJ_PROJECT">Project</phrase>
+  <phrase section="Projects" data="PRJ_PROJECTS">Projects</phrase>
+  <phrase section="Projects" data="PRJ_PRORTM">Person or Team</phrase>
+  <phrase section="Projects" data="PRJ_RATE">Rate</phrase>
+  <phrase section="Projects" data="PRJ_REST_OK">Project [NAME] restored successfully.</phrase>
+  <phrase section="Projects" data="PRJ_SKIP">Skip and go to the Project</phrase>
+  <phrase section="Projects" data="PRJ_SUB">You can invite members, subcontractors, teams and clients to work with you on this project</phrase>
+  <phrase section="Projects" data="PRJ_SUB1">Members can see and create everything in the project. You can choose a leader ([ICON]) who'll be able to manage this project.</phrase>
+  <phrase section="Projects" data="PRJ_SUB10">Date of completion</phrase>
+  <phrase section="Projects" data="PRJ_SUB11">Reopen</phrase>
+  <phrase section="Projects" data="PRJ_SUB12">Project Tasks</phrase>
+  <phrase section="Projects" data="PRJ_SUB2">Clients can leave comments and create discussions, notes, or files. They can't be assigned to tasks or create new ones themselves.</phrase>
+  <phrase section="Projects" data="PRJ_SUB3">When done adding members and clients, don’t forget to send Invitations.</phrase>
+  <phrase section="Projects" data="PRJ_SUB4">Active Projects</phrase>
+  <phrase section="Projects" data="PRJ_SUB5">Manage Task Labels</phrase>
+  <phrase section="Projects" data="PRJ_SUB6">Complete</phrase>
+  <phrase section="Projects" data="PRJ_SUB7">Project Info</phrase>
+  <phrase section="Projects" data="PRJ_SUB8">Manage &amp; Invite People</phrase>
+  <phrase section="Projects" data="PRJ_SUB9">Completed Projects</phrase>
+  <phrase section="Projects" data="PRJ_TIMEXP">Time and Expenses</phrase>
+  <phrase section="Projects" data="PRJ_TIMEXP_T">Enable time and expense tracking</phrase>
+  <phrase section="Projects" data="PRJ_TITLE1">New Project</phrase>
+  <phrase section="Projects" data="PRJ_TITLE2">Project Notes</phrase>
+  <phrase section="Projects" data="PRJ_TITLE3">Project Activity</phrase>
+  <phrase section="Projects" data="PRJ_TM_INFO">Team with [NUMBER] members</phrase>
+  <phrase section="Projects" data="PRJ_TRASH_OK">Project [NAME] moved to trash successfully.</phrase>
+  <phrase section="Projects" data="PRJ_UPDATE">Update Project</phrase>
+  <phrase section="Projects" data="PRJ_UPDATED">Project updated successfully.</phrase>
+
+  <!-- Tasks -->
+  <phrase section="Tasks" data="TSK_ADD">Add a Task</phrase>
+  <phrase section="Tasks" data="TSK_ADDED_OK">Task [NAME] added successfully.</phrase>
+  <phrase section="Tasks" data="TSK_ADDLIST">Add Task List</phrase>
+  <phrase section="Tasks" data="TSK_ADDN">Add Task</phrase>
+  <phrase section="Tasks" data="TSK_BILL_ERR">Please select Job Type</phrase>
+  <phrase section="Tasks" data="TSK_BTN1">Add Time</phrase>
+  <phrase section="Tasks" data="TSK_BTN2">Add Expense</phrase>
+  <phrase section="Tasks" data="TSK_COPY_OK">Task List [NAME] copied successfully.</phrase>
+  <phrase section="Tasks" data="TSK_DEL_OK">Task [NAME] deleted successfully.</phrase>
+  <phrase section="Tasks" data="TSK_DESC">Write Description</phrase>
+  <phrase section="Tasks" data="TSK_ER_DEL_OK">Expense Record [NAME] deleted successfully.</phrase>
+  <phrase section="Tasks" data="TSK_HOURSOF">hours of</phrase>
+  <phrase section="Tasks" data="TSK_INFO1">Select List</phrase>
+  <phrase section="Tasks" data="TSK_INFO2">Select Assignee</phrase>
+  <phrase section="Tasks" data="TSK_INFO3">Select Labels</phrase>
+  <phrase section="Tasks" data="TSK_INFO4">Select Due Date</phrase>
+  <phrase section="Tasks" data="TSK_INFO5">Write a comment...</phrase>
+  <phrase section="Tasks" data="TSK_INFO6">Not Assigned to Any task List</phrase>
+  <phrase section="Tasks" data="TSK_LISTADD_OK">Task List added successfully.</phrase>
+  <phrase section="Tasks" data="TSK_LISTNAME">Task List Name</phrase>
+  <phrase section="Tasks" data="TSK_LISTUPD_OK">Task List updated successfully.</phrase>
+  <phrase section="Tasks" data="TSK_MYTASKS">My Tasks</phrase>
+  <phrase section="Tasks" data="TSK_NAME">Task Name</phrase>
+  <phrase section="Tasks" data="TSK_NOTSK">You don't have any completed tasks for currently selected project.</phrase>
+  <phrase section="Tasks" data="TSK_NOTSK1">There are no tasks assigned for this project yet.</phrase>
+  <phrase section="Tasks" data="TSK_REST_OK">Time Record [NAME] restored successfully.</phrase>
+  <phrase section="Tasks" data="TSK_REST1_OK">Expense Record [NAME] restored successfully.</phrase>
+  <phrase section="Tasks" data="TSK_RESTORE_OK">Task [NAME] restored successfully.</phrase>
+  <phrase section="Tasks" data="TSK_SUB">Copy to Project</phrase>
+  <phrase section="Tasks" data="TSK_SUB1">Project Progress</phrase>
+  <phrase section="Tasks" data="TSK_SUB2">View Completed Tasks</phrase>
+  <phrase section="Tasks" data="TSK_SUB3">Time Estimation</phrase>
+  <phrase section="Tasks" data="TSK_SUB4">Assignees</phrase>
+  <phrase section="Tasks" data="TSK_SUB4_1">Assignee</phrase>
+  <phrase section="Tasks" data="TSK_SUB5">Task Lists</phrase>
+  <phrase section="Tasks" data="TSK_SUB5_1">Task List</phrase>
+  <phrase section="Tasks" data="TSK_SUB6">Subscribers</phrase>
+  <phrase section="Tasks" data="TSK_SUB7">Hidden from clients</phrase>
+  <phrase section="Tasks" data="TSK_SUB8">High priority</phrase>
+  <phrase section="Tasks" data="TSK_SUB9">Time and Expense Tracking</phrase>
+  <phrase section="Tasks" data="TSK_SUB10">time estimate</phrase>
+  <phrase section="Tasks" data="TSK_SUB11">Choose User</phrase>
+  <phrase section="Tasks" data="TSK_SUB12">Show History of Changes</phrase>
+  <phrase section="Tasks" data="TSK_SUB13">Hide History of Changes</phrase>
+  <phrase section="Tasks" data="TSK_SUB14">Completed Tasks</phrase>
+  <phrase section="Tasks" data="TSK_SUB15">Message</phrase>
+  <phrase section="Tasks" data="TSK_SUB16">Add Comment</phrase>
+  <phrase section="Tasks" data="TSK_SUB17">Update Comment</phrase>
+  <phrase section="Tasks" data="TSK_TASK">Task</phrase>
+  <phrase section="Tasks" data="TSK_TASKS">Tasks</phrase>
+  <phrase section="Tasks" data="TSK_TIME_EG">Enter time, eg. 1.30</phrase>
+  <phrase section="Tasks" data="TSK_TITLE1">Project Tasks</phrase>
+  <phrase section="Tasks" data="TSK_TITLE2">Update Status</phrase>
+  <phrase section="Tasks" data="TSK_TITLE3">Project Task</phrase>
+  <phrase section="Tasks" data="TSK_TR_DEL_OK">Time Record [NAME] deleted successfully.</phrase>
+  <phrase section="Tasks" data="TSK_TRASH_OK">Task List [NAME] moved to trash successfully.</phrase>
+  <phrase section="Tasks" data="TSK_TRASH1_OK">Task [NAME] moved to trash successfully.</phrase>
+  <phrase section="Tasks" data="TSK_TRASH2_OK">Expense Record [NAME] moved to trash successfully.</phrase>
+  <phrase section="Tasks" data="TSK_TRASH3_OK">Message [NAME] moved to trash successfully.</phrase>
+  <phrase section="Tasks" data="TSK_TSKPRGS">Completed [a] of [b] tasks. [c] still open.</phrase>
+  <phrase section="Tasks" data="TSK_UPDATE">Update Task</phrase>
+  <phrase section="Tasks" data="TSK_UPDATE_OK">Task [NAME] updated successfully.</phrase>
+
+  <!-- Time Records -->
+  <phrase section="Time Records" data="TMR_ADDED_OK">Time Record added successfully.</phrase>
+  <phrase section="Time Records" data="TMR_INFO1">Time Record [NAME] moved to project successfully!</phrase>
+  <phrase section="Time Records" data="TMR_INFO2">There was an error moving time record.</phrase>
+  <phrase section="Time Records" data="TMR_INFO3">There aren't any time records for selected week.</phrase>
+  <phrase section="Time Records" data="TMR_NOTIME">There aren't any time records yet. Whenever someone logs time in this project, you’ll see it listed here.</phrase>
+  <phrase section="Time Records" data="TMR_MYTIME">My Time</phrase>
+  <phrase section="Time Records" data="TMR_SUB1">Total Time</phrase>
+  <phrase section="Time Records" data="TMR_SUB2">Total billable spending</phrase>
+  <phrase section="Time Records" data="TMR_SUB3">Choose the project you want to move [A] of [B] to</phrase>
+  <phrase section="Time Records" data="TMR_SUB4">Timesheet</phrase>
+  <phrase section="Time Records" data="TMR_SUB5">Weekly total</phrase>
+  <phrase section="Time Records" data="TMR_SUB6">Daily total</phrase>
+  <phrase section="Time Records" data="TMR_TITLE1">Add Time Record</phrase>
+  <phrase section="Time Records" data="TMR_TITLE2">Update Time Record</phrase>
+  <phrase section="Time Records" data="TMR_TITLE3">Move Time record to another project?</phrase>
+  <phrase section="Time Records" data="TMR_TITLE4">Move Time Record</phrase>
+  <phrase section="Time Records" data="TMR_TITLE5">Move to a project...</phrase>
+  <phrase section="Time Records" data="TMR_UPDATE_OK">Time Record updated successfully.</phrase>
+
+  <!-- Files -->
+  <phrase section="Files" data="FMG_ADD">Add Files</phrase>
+  <phrase section="Files" data="FMG_DEL_OK">File [NAME] deleted successfully.</phrase>
+  <phrase section="Files" data="FMG_INFO">There aren't any files in this project at the moment. When someone uploads a file or attaches it to a task, note, discussion, or comment - it'll show up here.</phrase>
+  <phrase section="Files" data="FMG_SUB1">Hide from clients</phrase>
+  <phrase section="Files" data="FMG_SUB2">Show to clients</phrase>
+  <phrase section="Files" data="FMG_TITLE">Project Files</phrase>
+  <phrase section="Files" data="FMG_UPLFILES">Upload Files</phrase>
+  <phrase section="Files" data="FMG_DRIVE_LINK">Drive Link</phrase>
+  <phrase section="Files" data="FMG_UPLLASTCONTRACT">Upload Latest Contract</phrase>
+  <phrase section="Files" data="CONTRACT_FILE">https://remotify.co/app/panel/Freelance-Firma-Sozlesme-Taslagi.pdf</phrase>
+  <phrase section="Files" data="CONTRACT_FILE_TEXT">Contract Example</phrase>
+  <phrase section="Files" data="DOWNLOAD_SAMPLE">Download Sample</phrase>
+
+  <!-- File Upload -->
+  <phrase section="File Upload" data="FU_ERROR7">Invalid image detected.</phrase>
+  <phrase section="File Upload" data="FU_ERROR8">Invalid file extension. Allowed extensions are:</phrase>
+  <phrase section="File Upload" data="FU_ERROR9">Sorry but there is an error on our server. Please try again later.</phrase>
+  <phrase section="File Upload" data="FU_ERROR10">File is too big. Maximum allowed size is</phrase>
+  <phrase section="File Upload" data="FU_ERROR11">An unexpected error occurred, please try again later</phrase>
+  <phrase section="File Upload" data="FU_ERROR12">Sorry but there is an error on our server. Please try again later.</phrase>
+  <phrase section="File Upload" data="FU_ERROR13">The file could not be uploaded</phrase>
+  <phrase section="File Upload" data="FU_ERROR14">You need to select at least one file.</phrase>
+
+  <!-- Invoices -->
+  <phrase section="Invoices" data="INV_ACCESS">Access Logs</phrase>
+  <phrase section="Invoices" data="INV_ADDED">Invoice created successfully.</phrase>
+  <phrase section="Invoices" data="INV_ADDITEM">Add Item</phrase>
+  <phrase section="Invoices" data="INV_ADDPAY">Add Payment</phrase>
+  <phrase section="Invoices" data="INV_AMOUNT">Amount</phrase>
+  <phrase section="Invoices" data="INV_AMT_PAID">Amount Paid</phrase>
+  <phrase section="Invoices" data="INV_AMTIN">Amount in</phrase>
+  <phrase section="Invoices" data="INV_ARCH_OK">Invoice [NAME] archived successfully.</phrase>
+  <phrase section="Invoices" data="INV_BALDUE">Balance Due</phrase>
+  <phrase section="Invoices" data="INV_CANCEL_I">This action will move this invoice to archive. Are you sure you want to do this?</phrase>
+  <phrase section="Invoices" data="INV_CINV">Cancel Invoice</phrase>
+  <phrase section="Invoices" data="INV_CLCMP">Client Company Name</phrase>
+  <phrase section="Invoices" data="INV_CREATE">Create Invoice</phrase>
+  <phrase section="Invoices" data="INV_DEL_OK">Invoice [NAME] deleted successfully.</phrase>
+  <phrase section="Invoices" data="INV_DISREM">Disable Reminders</phrase>
+  <phrase section="Invoices" data="INV_DISREM_D">That means reminder emails won't be sent to clients when the invoice is overdue.</phrase>
+  <phrase section="Invoices" data="INV_DISREM_T">Are you sure you wish to disable overdue reminders for this invoice?</phrase>
+  <phrase section="Invoices" data="INV_DPDF">Download Pdf</phrase>
+  <phrase section="Invoices" data="INV_DUED">Due Date</phrase>
+  <phrase section="Invoices" data="INV_DUEON">Due On</phrase>
+  <phrase section="Invoices" data="INV_DUEON0">Due on Receipt</phrase>
+  <phrase section="Invoices" data="INV_DUEON1">10 days after issue</phrase>
+  <phrase section="Invoices" data="INV_DUEON2">15 days after issue</phrase>
+  <phrase section="Invoices" data="INV_DUEON3">30 days after issue</phrase>
+  <phrase section="Invoices" data="INV_DUEON4">60 days after issue</phrase>
+  <phrase section="Invoices" data="INV_DUEON5">Custom</phrase>
+  <phrase section="Invoices" data="INV_ENREM">Enable Reminders</phrase>
+  <phrase section="Invoices" data="INV_ENREM_D">That means reminder emails will be sent to clients when the invoice is overdue.</phrase>
+  <phrase section="Invoices" data="INV_ENREM_T">Are you sure you wish to enable overdue reminders for this invoice?</phrase>
+  <phrase section="Invoices" data="INV_FREQ">Frequency</phrase>
+  <phrase section="Invoices" data="INV_INFO_1">Private comments are invisible to clients and don't appear on the invoice PDF.</phrase>
+  <phrase section="Invoices" data="INV_INFO_2">The note will appear at the bottom of the invoice PDF. It can contain additional information, payment details or a thank you message.</phrase>
+  <phrase section="Invoices" data="INV_INFO1">Here you can create a new invoice.</phrase>
+  <phrase section="Invoices" data="INV_INFO2">Here you can edit current invoice.</phrase>
+  <phrase section="Invoices" data="INV_INFO3">Here you can duplicate current invoice.</phrase>
+  <phrase section="Invoices" data="INV_INFO4">Here you can manually assign payment for the invoice.</phrase>
+  <phrase section="Invoices" data="INV_INV_FROM">Invoice from</phrase>
+  <phrase section="Invoices" data="INV_INVOICE">Invoice</phrase>
+  <phrase section="Invoices" data="INV_INVOICES">Invoices</phrase>
+  <phrase section="Invoices" data="INV_ISBILL">Billable</phrase>
+  <phrase section="Invoices" data="INV_ISNOBILL">Non Billable</phrase>
+  <phrase section="Invoices" data="INV_ISSUED">Issued On</phrase>
+  <phrase section="Invoices" data="INV_ITEMCST">Item Cost</phrase>
+  <phrase section="Invoices" data="INV_ITMERROR">Too many Invoice items. Maximum allowed 10.</phrase>
+  <phrase section="Invoices" data="INV_MASEND">Mark As Sent</phrase>
+  <phrase section="Invoices" data="INV_MASEND_OK">Invoice marked as sent successfully.</phrase>
+  <phrase section="Invoices" data="INV_MKPAY">Mark Payment for Invoice</phrase>
+  <phrase section="Invoices" data="INV_NEWINV">New Invoice</phrase>
+  <phrase section="Invoices" data="INV_NEWINVR">New Recurring Invoice</phrase>
+  <phrase section="Invoices" data="INV_NOACCESS">No changes have been made for selected invoice.</phrase>
+  <phrase section="Invoices" data="INV_NOINV">There aren't any invoices yet. You can create different types of invoices (eg. one time payment or recurring).</phrase>
+  <phrase section="Invoices" data="INV_NOITEMS">No items found. Please refine your search criteria.</phrase>
+  <phrase section="Invoices" data="INV_NOTAX">No Tax</phrase>
+  <phrase section="Invoices" data="INV_OWNING">Owning</phrase>
+  <phrase section="Invoices" data="INV_PAID">Paid</phrase>
+  <phrase section="Invoices" data="INV_PAIDN">Not Paid</phrase>
+  <phrase section="Invoices" data="INV_PAIDO">Overdue</phrase>
+  <phrase section="Invoices" data="INV_PAIDP">Partial Pay</phrase>
+  <phrase section="Invoices" data="INV_PANDC">Canceled Invoices</phrase>
+  <phrase section="Invoices" data="INV_PAY_METHOD">Select Payment Method</phrase>
+  <phrase section="Invoices" data="INV_PAY_OK">Invoice payment added successfully.</phrase>
+  <phrase section="Invoices" data="INV_PAYD_OK">Invoice payment deleted successfully.</phrase>
+  <phrase section="Invoices" data="INV_PAYDATE">Payment Date</phrase>
+  <phrase section="Invoices" data="INV_PAYFULL">Pay in Full</phrase>
+  <phrase section="Invoices" data="INV_POK">Thank you! Payment completed successfully. Redirecting in 4 seconds...</phrase>
+  <phrase section="Invoices" data="INV_QTY">Quantity</phrase>
+  <phrase section="Invoices" data="INV_REC_NAME">Recurring Invoice Name</phrase>
+  <phrase section="Invoices" data="INV_REC_P">Recurring Period</phrase>
+  <phrase section="Invoices" data="INV_REC_T">Recurring Time</phrase>
+  <phrase section="Invoices" data="INV_REF">Reference</phrase>
+  <phrase section="Invoices" data="INV_REM_OK">Invoice reminder changed successfully.</phrase>
+  <phrase section="Invoices" data="INV_RES_OK">Invoice [NAME] restored successfully.</phrase>
+  <phrase section="Invoices" data="INV_RESEND">Resend</phrase>
+  <phrase section="Invoices" data="INV_SELREC">Select Recipient(s)</phrase>
+  <phrase section="Invoices" data="INV_SENDIV">Send Invoice</phrase>
+  <phrase section="Invoices" data="INV_SENDIVE">Send by Mail</phrase>
+  <phrase section="Invoices" data="INV_SENT">Sent</phrase>
+  <phrase section="Invoices" data="INV_SUB1">Find all draft, issued, pending, and paid invoices here.</phrase>
+  <phrase section="Invoices" data="INV_SUB2">Who is the Invoice for?</phrase>
+  <phrase section="Invoices" data="INV_SUB3">General Info</phrase>
+  <phrase section="Invoices" data="INV_SUB4">Items to be Billed</phrase>
+  <phrase section="Invoices" data="INV_SUB4_1">Free-form Invoice</phrase>
+  <phrase section="Invoices" data="INV_SUB4_2">Invoice based on tracked Time and Expenses in projects</phrase>
+  <phrase section="Invoices" data="INV_SUB5">What To Bill</phrase>
+  <phrase section="Invoices" data="INV_SUB5_1">Time Records</phrase>
+  <phrase section="Invoices" data="INV_SUB5_2">Expenses</phrase>
+  <phrase section="Invoices" data="INV_SUB5_3">Select Project</phrase>
+  <phrase section="Invoices" data="INV_SUB6">Time Period</phrase>
+  <phrase section="Invoices" data="INV_SUB6_1">All uninvoiced entries</phrase>
+  <phrase section="Invoices" data="INV_SUB6_2">Uninvoiced entries from</phrase>
+  <phrase section="Invoices" data="INV_SUB7">Add a Note</phrase>
+  <phrase section="Invoices" data="INV_SUB8">Add a private comment</phrase>
+  <phrase section="Invoices" data="INV_SUB8_1">Private Comment</phrase>
+  <phrase section="Invoices" data="INV_SUB9">If you're happy with this invoice, click 'Send by Email' to choose the recipient(s).</phrase>
+  <phrase section="Invoices" data="INV_SUB10">This invoice has been sent. You can resend it if needed.</phrase>
+  <phrase section="Invoices" data="INV_SUB11">Are you sure you want to mark this invoice as sent?</phrase>
+  <phrase section="Invoices" data="INV_SUB12">Are you sure you want to delete this payment record?</phrase>
+  <phrase section="Invoices" data="INV_SUB13">Invoiced To</phrase>
+  <phrase section="Invoices" data="INV_SUB14">Accessed by</phrase>
+  <phrase section="Invoices" data="INV_TAXRATE">Tax Rate</phrase>
+  <phrase section="Invoices" data="INV_TITLE1">New Invoice</phrase>
+  <phrase section="Invoices" data="INV_TITLE2">Edit Invoice</phrase>
+  <phrase section="Invoices" data="INV_TITLE3">Duplicate Invoice</phrase>
+  <phrase section="Invoices" data="INV_TITLE4">Mark Invoice As Sent</phrase>
+  <phrase section="Invoices" data="INV_TITLE5">Delete Payment Record</phrase>
+  <phrase section="Invoices" data="INV_TITLE6">Canceled Invoices</phrase>
+  <phrase section="Invoices" data="INV_TITLE7">Recurring Invoices</phrase>
+  <phrase section="Invoices" data="INV_TITLE8">Invoice Details</phrase>
+  <phrase section="Invoices" data="INV_TRASH_OK">Invoice [NAME] moved to trash successfully.</phrase>
+  <phrase section="Invoices" data="INV_UNSENT">Unsent</phrase>
+  <phrase section="Invoices" data="INV_UPDATE">Update Invoice</phrase>
+  <phrase section="Invoices" data="INV_UPDATED">Invoice updated successfully.</phrase>
+
+  <!-- Estimates -->
+  <phrase section="Estimates" data="EST_ADDED">Estimate created successfully.</phrase>
+  <phrase section="Estimates" data="EST_CREATE">Create Estimate</phrase>
+  <phrase section="Estimates" data="EST_DEL_OK">Estimate [NAME] deleted successfully.</phrase>
+  <phrase section="Estimates" data="EST_DRAFT">Draft</phrase>
+  <phrase section="Estimates" data="EST_EST_FROM">Estimate from</phrase>
+  <phrase section="Estimates" data="EST_ESTIMATE">Estimate</phrase>
+  <phrase section="Estimates" data="EST_ESTIMATES">Estimates</phrase>
+  <phrase section="Estimates" data="EST_INFO1">Here you can create a new estimate.</phrase>
+  <phrase section="Estimates" data="EST_INFO2">Here you can edit current estimate.</phrase>
+  <phrase section="Estimates" data="EST_INFO3">Here you can duplicate current estimate.</phrase>
+  <phrase section="Estimates" data="EST_LOST">Lost</phrase>
+  <phrase section="Estimates" data="EST_MARKLOST">Mark As Lost</phrase>
+  <phrase section="Estimates" data="EST_MARKWON">Mark As Won</phrase>
+  <phrase section="Estimates" data="EST_NAME">Estimate Name</phrase>
+  <phrase section="Estimates" data="EST_NEWEST">New Estimate</phrase>
+  <phrase section="Estimates" data="EST_NOEST">No estimates. On this page you’ll see the list of all sent, draft and most recently won or lost estimates. For more than that, check archive.</phrase>
+  <phrase section="Estimates" data="EST_RES_OK">Estimate [NAME] restored successfully.</phrase>
+  <phrase section="Estimates" data="EST_SENDES">Send Estimate</phrase>
+  <phrase section="Estimates" data="EST_STARTP">Start a Project</phrase>
+  <phrase section="Estimates" data="EST_SUB1">Take a look at expected project costs and client proposals.</phrase>
+  <phrase section="Estimates" data="EST_SUB2">Items in the estimate</phrase>
+  <phrase section="Estimates" data="EST_SUB3">If you're happy with this estimate, click 'Send by Email' to choose the recipient(s).</phrase>
+  <phrase section="Estimates" data="EST_SUB4">This estimate has been sent. You can resend it if needed.</phrase>
+  <phrase section="Estimates" data="EST_SUB5">Who is the Estimate for?</phrase>
+  <phrase section="Estimates" data="EST_TITLE1">Won &amp; Lost Estimates</phrase>
+  <phrase section="Estimates" data="EST_TITLE2">Edit Estimate</phrase>
+  <phrase section="Estimates" data="EST_TITLE3">Duplicate Estimate</phrase>
+  <phrase section="Estimates" data="EST_TITLE4">New Estimate</phrase>
+  <phrase section="Estimates" data="EST_TRASH_OK">Estimate [NAME] moved to trash successfully.</phrase>
+  <phrase section="Estimates" data="EST_UPDATE">Update Estimate</phrase>
+  <phrase section="Estimates" data="EST_UPDATED">Estimate updated successfully.</phrase>
+  <phrase section="Estimates" data="EST_WON">Won</phrase>
+
+  <!-- Language Manager -->
+  <phrase section="Language" data="LMG_INFO">Here you can update your language phrases. Note: Do not replace variables between [ ]. Click on Value name to edit.</phrase>
+  <phrase section="Language" data="LMG_KEY">Key</phrase>
+  <phrase section="Language" data="LMG_RESET">Reset Language Group Filter</phrase>
+  <phrase section="Language" data="LMG_SUB">Phrase Section</phrase>
+  <phrase section="Language" data="LMG_TITLE">Language Manager</phrase>
+  <phrase section="Language" data="LMG_VALUE">Value</phrase>
+
+  <!-- Front Dashboard -->
+  <phrase section="Dashboard" data="DASH">Dashboard</phrase>
+  <phrase section="Dashboard" data="DASH_INFO_1">Enter your name, set a password, and you’ll be ready in no time.</phrase>
+  <phrase section="Dashboard" data="DASH_INFO_2">When you're done, click the button below to enter your [COMPANY].</phrase>
+  <phrase section="Dashboard" data="DASH_INFO_3">You have successfully completed registration. Redirecting to dashboard.</phrase>
+  <phrase section="Dashboard" data="DASH_INFO_4">You have successfully verified your email address.</phrase>
+  <phrase section="Dashboard" data="DASH_INFO_5">Please complete your registration information.</phrase>
+
+  <!-- Email Templates -->
+  <phrase section="Email Templates" data="EMT_DESC">Description</phrase>
+  <phrase section="Email Templates" data="EMT_ERROR">Error loading template file</phrase>
+  <phrase section="Email Templates" data="EMT_ERROR2">Selected template does not exists.</phrase>
+  <phrase section="Email Templates" data="EMT_NOITEMS">It seems your email templates are missing. Please reinstall.</phrase>
+  <phrase section="Email Templates" data="EMT_NAME">Template Name</phrase>
+  <phrase section="Email Templates" data="EMT_SUB">Here you can design/update existing mailer templates.</phrase>
+  <phrase section="Email Templates" data="EMT_SUBJECT">Subject</phrase>
+  <phrase section="Email Templates" data="EMT_TITLE">Manage Email Templates</phrase>
+  <phrase section="Email Templates" data="EMT_SUB1">Edit email template.</phrase>
+  <phrase section="Email Templates" data="EMT_UPDATE">Update Template</phrase>
+  <phrase section="Email Templates" data="EMT_UPDATED">Template [NAME] updated successfully.</phrase>
+
+  <!-- Mailer -->
+  <phrase section="Mailer" data="EMN_ALERT">Some of the emails could not be reached!</phrase>
+  <phrase section="Mailer" data="EMN_ALERT1">Your email could not be reached!</phrase>
+  <phrase section="Mailer" data="EMN_FROM">Email From</phrase>
+  <phrase section="Mailer" data="EMN_INFO">Here you can send mail to your staff users/members.</phrase>
+  <phrase section="Mailer" data="EMN_NOTE">Note: Do not replace variables between [ ]</phrase>
+  <phrase section="Mailer" data="EMN_NOTEFROM">Notification From</phrase>
+  <phrase section="Mailer" data="EMN_REC">Recipients</phrase>
+  <phrase section="Mailer" data="EMN_REC_C">Members Only</phrase>
+  <phrase section="Mailer" data="EMN_REC_R">Please Select at least one user from the list</phrase>
+  <phrase section="Mailer" data="EMN_REC_S">Staff Only</phrase>
+  <phrase section="Mailer" data="EMN_REC_SEL">Select Recipients</phrase>
+  <phrase section="Mailer" data="EMN_REC_SUBJECT">Enter Subject</phrase>
+  <phrase section="Mailer" data="EMN_REC_T">Double click on left column to add users, or use arrows to add/remove.</phrase>
+  <phrase section="Mailer" data="EMN_SEND">Send Mail</phrase>
+  <phrase section="Mailer" data="EMN_SENT">All Email(s) have been sent successfully!</phrase>
+  <phrase section="Mailer" data="EM_VER_SENT">We have sent you a verification email. Please verify your email and continue!</phrase>
+  <phrase section="Mailer" data="EMN_SUB">Sending Email</phrase>
+  <phrase section="Mailer" data="EMN_SUJECT">Email Subject</phrase>
+  <phrase section="Mailer" data="EMN_TITLE">System Email Manager</phrase>
+  <phrase section="Mailer" data="EMN_TITLE1">Send Email</phrase>
+
+  <!-- Notes -->
+  <phrase section="Notes" data="NOT_ADDED_OK">Note added successfully.</phrase>
+  <phrase section="Notes" data="NOT_REM_OK">Note removed successfully.</phrase>
+  <phrase section="Notes" data="NOT_COLOR">Note Color</phrase>
+  <phrase section="Notes" data="NOT_EDIT">Edit Note</phrase>
+  <phrase section="Notes" data="NOT_INFO">Nobody has written anything yet. Use notes for collaborative writing and group your ideas into collections.</phrase>
+  <phrase section="Notes" data="NOT_INFO1">Note [NAME] moved to project successfully!</phrase>
+  <phrase section="Notes" data="NOT_NAME">Note Name</phrase>
+  <phrase section="Notes" data="NOT_NEW">Create Note</phrase>
+  <phrase section="Notes" data="NOT_NOTE">Note</phrase>
+  <phrase section="Notes" data="NOT_NOTES">Notes</phrase>
+  <phrase section="Notes" data="INT_NOTES">Interview Notes</phrase>
+  <phrase section="Notes" data="WEEKLY_UPDATE">Weekly Update</phrase>
+  <phrase section="Notes" data="NOT_SAVE">Save Note</phrase>
+  <phrase section="Notes" data="NOT_SUB1">Move / Copy to Project</phrase>
+  <phrase section="Notes" data="NOT_TITLE">Move note to project?</phrase>
+  <phrase section="Notes" data="NOT_TRASH_OK">Note [NAME] moved to trash successfully.</phrase>
+  <phrase section="Notes" data="NOT_RES_OK">Note [NAME] restored successfully.</phrase>
+  <phrase section="Notes" data="NOT_DEL_OK">Note [NAME] deleted successfully.</phrase>
+  <phrase section="Notes" data="NOT_UPDATE">Update Note</phrase>
+  <phrase section="Notes" data="NOT_UPDATE_OK">Note updated successfully.</phrase>
+  <phrase section="Notes" data="NOT_INV">Invalid Note ID.</phrase>
+
+  <!-- Messages -->
+  <phrase section="Messages" data="MSG_ADDED_OK">Discussion added successfully.</phrase>
+  <phrase section="Messages" data="MSG_DEL_OK">Message [NAME] deleted successfully.</phrase>
+  <phrase section="Messages" data="MSG_DISC">Discussions</phrase>
+  <phrase section="Messages" data="MSG_DISCN">Discussion</phrase>
+  <phrase section="Messages" data="MSG_EDIT">Edit Discussion</phrase>
+  <phrase section="Messages" data="MSG_INFO">Name of the Discussion</phrase>
+  <phrase section="Messages" data="MSG_INFO1">What is this discussion about...</phrase>
+  <phrase section="Messages" data="MSG_INFO3">When converting discussion to task, all comments, files and subscriptions will be transferred to the new task.</phrase>
+  <phrase section="Messages" data="MSG_INFO4">Discussion [NAME] converted to task successfully!</phrase>
+  <phrase section="Messages" data="MSG_INFO5">Discussion [NAME] moved to project successfully!</phrase>
+  <phrase section="Messages" data="MSG_INFO7">Leave a copy of this discussion in this project</phrase>
+  <phrase section="Messages" data="MSG_MSG">Message</phrase>
+  <phrase section="Messages" data="MSG_MSGS">Messages</phrase>
+  <phrase section="Messages" data="MSG_NEW">New Discussion</phrase>
+  <phrase section="Messages" data="MSG_NOMSG">No discussions in this project. Kick off a discussion and you'll see it listed on this page.</phrase>
+  <phrase section="Messages" data="MSG_RES_OK">Message [NAME] restored successfully.</phrase>
+  <phrase section="Messages" data="MSG_SUB1">Convert to Task</phrase>
+  <phrase section="Messages" data="MSG_SUB2">Move / Copy to Project</phrase>
+  <phrase section="Messages" data="MSG_SUB3">Recently active discussions</phrase>
+  <phrase section="Messages" data="MSG_TITLE">Create Discussion</phrase>
+  <phrase section="Messages" data="MSG_TITLE1">Update Discussion</phrase>
+  <phrase section="Messages" data="MSG_TITLE2">Convert [NAME] to a task?</phrase>
+  <phrase section="Messages" data="MSG_TITLE3">Move discussion [NAME] to project?</phrase>
+  <phrase section="Messages" data="MSG_TITLE4">Project Discussions</phrase>
+  <phrase section="Messages" data="MSG_TRASH2_OK">Message [NAME] moved to trash successfully.</phrase>
+  <phrase section="Messages" data="MSG_UPDATE_OK">Discussion updated successfully.</phrase>
+
+  <!-- Expenses -->
+  <phrase section="Expenses" data="EXP_ADDED_OK">Expense Record added successfully.</phrase>
+  <phrase section="Expenses" data="EXP_CAT_S">Select Expense Category</phrase>
+  <phrase section="Expenses" data="EXP_CATS">Expense Categories</phrase>
+  <phrase section="Expenses" data="EXP_INFO">There aren't any expense records for selected week.</phrase>
+  <phrase section="Expenses" data="EXP_NOTIME">There aren't any logged expenses yet. Whenever someone logs an expense in this project, you’ll see it listed here.</phrase>
+  <phrase section="Expenses" data="EXP_TITLE">Expense Records</phrase>
+  <phrase section="Expenses" data="EXP_TITLE1">Add Expense Record</phrase>
+  <phrase section="Expenses" data="EXP_TITLE2">Update Expense Record</phrase>
+  <phrase section="Expenses" data="EXP_UPDATE_OK">Expense Record updated successfully.</phrase>
+  <phrase section="Expenses" data="EXP_MYEXP">My Expenses</phrase>
+
+  <!-- Gateway -->
+  <phrase section="Gateway" data="GWT_EDIT">Edit Gateway</phrase>
+  <phrase section="Gateway" data="GWT_IPNURL">IPN Url</phrase>
+  <phrase section="Gateway" data="GWT_LIVE">Set Live Mode</phrase>
+  <phrase section="Gateway" data="GWT_NAME">Gateway Name</phrase>
+  <phrase section="Gateway" data="GWT_SUB">Here you can manage your list of available gateways.</phrase>
+  <phrase section="Gateway" data="GWT_SUB1">Edit payment gateway</phrase>
+  <phrase section="Gateway" data="GWT_TITLE">Manage Payment Gateways</phrase>
+  <phrase section="Gateway" data="GWT_UPDATE">Update Gateway</phrase>
+  <phrase section="Gateway" data="GWT_UPDATED">Gateway [NAME] Updated Successfully</phrase>
+
+  <!-- Reports -->
+  <phrase section="Reports" data="REP_EXPORT">Export to CVS</phrase>
+  <phrase section="Reports" data="REP_EXPORT_x">Export to Excel</phrase>
+  <phrase section="Reports" data="REP_INFO">Get the information you need by running a report.</phrase>
+  <phrase section="Reports" data="REP_INFO1">Overview of all recorded payments for current year.</phrase>
+  <phrase section="Reports" data="REP_INFO10_1">Making sure your projects are running within the budget</phrase>
+  <phrase section="Reports" data="REP_INFO11">There aren't any results for selected criteria.</phrase>
+  <phrase section="Reports" data="REP_INFO2_1">Billable time and expenses that haven't been invoiced yet</phrase>
+  <phrase section="Reports" data="REP_INFO2_2">There aren't any uninvoiced time or expense.</phrase>
+  <phrase section="Reports" data="REP_INFO4_1">Advanced task search and filtering</phrase>
+  <phrase section="Reports" data="REP_INFO5_1">Task distribution across team members</phrase>
+  <phrase section="Reports" data="REP_INFO7_1">Time records in all projects</phrase>
+  <phrase section="Reports" data="REP_INFO8_1">Tracked expenses in all projects</phrase>
+  <phrase section="Reports" data="REP_INFO9_1">Comparison of estimated vs. actual time spent on tasks</phrase>
+  <phrase section="Reports" data="REP_RUN">Run</phrase>
+  <phrase section="Reports" data="REP_SUB">Finances</phrase>
+  <phrase section="Reports" data="REP_SUB1">Payments</phrase>
+  <phrase section="Reports" data="REP_SUB10">Project Budget vs Cost</phrase>
+  <phrase section="Reports" data="REP_SUB11">Any Project</phrase>
+  <phrase section="Reports" data="REP_SUB12">Completed Project</phrase>
+  <phrase section="Reports" data="REP_SUB13">From Category</phrase>
+  <phrase section="Reports" data="REP_SUB14">From Company</phrase>
+  <phrase section="Reports" data="REP_SUB15">Assigned To</phrase>
+  <phrase section="Reports" data="REP_SUB16">Assigned to Users</phrase>
+  <phrase section="Reports" data="REP_SUB17">No List</phrase>
+  <phrase section="Reports" data="REP_SUB18">No Label</phrase>
+  <phrase section="Reports" data="REP_SUB19">Due Date not Set</phrase>
+  <phrase section="Reports" data="REP_SUB2">Uninvoiced</phrase>
+  <phrase section="Reports" data="REP_SUB2_1">Uninvoiced Time and Expenses</phrase>
+  <phrase section="Reports" data="REP_SUB2_2">Uninvoiced Amount</phrase>
+  <phrase section="Reports" data="REP_SUB20">Date Range</phrase>
+  <phrase section="Reports" data="REP_SUB21">Not Completed</phrase>
+  <phrase section="Reports" data="REP_SUB22">Name of the task</phrase>
+  <phrase section="Reports" data="REP_SUB23">All Projects</phrase>
+  <phrase section="Reports" data="REP_SUB24">Choose a Project</phrase>
+  <phrase section="Reports" data="REP_SUB25">Group By</phrase>
+  <phrase section="Reports" data="REP_SUB26">Billable Hours</phrase>
+  <phrase section="Reports" data="REP_SUB27">Hide detailed report</phrase>
+  <phrase section="Reports" data="REP_SUB28">Expense Category</phrase>
+  <phrase section="Reports" data="REP_SUB29">Billable Amount</phrase>
+  <phrase section="Reports" data="REP_SUB3">Assignments</phrase>
+  <phrase section="Reports" data="REP_SUB30">Other Expenses</phrase>
+  <phrase section="Reports" data="REP_SUB31">Hourly Rate</phrase>
+  <phrase section="Reports" data="REP_SUB32">Cost So Far</phrase>
+  <phrase section="Reports" data="REP_SUB33">Spent So Far</phrase>
+  <phrase section="Reports" data="REP_SUB4">Tasks</phrase>
+  <phrase section="Reports" data="REP_SUB5">Workload</phrase>
+  <phrase section="Reports" data="REP_SUB6">Time and Expenses</phrase>
+  <phrase section="Reports" data="REP_SUB7">Time Tracking</phrase>
+  <phrase section="Reports" data="REP_SUB8">Expense Tracking</phrase>
+  <phrase section="Reports" data="REP_SUB9">Estimated vs. Tracked Time</phrase>
+  <phrase section="Reports" data="REP_TITLE">Reports</phrase>
+  <phrase section="Reports" data="REP_TOTAL_AMT">Total Amount</phrase>
+  <phrase section="Reports" data="REP_TOTAL_PAY">No of payments</phrase>
+
+  <!-- System Info -->
+  <phrase section="System Info" data="SYS_ADMVIEW">Admin View</phrase>
+  <phrase section="System Info" data="SYS_CMS_INF">CMS Info</phrase>
+  <phrase section="System Info" data="SYS_CMS_VER">CMS Version</phrase>
+  <phrase section="System Info" data="SYS_DBOPTIMIZED">Optimized</phrase>
+  <phrase section="System Info" data="SYS_DBOPTIMIZING">Optimizing</phrase>
+  <phrase section="System Info" data="SYS_DBREPAIRED">Repaired</phrase>
+  <phrase section="System Info" data="SYS_DBREPAIRING">Repairing</phrase>
+  <phrase section="System Info" data="SYS_DBSTATUS">Status</phrase>
+  <phrase section="System Info" data="SYS_DBTABLE">Table</phrase>
+  <phrase section="System Info" data="SYS_DBTABLE_INF">Database Tables</phrase>
+  <phrase section="System Info" data="SYS_DBV">Server Database Version</phrase>
+  <phrase section="System Info" data="SYS_DEF_LANG">Default Language</phrase>
+  <phrase section="System Info" data="SYS_GD_VER">GD Version</phrase>
+  <phrase section="System Info" data="SYS_INFO">The information displayed below is collected from a variety of locations, and summarized here so that you may be able to conveniently find some of the information required when trying to diagnose a problem or request help with your FM v.[VER] installation.</phrase>
+  <phrase section="System Info" data="SYS_LOG_ERR">Log Errors</phrase>
+  <phrase section="System Info" data="SYS_MEM_LIM">Memory Limit</phrase>
+  <phrase section="System Info" data="SYS_MEMALO">Maximum Allocated Memory</phrase>
+  <phrase section="System Info" data="SYS_MQR">Magic quotes in runtime</phrase>
+  <phrase section="System Info" data="SYS_PHP_INF">PHP Info</phrase>
+  <phrase section="System Info" data="SYS_PHP_INFO">PHP Information</phrase>
+  <phrase section="System Info" data="SYS_PHP_VER">Current PHP Version</phrase>
+  <phrase section="System Info" data="SYS_PMF">Post Max. filesize</phrase>
+  <phrase section="System Info" data="SYS_RG">Register Globals</phrase>
+  <phrase section="System Info" data="SYS_ROOT_PATH">Root Path</phrase>
+  <phrase section="System Info" data="SYS_ROOT_URL">Root Url</phrase>
+  <phrase section="System Info" data="SYS_SER_API">Server API</phrase>
+  <phrase section="System Info" data="SYS_SER_DB">Server Database</phrase>
+  <phrase section="System Info" data="SYS_SER_INF">Server Info</phrase>
+  <phrase section="System Info" data="SYS_SER_MR">Apache Mod Rewrite</phrase>
+  <phrase section="System Info" data="SYS_SER_OS">Server OS</phrase>
+  <phrase section="System Info" data="SYS_SERVER_INFO">Server Information</phrase>
+  <phrase section="System Info" data="SYS_SM">Safe Mode</phrase>
+  <phrase section="System Info" data="SYS_SSP">Session Save Path</phrase>
+  <phrase section="System Info" data="SYS_STS">Server Total Space</phrase>
+  <phrase section="System Info" data="SYS_SUB">Viewing System Information</phrase>
+  <phrase section="System Info" data="SYS_TITLE">System Information</phrase>
+  <phrase section="System Info" data="SYS_UMF">Upload Max. filesize</phrase>
+  <phrase section="System Info" data="SYS_UPL_PATH">Uploads Path</phrase>
+  <phrase section="System Info" data="SYS_UPL_URL">Uploads Url</phrase>
+
+  <!-- Calendar -->
+  <phrase section="Calendar" data="CAL_ADDED">Calendar [NAME] added successfully.</phrase>
+  <phrase section="Calendar" data="CAL_CALENDAR">Calendar</phrase>
+  <phrase section="Calendar" data="CAL_CALENDARS">Calendars</phrase>
+  <phrase section="Calendar" data="CAL_COLOR">Calendar Color</phrase>
+  <phrase section="Calendar" data="CAL_CREATE">Create Calendar</phrase>
+  <phrase section="Calendar" data="CAL_DELETED">Calendar [NAME] deleted successfully.</phrase>
+  <phrase section="Calendar" data="CAL_EADDED">Event [NAME] added successfully.</phrase>
+  <phrase section="Calendar" data="CAL_EDELETED">Event [NAME] deleted successfully.</phrase>
+  <phrase section="Calendar" data="CAL_END_DATE">End Date</phrase>
+  <phrase section="Calendar" data="CAL_END_TIME">End Time</phrase>
+  <phrase section="Calendar" data="CAL_ERESTORED">Event [NAME] restored successfully.</phrase>
+  <phrase section="Calendar" data="CAL_ETITLE">Event Title</phrase>
+  <phrase section="Calendar" data="CAL_ETRASHED">Event [NAME] moved to trash successfully.</phrase>
+  <phrase section="Calendar" data="CAL_EUPDATED">Event [NAME] updated successfully.</phrase>
+  <phrase section="Calendar" data="CAL_NAME">Calendar Name</phrase>
+  <phrase section="Calendar" data="CAL_NEW">New Calendar</phrase>
+  <phrase section="Calendar" data="CAL_RESTORED">Calendar [NAME] restored successfully.</phrase>
+  <phrase section="Calendar" data="CAL_SAVE">Save Calendar</phrase>
+  <phrase section="Calendar" data="CAL_START_DATE">Start Date</phrase>
+  <phrase section="Calendar" data="CAL_START_TIME">Start Time</phrase>
+  <phrase section="Calendar" data="CAL_SUB1">Who can see this calendar beside you?</phrase>
+  <phrase section="Calendar" data="CAL_SUB2">Edit date and recurrence</phrase>
+  <phrase section="Calendar" data="CAL_TRASHED">Calendar [NAME] moved to trash successfully.</phrase>
+  <phrase section="Calendar" data="CAL_UPDATE">Update Calendar</phrase>
+  <phrase section="Calendar" data="CAL_UPDATED">Calendar [NAME] updated successfully.</phrase>
+  <phrase section="Calendar" data="CAL_WHEN">When?</phrase>
+
+  <!-- Configuration -->
+  <phrase section="Configuration" data="CFG_AVTWH">Avatar width/Height</phrase>
+  <phrase section="Configuration" data="CFG_COMPANY">Company Name</phrase>
+  <phrase section="Configuration" data="CFG_CURRENCY">Default Currency</phrase>
+  <phrase section="Configuration" data="CFG_CURRENCY_T">Enter your currency such as CAD, USD, EUR</phrase>
+  <phrase section="Configuration" data="CFG_DIR">Site Directory</phrase>
+  <phrase section="Configuration" data="CFG_DTZ">Default Time Zone</phrase>
+  <phrase section="Configuration" data="CFG_EUCOOKIE">EU Cookie Law Notice</phrase>
+  <phrase section="Configuration" data="CFG_EUCOOKIE1">Enable EU Cookie Law Notice</phrase>
+  <phrase section="Configuration" data="CFG_FBID">Facebook ID</phrase>
+  <phrase section="Configuration" data="CFG_FILEE">Default File Extensions</phrase>
+  <phrase section="Configuration" data="CFG_FILES">Default Filesize</phrase>
+  <phrase section="Configuration" data="CFG_INFO">Here you can view and manage important aspects of your site configuration options.</phrase>
+  <phrase section="Configuration" data="CFG_INVCMPINFO">Invoice Company Info</phrase>
+  <phrase section="Configuration" data="CFG_INVIEW">Invoice Default View</phrase>
+  <phrase section="Configuration" data="CFG_INVPRFX">Invoice Prefix</phrase>
+  <phrase section="Configuration" data="CFG_JOB_TYPES">Job Types</phrase>
+  <phrase section="Configuration" data="CFG_LANG">Default Language</phrase>
+  <phrase section="Configuration" data="CFG_LOCALES">Default Locale</phrase>
+  <phrase section="Configuration" data="CFG_LOCALES_T">Locales are used for displaying dates in your own language format.</phrase>
+  <phrase section="Configuration" data="CFG_LOGO">Company Logo</phrase>
+  <phrase section="Configuration" data="CFG_LOGO_DEL">Delete Logo</phrase>
+  <phrase section="Configuration" data="CFG_LOGO_PRINT">Print Logo</phrase>
+  <phrase section="Configuration" data="CFG_LOGO_R">Illegal file type. Only jpg and png file types allowed.</phrase>
+  <phrase section="Configuration" data="CFG_LOGO_T">If no logo exists, Company Name will be used instead</phrase>
+  <phrase section="Configuration" data="CFG_LONGDATE">Long Date</phrase>
+  <phrase section="Configuration" data="CFG_MAILER">Default Mailer</phrase>
+  <phrase section="Configuration" data="CFG_MAILER_T">Use PHP Mailer or SMTP protocol for sending emails</phrase>
+  <phrase section="Configuration" data="CFG_OFFLINE">Put Site Offline</phrase>
+  <phrase section="Configuration" data="CFG_OFFLINE_DATE">Offline Date</phrase>
+  <phrase section="Configuration" data="CFG_OFFLINE_MSG">Offline Message</phrase>
+  <phrase section="Configuration" data="CFG_OFFLINE_TIME">Offline Time</phrase>
+  <phrase section="Configuration" data="CFG_OVERDUE">Overdue Reminders</phrase>
+  <phrase section="Configuration" data="CFG_OVERDUE_1">after due date</phrase>
+  <phrase section="Configuration" data="CFG_PERPAGE">Items Per Page</phrase>
+  <phrase section="Configuration" data="CFG_PERPAGE_T">Default number of items used for pagination</phrase>
+  <phrase section="Configuration" data="CFG_PHONE">Phone Number</phrase>
+  <phrase section="Configuration" data="CFG_PRJCATS">Project Categories</phrase>
+  <phrase section="Configuration" data="CFG_PRJLABELS">Project Labels</phrase>
+  <phrase section="Configuration" data="CFG_PRJLABNAME">Label Name</phrase>
+  <phrase section="Configuration" data="CFG_PRJVIEW">Project Default View</phrase>
+  <phrase section="Configuration" data="CFG_PSIZE">Invoice Page Format</phrase>
+  <phrase section="Configuration" data="CFG_SCURRENCY">Set Currency</phrase>
+  <phrase section="Configuration" data="CFG_SCURRENCY_S">Currency</phrase>
+  <phrase section="Configuration" data="CFG_SHORTDATE">Short Date</phrase>
+  <phrase section="Configuration" data="CFG_SMAILPATH">Sendmail Path</phrase>
+  <phrase section="Configuration" data="CFG_SMAILPATH_T">Ask your hosting company for sandmail path if unsure. Usually: /usr/sbin/sendmail -t -i</phrase>
+  <phrase section="Configuration" data="CFG_SMTP_HOST">SMTP Hostname</phrase>
+  <phrase section="Configuration" data="CFG_SMTP_HOST_T">Specify main SMTP server. E.g.:(mail.yourserver.com)</phrase>
+  <phrase section="Configuration" data="CFG_SMTP_PASS">SMTP Password</phrase>
+  <phrase section="Configuration" data="CFG_SMTP_PORT">SMTP Port</phrase>
+  <phrase section="Configuration" data="CFG_SMTP_PORT_T">Mail server port ( Can be 25, 26. 456 for GMAIL. 587 for Yahoo ). Ask your host if uncertain.</phrase>
+  <phrase section="Configuration" data="CFG_SMTP_SSL">Requires SSL</phrase>
+  <phrase section="Configuration" data="CFG_SMTP_SSL_T">Choose Yes if your server requires SSL connection</phrase>
+  <phrase section="Configuration" data="CFG_SMTP_USER">SMTP Username</phrase>
+  <phrase section="Configuration" data="CFG_SUB1">Technical Information</phrase>
+  <phrase section="Configuration" data="CFG_SUB1_1">Edit Technical Settings</phrase>
+  <phrase section="Configuration" data="CFG_SUB1_2">Edit Global Settings</phrase>
+  <phrase section="Configuration" data="CFG_SUB1_3">Edit General Settings</phrase>
+  <phrase section="Configuration" data="CFG_SUB1_4">Edit Project Settings</phrase>
+  <phrase section="Configuration" data="CFG_SUB1_5">Edit Time and Expenses</phrase>
+  <phrase section="Configuration" data="CFG_SUB1_6">Edit Invoicing Settings</phrase>
+  <phrase section="Configuration" data="CFG_SUB10">Name of the tax.</phrase>
+  <phrase section="Configuration" data="CFG_SUB11">Tax</phrase>
+  <phrase section="Configuration" data="CFG_SUB12">Edit Project</phrase>
+  <phrase section="Configuration" data="CFG_SUB2">Global Settings</phrase>
+  <phrase section="Configuration" data="CFG_SUB3">General Settings</phrase>
+  <phrase section="Configuration" data="CFG_SUB4">Project Settings</phrase>
+  <phrase section="Configuration" data="CFG_SUB5">Time and Expenses</phrase>
+  <phrase section="Configuration" data="CFG_SUB6">Invoicing</phrase>
+  <phrase section="Configuration" data="CFG_SUB7">Job Types &amp; Hourly Rates</phrase>
+  <phrase section="Configuration" data="CFG_SUB7_1">You can still replace these rates with project or company specific hourly rates. The currency is set per project.</phrase>
+  <phrase section="Configuration" data="CFG_SUB8">Rate per hour</phrase>
+  <phrase section="Configuration" data="CFG_SUB9">Set the tax rates which will be available when creating invoices and estimates.</phrase>
+  <phrase section="Configuration" data="CFG_TASKL">Task Labels</phrase>
+  <phrase section="Configuration" data="CFG_TAX">Enable Tax</phrase>
+  <phrase section="Configuration" data="CFG_TAX_RATE">Tax Rate</phrase>
+  <phrase section="Configuration" data="CFG_TAX_T">If Yes, taxes will be applied, based on user country.</phrase>
+  <phrase section="Configuration" data="CFG_THEME">Website Theme</phrase>
+  <phrase section="Configuration" data="CFG_TIME">Time Format</phrase>
+  <phrase section="Configuration" data="CFG_TIME_1">12 hour clock</phrase>
+  <phrase section="Configuration" data="CFG_TIME_2">24 hour clock</phrase>
+  <phrase section="Configuration" data="CFG_TITLE">System Configuration</phrase>
+  <phrase section="Configuration" data="CFG_TWID">Twitter ID</phrase>
+  <phrase section="Configuration" data="CFG_UPDATE">Update Configuration</phrase>
+  <phrase section="Configuration" data="CFG_UPDATED">Configuration updated successfully.</phrase>
+  <phrase section="Configuration" data="CFG_WEBEMAIL">Website Email</phrase>
+  <phrase section="Configuration" data="CFG_WEEKSTART">First Day of the Week</phrase>
+
+  <!-- Pagination -->
+  <phrase section="Pagination" data="CURPAGE">Current Page</phrase>
+  <phrase section="Pagination" data="GOTO">Go To</phrase>
+  <phrase section="Pagination" data="IPP">Items Per Page</phrase>
+  <phrase section="Pagination" data="NEXT">Next</phrase>
+  <phrase section="Pagination" data="OF">of</phrase>
+  <phrase section="Pagination" data="TOTAL">Total</phrase>
+
+  <!-- Trash -->
+  <phrase section="Trash" data="TRS_DELGOOD">Delete Forever</phrase>
+  <phrase section="Trash" data="TRS_INFO">Items older than 30 days are automatically deleted forever.</phrase>
+  <phrase section="Trash" data="TRS_NOTRS">Trash is empty.</phrase>
+  <phrase section="Trash" data="TRS_TEMPTY">Empty Trash</phrase>
+  <phrase section="Trash" data="TRS_TITLE">Trash</phrase>
+  <phrase section="Trash" data="TRS_TRS_OK">All Records in trash can are now removed.</phrase>
+
+  <!-- Crumbs -->
+  <phrase section="Crumbs" data="NAV_1">members</phrase>
+  <phrase section="Crumbs" data="NAV_2">teams</phrase>
+  <phrase section="Crumbs" data="NAV_3">archive</phrase>
+  <phrase section="Crumbs" data="NAV_4">invite</phrase>
+  <phrase section="Crumbs" data="NAV_5">companies</phrase>
+  <phrase section="Crumbs" data="NAV_6">permissions</phrase>
+  <phrase section="Crumbs" data="NAV_7">privileges</phrase>
+  <phrase section="Crumbs" data="NAV_8">language</phrase>
+  <phrase section="Crumbs" data="NAV_9">email templates</phrase>
+  <phrase section="Crumbs" data="NAV_10">templates</phrase>
+  <phrase section="Crumbs" data="NAV_11">edit</phrase>
+  <phrase section="Crumbs" data="NAV_12">gateways</phrase>
+  <phrase section="Crumbs" data="NAV_13">password</phrase>
+  <phrase section="Crumbs" data="NAV_14">account overview</phrase>
+  <phrase section="Crumbs" data="NAV_15">myaccount</phrase>
+  <phrase section="Crumbs" data="NAV_16">activity</phrase>
+  <phrase section="Crumbs" data="NAV_17">invoices</phrase>
+  <phrase section="Crumbs" data="NAV_18">new</phrase>
+  <phrase section="Crumbs" data="NAV_19">view</phrase>
+  <phrase section="Crumbs" data="NAV_20">archive</phrase>
+  <phrase section="Crumbs" data="NAV_21">recurring</phrase>
+  <phrase section="Crumbs" data="NAV_22">estimates</phrase>
+  <phrase section="Crumbs" data="NAV_23">invoice</phrase>
+  <phrase section="Crumbs" data="NAV_24">project</phrase>
+  <phrase section="Crumbs" data="NAV_25">projects</phrase>
+  <phrase section="Crumbs" data="NAV_26">task</phrase>
+  <phrase section="Crumbs" data="NAV_27">tasks</phrase>
+  <phrase section="Crumbs" data="NAV_28">discussions</phrase>
+  <phrase section="Crumbs" data="NAV_29">calendar</phrase>
+  <phrase section="Crumbs" data="NAV_30">configuration</phrase>
+  <phrase section="Crumbs" data="NAV_31">reports</phrase>
+  <phrase section="Crumbs" data="NAV_32">payments</phrase>
+  <phrase section="Crumbs" data="NAV_33">uninvoiced</phrase>
+  <phrase section="Crumbs" data="NAV_34">workload</phrase>
+  <phrase section="Crumbs" data="NAV_35">time</phrase>
+  <phrase section="Crumbs" data="NAV_36">expenses</phrase>
+  <phrase section="Crumbs" data="NAV_37">budget</phrase>
+  <phrase section="Crumbs" data="NAV_38">files</phrase>
+  <phrase section="Crumbs" data="NAV_39">notes</phrase>
+  <phrase section="Crumbs" data="NAV_40">times</phrase>
+  <phrase section="Crumbs" data="NAV_41">activity</phrase>
+  <phrase section="Crumbs" data="NAV_42">system</phrase>
+
+  <phrase section="Meta" data="META_WELCOME">Welcome to [COMPANY]</phrase>
+  <phrase section="Meta" data="META_ERROR">404</phrase>
+  <phrase section="Meta" data="META_ERROR1">Page not found!!!</phrase>
+  <phrase section="Meta" data="META_ERROR2">Oops!!! You have come to the wrong link.</phrase>
+  <phrase section="Meta" data="META_COOKIE">Accept Cookies &amp; Privacy Policy?</phrase>
+  <phrase section="Meta" data="META_COOKIE1">We use them to give you the best experience.</phrase>
+  <phrase section="Meta" data="META_COOKIE2">If you continue using our website, we'll assume that you are happy to receive all cookies on this website.</phrase>
+
+<!-- Added by SAQ -->
+  <!-- Abdullah Custom added sentences/words -->
+  <phrase section="Meta" data="WHAT_YOU_NEED">Tell us what you need.</phrase>
+  <phrase section="Meta" data="WHAT_YOU_NEED_DESC">Contact skilled freelancers within minutes. View profiles, ratings, portfolios and chat with them. Pay the freelancer only when you are 100% satsified with their work.</phrase>
+  <phrase section="Meta" data="ANY_NAME">e.g. any name</phrase>
+  <phrase section="Meta" data="UPLOAD_DESC">Upload any files that might be helpful in explaining your your brief here</phrase>
+  <phrase section="Meta" data="SKILLS_REQUIRED">What Skills are Required?</phrase>
+  <phrase section="Meta" data="SUGGESTED_SKILLS">Suggested skills: HTML, CSS, PHP</phrase>
+  <phrase section="Meta" data="SKILL_LEVEL">What skill level do you require from developers?</phrase>
+  <phrase section="Meta" data="JUNIOR">Junior</phrase>
+  <phrase section="Meta" data="MID">Mid</phrase>
+  <phrase section="Meta" data="SENIOR">Senior</phrase>
+  <phrase section="Meta" data="FIXED_PAY">Pay Fixed Price</phrase>
+  <phrase section="Meta" data="HOURLY_PAY">Pay by the Hour</phrase>
+  <phrase section="Meta" data="FIXED_PAY_DESC">Agree on a price and release payment when the job is done. Best for one-off tasks.</phrase>
+  <phrase section="Meta" data="HOURLY_PAY_DESC">Hire based on an hourly rate and pay for hours billed. Best for ongoing work.</phrase>
+  <phrase section="Meta" data="USD">USD</phrase>
+  <phrase section="Meta" data="TRY">TRY</phrase>
+  <phrase section="Meta" data="EUR">EUR</phrase>
+  <phrase section="Meta" data="STD_BUDGET">Standard(15.00 to 25.00 USD)</phrase>
+  <phrase section="Meta" data="ABV_STD_BUDGET">Above Standard(25.00 to 35.00 USD)</phrase>
+  <phrase section="Meta" data="MICRO_BUDGET">Micro(10.00 to 30.00 USD)</phrase>
+  <phrase section="Meta" data="SIMPLE_BUDGET">Simple(30.00 to 60.00 USD)</phrase>
+  <phrase section="Meta" data="CORRECT_DETAILS">Are these details correct?</phrase>
+  <phrase section="Meta" data="POST_PROJECT">Yes, post my project</phrase>
+  <phrase section="Meta" data="ADD_SKILLS">Add Skills</phrase>
+  <phrase section="Meta" data="AND">And</phrase>
+  <!-- Freelancer sign up page -->
+  <phrase section="Meta" data="CV">CV</phrase>
+  <phrase section="Meta" data="COVER_LETTER">Cover Letter</phrase>
+  <phrase section="Meta" data="CLICK_UPLOAD">(Click to Upload)</phrase>
+  <phrase section="Meta" data="SET_HOURLY_RATE">Set your minimal hourly rate</phrase>
+  <phrase section="Meta" data="MY_PROFILE">My Profile</phrase>
+  <phrase section="Meta" data="MORE_5_EXPERIENCE">More than 5 years experience</phrase>
+  <phrase section="Meta" data="LESS_5_EXPERIENCE">1 - 5 years experience</phrase>
+  <phrase section="Meta" data="LESS_1_EXPERIENCE">Less than 1 year experience</phrase>
+  <phrase section="Meta" data="BEGINNER">Beginner</phrase>
+  <phrase section="Meta" data="INTERMEDIATE">Intermediate</phrase>
+  <phrase section="Meta" data="ADVANCED">Advanced</phrase>
+  <phrase section="Meta" data="EXPERIENCE">Experience</phrase>
+  <phrase section="Meta" data="LANGUAGES">Languages</phrase>
+  <phrase section="Meta" data="ABOUT_ME">About Me</phrase>
+  <phrase section="Meta" data="SHORT_CV">Short CV</phrase>
+  <phrase section="Meta" data="REF_CHK">Reference Check</phrase>
+  <phrase section="Meta" data="HEADLINE">Headline</phrase>
+  <phrase section="Meta" data="ADM_ACCOUNT">Account</phrase>
+  <phrase section="Meta" data="ADM_SCHEDULE">Schedule</phrase>
+  <phrase section="Meta" data="ADM_NEWPRJ">New Project</phrase>
+  <phrase section="Meta" data="ADM_ORGMAN">Manage</phrase>
+  <!-- Post project page -->
+  <phrase section="Meta" data="CUSTOM_BUDGET">Custom Budget</phrase>
+  <phrase section="Meta" data="MINIMUM_ONE_SKILL">Minimum one skill needs to be selected</phrase>
+  <!-- Freelancer single project page -->
+  <phrase section="Meta" data="PROJECT_DESCRIPTION">Project Description</phrase>
+  <phrase section="Meta" data="PROJECT_BUDGET">Project BUDGET</phrase>
+  <phrase section="Meta" data="SKILLS_REQUIRED">Skills Required</phrase>
+  <phrase section="Meta" data="FREELANCERS_BIDDING">Freelancers Bidding</phrase>
+  <phrase section="Meta" data="BIDS_LEFT">Bids left:</phrase>
+  <phrase section="Meta" data="UNTIL_NEXT_BID">Until Next Bid:</phrase>
+  <phrase section="Meta" data="AVERAGE_SPEED">Average Speed:</phrase>
+  <phrase section="Meta" data="AVERAGE_BID">Average Bid:</phrase>
+  <phrase section="Meta" data="BID_ON_THIS">Bid on this job</phrase>
+  <phrase section="Meta" data="SET_BID_AMOUNT">Set your bid amount</phrase>
+  <phrase section="Meta" data="SET_DELIVERY_TIME">Set your delivery time</phrase>
+  <phrase section="Meta" data="PROPOSAL">Proposal</phrase>
+  <phrase section="Meta" data="ENTER_PROPOSAL">Enter your proposal</phrase>
+  <phrase section="Meta" data="MILESTONE">Milestone</phrase>
+  <phrase section="Meta" data="ADD_MILESTONE">Add a Milestone</phrase>
+  <phrase section="Meta" data="DESCRIBE_TASK">Describe your task</phrase>
+  <phrase section="Meta" data="PLACE_BID">Place your bid</phrase>
+  <phrase section="Meta" data="HEADLINE_EXAMPLE">e.g. Full Stack Developer</phrase>
+  <phrase section="Meta" data="SET_WEEKLY_HOURS">How many hours are you available in a week?</phrase>
+  <phrase section="Meta" data="CURRENT_EMPLOYMENT">What is your current employment type?</phrase>
+  <phrase section="Meta" data="EMPLOYMENT_TYPE">What are you looking for?</phrase>
+  <phrase section="Meta" data="PHONE_NUMBER_EXAMPLE">e.g. +905551234567</phrase>
+  <phrase section="Meta" data="PORTFOLIO_LINK">Portfolio Link</phrase>
+  <phrase section="Meta" data="PORTFOLIO_LINKS">Portfolio Links</phrase>
+  <phrase section="Meta" data="PORTFOLIO_LINKDESC">You can use multiple links seperated with comma </phrase>
+  <phrase section="Meta" data="FULLTIME">Full-Time</phrase>
+  <phrase section="Meta" data="FULLTIME_CONTRACT">Full-Time Contract</phrase>
+  <phrase section="Meta" data="FULLTIME_PERMANENT">Full-Time Permanent</phrase>
+  <phrase section="Meta" data="PARTTIME">Part-Time</phrase>
+  <phrase section="Meta" data="HOURLY">Hourly</phrase>
+  <phrase section="Meta" data="FREELANCER">Freelancer</phrase>
+  <phrase section="Meta" data="PERMANENT">Permanent</phrase>
+  <phrase section="Meta" data="NONE">None</phrase>
+  <phrase section="Meta" data="PORTFOLIO_LINK_EXAMPLE">e.g. http://www.example.com/UserName</phrase>
+
+
+<!-- Freelancer profile edit page -->
+  <phrase section="Meta" data="EDIT_HEADLINE">Edit Headline</phrase>
+  <phrase section="Meta" data="VERIFIED">Verified</phrase>
+  <phrase section="Meta" data="PREFERRED_FREELANCER">Preferred Freelancer</phrase>
+  <phrase section="Meta" data="ID_VERIFIED">Identity Verified</phrase>
+  <phrase section="Meta" data="PAYMENT_VERIFIED">Payment Verified</phrase>
+  <phrase section="Meta" data="PHONE_VERIFIED">Phone Number Verified</phrase>
+  <phrase section="Meta" data="EMAIL_VERIFIED">Email Address Verified</phrase>
+  <phrase section="Meta" data="FACEBOOK_CONNECTED">Facebook Connected</phrase>
+  <phrase section="Meta" data="EDIT_ABT_ME">Edit About Me</phrase>
+  <phrase section="Meta" data="PORTFOLIO_ITEMS">Portfolio Items</phrase>
+  <phrase section="Meta" data="ADD_PRT_ITEM">Add Portfolio Item</phrase>
+  <phrase section="Meta" data="EDIT_PRT_ITEMS">Edit Portfolio Items</phrase>
+  <phrase section="Meta" data="WORK_HISTORY">Work History and Feedback</phrase>
+   <phrase section="Meta" data="FEEDBACK">Feedback</phrase>
+  <phrase section="Meta" data="WORK_HISTORY">Work History</phrase>
+  <phrase section="Meta" data="PROJECT_HISTORY">Project History</phrase>
+  <phrase section="Meta" data="ADD_EXPERIENCE">Add Experience</phrase>
+  <phrase section="Meta" data="EDUCATION">Education</phrase>
+  <phrase section="Meta" data="ADD_EDUCATION">Add Education</phrase>
+  <phrase section="Meta" data="QUALIFICATION">Qualifications</phrase>
+  <phrase section="Meta" data="ADD_QUAL">Add Qualification</phrase>
+  <phrase section="Meta" data="PUBLICATION">Publications</phrase>
+  <phrase section="Meta" data="ADD_PUBL">Add Publication</phrase>
+  <phrase section="Meta" data="JOBS_DONE">Jobs Done</phrase>
+  <phrase section="Meta" data="REHIRED">Rehired</phrase>
+  <phrase section="Meta" data="SOCIAL_PROFILES">Social Profiles</phrase>
+  <phrase section="Meta" data="JOB_SUCCESS">Job Success</phrase>
+  <phrase section="Meta" data="RECOMMENDATION">Recommendation</phrase>
+  <phrase section="Meta" data="ON_TIME">On Time</phrase>
+  <phrase section="Meta" data="ON_BUDGET">On Budget</phrase>
+  <phrase section="Meta" data="CERTIFICATIONS">Certifications</phrase>
+  <phrase section="Meta" data="TOP_SKILLS">Top Skills</phrase>
+  <phrase section="Meta" data="CONTENT_TYPE">Content Type</phrase>
+  <phrase section="Meta" data="IMAGE">Image</phrase>
+  <phrase section="Meta" data="ARTICLE">Article</phrase>
+  <phrase section="Meta" data="CODE">Code</phrase>
+  <phrase section="Meta" data="AUDIO">Audio</phrase>
+  <phrase section="Meta" data="VIDEO">Video</phrase>
+  <phrase section="Meta" data="OTHERS">Others</phrase>
+  <phrase section="Meta" data="PRT_ITEM_DESC">Portfolio Item Description</phrase>
+  <phrase section="Meta" data="UNV_COLLEGE">University/College</phrase>
+  <phrase section="Meta" data="DEGREE">Degree</phrase>
+  <phrase section="Meta" data="PROF_CERT">Professional Certificate or Award</phrase>
+  <phrase section="Meta" data="CONF_ORG">Conferring Organization</phrase>
+  <phrase section="Meta" data="ISSUE_DATE">Issue Date</phrase>
+  <phrase section="Meta" data="PUBLISHER">Publisher</phrase>
+  <phrase section="Meta" data="CONTRACT">Contract</phrase>
+  <phrase section="Meta" data="LOOKING_FOR">Looking for</phrase>
+  <phrase section="Meta" data="WEEKLY_AVAIL">Weekly Available Hours</phrase>
+  <phrase section="Meta" data="AVAIL_HOURS">Available Hours</phrase>
+  <phrase section="Meta" data="AVAIL">Available</phrase>
+  <phrase section="Meta" data="AVAILABILITY">Availability</phrase>
+  <phrase section="Meta" data="EXP_LEVEL">Experience Level</phrase>
+    <phrase section="Meta" data="EXP_YEAR">Experience Years</phrase>
+  <phrase section="Meta" data="BKMRK_SHARE">Bookmark / Share</phrase>
+  <phrase section="Meta" data="MAKE_OFFER">Make an Offer</phrase>
+  <phrase section="Meta" data="ALLOWED_TYPES">Allowed file types: pdf, png, jpg</phrase>
+  <phrase section="Meta" data="MAX_SIZE">Max. files size: </phrase>
+  <phrase section="Meta" data="ADD_ATTACHMENT">Add Attachments</phrase>
+  <phrase section="Meta" data="FIRST_LAST_NAME">First and Last Name</phrase>
+  <phrase section="Meta" data="DISCUSS_WITH">Discuss your project with</phrase>
+
+
+
+
+
+
+
+  <phrase section="Meta" data="FORGOT_PASS">Forgot Password?</phrase>
+  <phrase section="Meta" data="LOGIN_WELCOME">We're glad to see you again!</phrase>
+  <phrase section="Meta" data="NO_HOTMAIL">Hotmail account is not allowed!</phrase>
+  <!-- by ilyas -->
+  <phrase section="Meta" data="PREFERRED_EMP">Preferred Employment</phrase>
+  <phrase section="Global" data="CLIENT_ONLY_ERR">Sorry only our client users can create a project.</phrase>
+  <phrase section="Meta" data="CURRENT_EMP">Current Employment</phrase>
+  <phrase section="Meta" data="WEEKLY_HOURS">Weekly Hours</phrase>
+  <phrase section="Link" data="FU_ERROR15">is not a valid URL.</phrase>
+  <phrase section="Link" data="VIEW_AS">View As</phrase>
+  <phrase section="Link" data="PROMOTION_CODE">Promotion Code</phrase>
+  <phrase section="Link" data="OPTIONAL">Optional</phrase>
+  <phrase section="Global" data="DAILY">Daily</phrase>
+  <phrase section="Global" data="MONTHLY">Monthly</phrase>
+  <phrase section="Global" data="HOURLY">Hourly</phrase>
+  <phrase section="Global" data="ACCEPTED">Accepted</phrase>
+  <phrase section="Global" data="DECLINED">Declined</phrase>
+  <phrase section="Global" data="FREELANCERS">Freelancers</phrase>
+  <phrase section="Global" data="RESEND_EMAIL">Resend Email</phrase>
+  <phrase section="Global" data="INV_MILESTONE">Invalid milestone task or price!</phrase>
+  <phrase section="Global" data="MILESTONE_PRICE_ERR">Milestones total price should be equal to bid amount.</phrase>
+  <phrase section="Global" data="MILESTONE_PRICE_ERR1">Milestone prices should be bigger than 0.</phrase>
+  <phrase section="Global" data="BID_SUCCESS">You have successfully placed a bid.</phrase>
+  <phrase section="Global" data="BID_UPDATED">You have successfully updated your bid.</phrase>
+  <phrase section="Global" data="BID_ACCEPTED">You have successfully approved bid for your project.</phrase>
+  <phrase section="Global" data="PROP_MILESTONES">Proposed Milestones</phrase>
+  <phrase section="Global" data="PAYMENT">Payment</phrase>
+  <phrase section="Global" data="BY_PAYMENT">By Payment</phrase>
+  <phrase section="Global" data="EDIT_BID">Edit Bid</phrase>
+  <phrase section="Global" data="INV_BID_ID">Invalid bid ID.</phrase>
+  <phrase section="Global" data="CANCEL_BID">Cancel Bid</phrase>
+  <phrase section="Global" data="TOTAL_BIDS">Total Bids</phrase>
+  <phrase section="Global" data="BIDS_COUNT">Bids Count</phrase>
+  <phrase section="Global" data="BIDS_LIST">Bids List</phrase>
+  <phrase section="Global" data="PROJECT_BIDS">Project Bids</phrase>
+  <phrase section="Files" data="BIDS_INFO">There are no bids on this project at the moment. When a freelancers place bid - it'll show up here.</phrase>
+  <phrase section="Files" data="FREELANCER_BIDS_INFO">You haven't placed any bids yet. When you place a bid on projects - it'll show up here.</phrase>
+  <phrase section="Files" data="FREELANCER_ACC_BIDS_INFO">You don't have any approved bids yet. When the client approves your bid - it'll show up here.</phrase>
+  <phrase section="Files" data="FREELANCER_DEC_BIDS_INFO">You don't have any declined bids yet. When the client declines your bid - it'll show up here.</phrase>
+  <phrase section="Files" data="FREELANCER_PRJ_INFO">You haven't been assigned to any projects yet.</phrase>
+  <phrase section="Files" data="CLIENT_PRJ_INFO">Currently there are no projects. When you start a new project - it'll show up here.</phrase>
+  <phrase section="Global" data="PROJECT_TITLE">Project Title</phrase>
+  <phrase section="Global" data="AVERAGE">Average</phrase>
+  <phrase section="Global" data="UP_BID">Update Bid</phrase>
+  <phrase section="Projects" data="BID_DEL_OK">Bid on project "[NAME]" deleted successfully.</phrase>
+  <phrase section="Projects" data="PRJ_ADD_ERR1">In order to create a project, Please go ahead and register.</phrase>
+<!-- Remotify Form -->
+  <phrase section="Meta" data="FORM_START">Remotify Form</phrase>
+  <phrase section="Meta" data="REMO_TITLE">Remotify Assigned Title</phrase>
+  <phrase section="Meta" data="PROJECT_BASED">Project Based</phrase>
+  <phrase section="Meta" data="NO_DEVS">No. of Developers Needed</phrase>
+  <phrase section="Meta" data="WORK_TYPE">Work Type</phrase>
+  <phrase section="Meta" data="NEEDED">Needed</phrase>
+  <phrase section="Meta" data="DEVS">DEVs</phrase>
+  <phrase section="Meta" data="DEV">DEV</phrase>
+  <phrase section="Meta" data="UNCERTAIN">Uncertain</phrase>
+  <phrase section="Meta" data="ONE">One</phrase>
+  <phrase section="Meta" data="MORE_ONE">More than one</phrase>
+  <phrase section="Meta" data="DONT_KNOW">I don't Know</phrase>
+  <phrase section="Meta" data="START_TIME">Start Time</phrase>
+  <phrase section="Meta" data="START_TIME_EX">Now, in 1 week time ...</phrase>
+  <phrase section="Meta" data="BUDGET_EX">You can write your project budget or the budget range you reserved for the monthly developer.</phrase>
+  <phrase section="Meta" data="SKILLS_EX">You can write the technologies and the features you are looking for. E.g .: Prone to teamwork, react.js ...</phrase>
+
+<!-- Client Sign up Page -->
+  <phrase section="Meta" data="CLIENT_SIGNUP">Client Sign Up</phrase>
+  <phrase section="Meta" data="JOB_TITLE">Job Title</phrase>
+  <phrase section="Meta" data="PRO_TYPE">Project Type</phrase>
+  <phrase section="Meta" data="JOB_T_EXAMPLE">e.g. Project Manager</phrase>
+  <phrase section="Meta" data="BILLING_INFO">Billing Information</phrase>
+  <phrase section="Meta" data="TAX_INST">Tax Institution</phrase>
+  <phrase section="Meta" data="TAX_ID">Tax ID</phrase>
+  <phrase section="Meta" data="NEWSLETTER">Newsletter</phrase>
+  <phrase section="Meta" data="CMP_WEB">Company Website</phrase>
+  <phrase section="Meta" data="CMP_LINKEDIN">Company LinkedIn</phrase>
+  <phrase section="Meta" data="CMP_DESC">Company Description</phrase>
+  <phrase section="Meta" data="CLIENT_LOOKING">Which technologies and profiles you are looking for</phrase>
+<!-- Client Profile Public -->
+  <phrase section="Meta" data="CLIENT_HEAD_EXAMPLE">e.g. Project Manager</phrase>
+  <phrase section="Meta" data="CLIENT_SKILLS">Skills looking for</phrase>
+  <!-- SAQ - Page Title -->
+  <phrase section="Meta" data="FREELANCER_SEARCH_PROJECT">Freelancer Search Project</phrase>
+  <phrase section="Meta" data="FREELANCER_SEARCH">Freelancer Search</phrase>
+  <phrase section="Meta" data="FREELANCER_SIGNUP">Freelancer Sign Up</phrase>
+
+<!-- NOMAN CHANGES -->
+<!-- Freelancer Dashboard -->
+  <phrase section="freelancer_dashboard" data="RECENT_PROJECT">Recent Project</phrase>
+  <phrase section="freelancer_dashboard" data="POST_PROJECT">Post a Project</phrase>
+  <phrase section="freelancer_dashboard" data="BROWSE_PROJECTS">Browse Projects</phrase>
+  <phrase section="freelancer_dashboard" data="CONTEST_T">Contest Title</phrase>
+  <phrase section="freelancer_dashboard" data="BIDS">Bids</phrase>
+  <phrase section="freelancer_dashboard" data="AVERAGE_BIDS">Average Bids</phrase>
+  <phrase section="freelancer_dashboard" data="CLOSE_BIDS">Close Bids</phrase>
+  <phrase section="freelancer_dashboard" data="ENTRIES">Entries</phrase>
+  <phrase section="freelancer_dashboard" data="VIEW_ALL">View All</phrase>
+  <phrase section="freelancer_dashboard" data="DASH_INFO_1">start bidding now on projects that meet your skills</phrase>
+  <phrase section="freelancer_dashboard" data="DASH_INFO_2">Millions of amazing freelancers are waiting to turn your dream into reality</phrase>
+  <phrase section="freelancer_dashboard" data="DASH_INFO_3">Place more bids to win more projects</phrase>
+  <phrase section="freelancer_dashboard" data="GET_WEBSITE_BUILT">Get a website built</phrase>
+  <phrase section="freelancer_dashboard" data="GET_DESIGN">Get a design</phrase>
+  <phrase section="freelancer_dashboard" data="GET_DATA_ENT_DONE">Get data entry done</phrase>
+  <phrase section="freelancer_dashboard" data="GET_SERVICES_DONE">Get data services done</phrase>
+  <phrase section="freelancer_dashboard" data="NEWs_FEED">News Feed</phrase>
+  <phrase section="freelancer_dashboard" data="VIEW_PROJECT">View Project</phrase>
+  <phrase section="freelancer_dashboard" data="SET_ACC_DETAILS">Set up account details</phrase>
+  <phrase section="freelancer_dashboard" data="FR">Freelancer</phrase>
+  <phrase section="client_dashboard" data="CL">Client</phrase>
+  <phrase section="client_dashboard" data="BID_PROJECT">Bid on a project</phrase>
+  <phrase section="client_dashboard" data="BIDS_SUMMARY">Bids Summary</phrase>
+  <phrase section="client_dashboard" data="REMAINING">Remaining</phrase>
+  <phrase section="client_dashboard" data="BID_U">Until Next Bid</phrase>
+  <phrase section="client_dashboard" data="REP_RATE">Replenishment Rate</phrase>
+  <phrase section="client_dashboard" data="WELCOME_BACK">Welcome Back</phrase>
+  <phrase section="client_dashboard" data="ACC_SET">Set your account</phrase>
+  <phrase section="client_dashboard" data="ACC_BALANCE">Account Balance</phrase>
+  <phrase section="client_dashboard" data="DEPOSIT_FUNDS">Deposit Funds</phrase>
+  <phrase section="settings_page" data="ST_PAGE_SENT_1">I want to Browse the website in: </phrase>
+  <phrase section="settings_page" data="ST_PAGE_SENT_2">I want to browse the project in following languages: </phrase>
+  <phrase section="settings_page" data="ST_PAGE_SCT_PH">Security Phone Number</phrase>
+  <phrase section="settings_page" data="ST_PAGE_SENT_3">provide a number and a country to use as verification of your account </phrase>
+  <phrase section="settings_page" data="ST_PAGE_SET_SCT_PH">Set up Security Number</phrase>
+  <phrase section="manage_projects" data="MNG_PRJT">Manage Projects</phrase>
+  <phrase section="manage_bidders" data="MNG_BDRS">Manage Bidders</phrase>
+  <phrase section="files_and_tasks" data="FT_SIZE">Size</phrase>
+  <phrase section="files_and_tasks" data="FT_MODIFIED">Modified</phrase>
+  <phrase section="files_and_tasks" data="FT_CRT_TASK">Create New Task</phrase>
+  <phrase section="files_and_tasks" data="FT_TODO">To do</phrase>
+  <phrase section="Global" data="MILESTONES">Milestones</phrase>
+  <phrase section="Global" data="BID_AMOUNT">Bid Amount</phrase>
+  <phrase section="Global" data="EMPLOYER">Employer</phrase>
+  <phrase section="Global" data="DEADLINE">Deadline</phrase>
+  <phrase section="Global" data="LOCATION">Location</phrase>
+  <phrase section="Global" data="PROVINCE">Province</phrase>
+  <phrase section="Global" data="ABOUT_ME">About Me</phrase>
+  <phrase section="Global" data="PRT_ITMS">Portfolio Items</phrase>
+  <phrase section="Global" data="PRT_ITM_DES">Portfolio Item Description</phrase>
+  <phrase section="Global" data="WRK_HSTRY">Work History and Feedback</phrase>
+  <phrase section="Global" data="EXPERIENCE">Experience</phrase>
+  <phrase section="Global" data="ADD_EXPERIENCE">Add Experience</phrase>
+  <phrase section="Global" data="EDUCATION">Education</phrase>
+  <phrase section="Global" data="ADD_EDUCATION">Add Education</phrase>
+  <phrase section="Global" data="QLFCTN">Qualifications</phrase>
+  <phrase section="Global" data="ADD_QLFCTN">Add Qualification</phrase>
+  <phrase section="Global" data="PBLCTION">Publications</phrase>
+  <phrase section="Global" data="ADD_PBLCTION">Add Publication</phrase>
+  <phrase section="Global" data="MK_OFFER">Make an Offer</phrase>
+  <phrase section="Global" data="RCMNDTION">Recommendation</phrase>
+  <phrase section="Global" data="ON_TIME">On Time</phrase>
+  <phrase section="Global" data="ON_BUDGET">On Budget</phrase>
+  <phrase section="Global" data="CRTFCTION">Cerfications</phrase>
+  <phrase section="Global" data="TP_SKILLS">Top Skills</phrase>
+  <phrase section="Global" data="SCL_PRFL">Social Profiles</phrase>
+  <phrase section="Global" data="SKILLS">Skills</phrase>
+  <phrase section="Global" data="CONF_SKILLS">Confirmed Skills</phrase>
+  <phrase section="Global" data="BKMK_SHRE">Bookmark or share</phrase>
+  <phrase section="Global" data="INTERESTING">Interesting?</phrase>
+  <phrase section="Global" data="SHARE">Share It!</phrase>
+  <phrase section="Global" data="ARTICLE">Article</phrase>
+  <phrase section="Global" data="CODE">Code</phrase>
+  <phrase section="Global" data="VIDEO">Video</phrase>
+  <phrase section="Global" data="AUDIO">Audio</phrase>
+  <phrase section="Global" data="OTHRS">OTHERS</phrase>
+  <phrase section="Global" data="CNT_TYPE">Content Type</phrase>
+  <phrase section="Freelancer_Edit" data="EDT_HDLINE">Edit Headline</phrase>
+  <phrase section="Freelancer_Edit" data="EDT_HDLINE_TITLE">Edit Professional Headline</phrase>
+  <phrase section="Freelancer_Edit" data="ADD_PRT_ITM">Add Portfolio Item</phrase>
+  <phrase section="Freelancer_Edit" data="EDT_PRT_ITMS">Edit Portfolio Item</phrase>
+  <phrase section="Freelancer_Edit" data="PRT_ITM_DES">Portfolio Item Description</phrase>
+  <phrase section="Freelancer_Edit" data="MNG_PRT_ITMS">Manage Portfolio Items</phrase>
+  <phrase section="Freelancer_Edit" data="PRF_HDLINE">Professional Headline</phrase>
+  <phrase section="Freelancer_Edit" data="EDT_BID">Edit Bid</phrase>
+  <phrase section="Freelancer_Edit" data="EDT_BID_DES">Enter your about me description</phrase>
+  <phrase section="Freelancer_Edit" data="ENTR_TITLE">Enter Title</phrase>
+
+  <!-- NOMAN CHANGES -->
+<!-- Freelancer Dashboard -->
+  <phrase section="freelancer_dashboard" data="RECENT_PROJECT">Recent Project</phrase>
+  <phrase section="freelancer_dashboard" data="POST_PROJECT">Post a Project</phrase>
+  <phrase section="freelancer_dashboard" data="BROWSE_PROJECTS">Browse Projects</phrase>
+  <phrase section="freelancer_dashboard" data="CONTEST_T">Contest Title</phrase>
+  <phrase section="freelancer_dashboard" data="BIDS">Bids</phrase>
+  <phrase section="freelancer_dashboard" data="AVERAGE_BIDS">Average Bids</phrase>
+  <phrase section="freelancer_dashboard" data="CLOSE_BIDS">Close Bids</phrase>
+  <phrase section="freelancer_dashboard" data="ENTRIES">Entries</phrase>
+  <phrase section="freelancer_dashboard" data="VIEW_ALL">View All</phrase>
+  <phrase section="freelancer_dashboard" data="DASH_INFO_1">start bidding now on projects that meet your skills</phrase>
+  <phrase section="freelancer_dashboard" data="DASH_INFO_2">Millions of amazing freelancers are waiting to turn your dream into reality</phrase>
+  <phrase section="freelancer_dashboard" data="DASH_INFO_3">Place more bids to win more projects</phrase>
+  <phrase section="freelancer_dashboard" data="GET_WEBSITE_BUILT">Get a website built</phrase>
+  <phrase section="freelancer_dashboard" data="GET_DESIGN">Get a design</phrase>
+  <phrase section="freelancer_dashboard" data="GET_DATA_ENT_DONE">Get data entry done</phrase>
+  <phrase section="freelancer_dashboard" data="GET_SERVICES_DONE">Get data services done</phrase>
+  <phrase section="freelancer_dashboard" data="NEWs_FEED">News Feed</phrase>
+  <phrase section="freelancer_dashboard" data="VIEW_PROJECT">View Project</phrase>
+  <phrase section="freelancer_dashboard" data="SET_ACC_DETAILS">Set up account details</phrase>
+  <phrase section="freelancer_dashboard" data="FR">Freelancer</phrase>
+  <phrase section="client_dashboard" data="CL">Client</phrase>
+  <phrase section="client_dashboard" data="BID_PROJECT">Bid on a project</phrase>
+  <phrase section="client_dashboard" data="BIDS_SUMMARY">Bids Summary</phrase>
+  <phrase section="client_dashboard" data="REMAINING">Remaining</phrase>
+  <phrase section="client_dashboard" data="BID_U">Until Next Bid</phrase>
+  <phrase section="client_dashboard" data="REP_RATE">Replenishment Rate</phrase>
+  <phrase section="client_dashboard" data="WELCOME_BACK">Welcome Back</phrase>
+  <phrase section="client_dashboard" data="ACC_SET">Set your account</phrase>
+  <phrase section="client_dashboard" data="ACC_BALANCE">Account Balance</phrase>
+  <phrase section="client_dashboard" data="DEPOSIT_FUNDS">Deposit Funds</phrase>
+  <phrase section="settings_page" data="SETTING_INFO_1">I want to Browse the website in: </phrase>
+  <phrase section="settings_page" data="SETTING_INFO_2">I want to browse the project in following languages: </phrase>
+  <phrase section="settings_page" data="SECURITY_PH">Security Phone Number</phrase>
+  <phrase section="settings_page" data="SETTING_INFO_3">provide a number and a country to use as verification of your account </phrase>
+  <phrase section="settings_page" data="SET_SECURITY_PH">Set up Security Number</phrase>
+  <phrase section="settings_page" data="PROVINCE">Province</phrase>
+  <phrase section="settings_page" data="LOCATION">Location</phrase>
+  <phrase section="settings_page" data="PROJECT_DETAILS">Project Details</phrase>
+  <phrase section="manage_projects" data="MANAGE_PROJECT">Manage Projects</phrase>
+  <phrase section="manage_bidders" data="MANAGE_BIDDERS">Manage Bidders</phrase>
+  <phrase section="manage_bidders" data="BIDDERS">Bidders</phrase>
+  <phrase section="manage_bidders" data="HIGHEST_FIRST">Highest First</phrase>
+  <phrase section="manage_bidders" data="LATEST_FIRST">Latest First</phrase>
+  <phrase section="manage_bidders" data="LOWEST_FIRST">Lowest First</phrase>
+  <phrase section="manage_bidders" data="FASTEST_FIRST">Fastest First</phrase>
+  <phrase section="manage_bidders" data="FIXED_PRICE">Fixed Price</phrase>
+  <phrase section="manage_bidders" data="DELIVERY_TIME">Delivery Time</phrase>
+  <phrase section="manage_bidders" data="READ_MORE">Read More</phrase>
+  <phrase section="manage_bidders" data="ACCEPT_OFFER">Accept Offer</phrase>
+  <phrase section="manage_bidders" data="SEND_MESSAGE">Send Message</phrase>
+  <phrase section="manage_bidders" data="PLAN_MEETING">Plan Meeting</phrase>
+  <phrase section="files_and_tasks" data="SIZE">Size</phrase>
+  <phrase section="files_and_tasks" data="MODIFIED">Modified</phrase>
+  <phrase section="files_and_tasks" data="CREATE_NEW_TASK">Create New Task</phrase>
+  <phrase section="files_and_tasks" data="TODO">To do</phrase>
+  <phrase section="files_and_tasks" data="SHARE"> Share</phrase>
+  <phrase section="global" data="WORK_TYPE">Work Type</phrase>
+  <phrase section="global" data="HOURLY_PRICE">Hourly Price</phrase>
+  <phrase section="global" data="OPERATION">Operation</phrase>
+</language>
